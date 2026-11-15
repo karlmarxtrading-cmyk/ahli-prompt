@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Foto konsep kopi hangat dengan cahaya samping dan meja kayu">
+<title>Foto konsep kopi hangat dengan cahaya samping dan meja kayu</title>
+<defs><filter id="grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+  <feColorMatrix type="saturate" values="0"/>
+  <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+  <feBlend in2="SourceGraphic" mode="multiply"/>
+</filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<filter id="soft2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="soft3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2a1c13"/><stop offset="0.6" stop-color="#4a3222"/><stop offset="1" stop-color="#7a5434"/></linearGradient>
+<radialGradient id="win" cx="1" cy="0.3" r="0.9"><stop offset="0" stop-color="#ffd59a" stop-opacity="0.75"/><stop offset="1" stop-color="#ffd59a" stop-opacity="0"/></radialGradient>
+<linearGradient id="wood" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a5a35"/><stop offset="1" stop-color="#4b2f1b"/></linearGradient>
+<linearGradient id="cup" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b9ada0"/><stop offset="0.45" stop-color="#efe7dc"/><stop offset="0.8" stop-color="#fff8ee"/><stop offset="1" stop-color="#d8cbbb"/></linearGradient>
+<radialGradient id="crema" cx="0.6" cy="0.4" r="0.7"><stop offset="0" stop-color="#d9a26a"/><stop offset="0.7" stop-color="#8b5a33"/><stop offset="1" stop-color="#4e2f18"/></radialGradient></defs>
+<g>
+<rect width="800" height="800" fill="url(#bg)"/>
+<rect width="800" height="800" fill="url(#win)"/>
+<g opacity="0.5" filter="url(#soft)"><circle cx="160" cy="180" r="40" fill="#ffcf8a" opacity="0.5"/><circle cx="260" cy="120" r="26" fill="#ffcf8a" opacity="0.4"/><circle cx="90" cy="300" r="22" fill="#ffcf8a" opacity="0.3"/></g>
+<rect y="500" width="800" height="300" fill="url(#wood)"/>
+<g stroke="#2e1b0f" opacity="0.35" fill="none" stroke-width="2"><path d="M0 560 C200 552 420 572 800 556"/><path d="M0 630 C260 640 480 616 800 636"/><path d="M0 720 C220 712 520 734 800 716"/></g>
+<rect y="500" width="800" height="3" fill="#c79566" opacity="0.6"/>
+<!-- saucer -->
+<ellipse cx="400" cy="590" rx="230" ry="52" fill="#1c120b" opacity="0.5" filter="url(#soft2)" transform="translate(-30 10)"/>
+<ellipse cx="400" cy="572" rx="220" ry="48" fill="#e5dbcf"/>
+<ellipse cx="400" cy="566" rx="200" ry="40" fill="#f6efe5"/>
+<!-- cup -->
+<g transform="translate(400 470)">
+ <path d="M-130 -60 L130 -60 L116 70 Q108 96 80 96 L-80 96 Q-108 96 -116 70Z" fill="url(#cup)"/>
+ <path d="M126 -30 q78 -4 70 58 q-6 44 -76 40" fill="none" stroke="#e8ddd0" stroke-width="18"/>
+ <ellipse cx="0" cy="-60" rx="130" ry="22" fill="#fbf5ec"/>
+ <ellipse cx="0" cy="-56" rx="114" ry="16" fill="url(#crema)"/>
+ <path d="M-30 -58 q30 -12 60 0 q-30 10 -60 0z" fill="#f0d2a8" opacity="0.8"/>
+ <rect x="80" y="-50" width="14" height="130" rx="7" fill="#fff" opacity="0.55"/>
+</g>
+<!-- steam -->
+<g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity="0.22" filter="url(#soft2)">
+ <path d="M370 380 C340 330 400 300 370 240"/><path d="M430 370 C460 320 400 290 440 220"/>
+</g>
+<!-- beans -->
+<g fill="#3a2314"><ellipse cx="170" cy="640" rx="18" ry="12" transform="rotate(-20 170 640)"/><ellipse cx="205" cy="662" rx="17" ry="11" transform="rotate(30 205 662)"/><ellipse cx="640" cy="660" rx="17" ry="11" transform="rotate(10 640 660)"/></g>
+<g stroke="#1d1109" stroke-width="2"><path d="M158 636 l24 8"/><path d="M196 656 l18 12"/><path d="M628 656 l24 6"/></g></g>
+<rect width="800" height="800" filter="url(#grain)" opacity="0.3"/>
+</svg>

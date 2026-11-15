@@ -1,0 +1,1067 @@
+{
+ "profile": "preview",
+ "fixture": false,
+ "quick": false,
+ "method": "Chromium bernavigasi ke server HTTP loopback yang melayani berkas distribusi apa adanya, dengan header keamanan aktif. Bukan set_content, bukan aset ditanamkan.",
+ "environment": {
+  "browser": "Chromium 153.0.8010.12",
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+  "mode": "headless",
+  "os": "Linux (kontainer)",
+  "server": "pratinjau_lokal.py (Range/206, 404.html, MIME eksplisit, header keamanan)"
+ },
+ "limits": [
+  "Viewport ponsel/tablet = emulasi pada Chromium desktop, bukan perangkat fisik.",
+  "Safari/iOS, Chrome Android nyata, dan Firefox tidak diuji (browser tidak dapat dipasang di lingkungan ini).",
+  "Pembaca layar tidak dijalankan.",
+  "Server loopback, bukan hosting produksi; angka performa adalah pengukuran lab."
+ ],
+ "site_tree_sha256": "a7bf5a7dd8160bdfa4bd3ee8c51bf2a6ad3f23707eaf5e8776e49c592bc90002",
+ "counts": {
+  "PASS": 50,
+  "FAIL": 0,
+  "ERROR": 0
+ },
+ "results": [
+  {
+   "test": "[preview] Semua CTA daftar mengarah ke tujuan profil dan dapat diikuti",
+   "criteria": "A10 A11",
+   "status": "PASS",
+   "detail": {
+    "cta": 7,
+    "href": "daftar.html",
+    "daftar": {
+     "closed": true,
+     "open": false,
+     "text": "Pendaftaran akun belum dibuka di website ini.",
+     "forms": 0,
+     "robots": "noindex, follow"
+    }
+   },
+   "seconds": 1.6
+  },
+  {
+   "test": "[preview] Halaman akses dan status di homepage sesuai profil (390x844)",
+   "criteria": "A10 A11",
+   "status": "PASS",
+   "detail": {
+    "note": "Akses akun segera hadir. Lihat status pendaftaran sebelum mulai.",
+    "robots": "noindex, follow",
+    "profile": "preview",
+    "canonical": null,
+    "closed": true,
+    "open": false,
+    "staging": false,
+    "login": false,
+    "dest": "index.html",
+    "forms": 0,
+    "sw": 390
+   },
+   "seconds": 1.3
+  },
+  {
+   "test": "[1440x900] Layar awal: Canon 01, hasil foto terlihat, tanpa scroll horizontal",
+   "criteria": "A01 A03 A13",
+   "status": "PASS",
+   "detail": {
+    "visibleFraction": 0.97,
+    "imageTop": 403,
+    "imageH": 510,
+    "currentSrc": "kosmetik-02-720.webp",
+    "h1Px": 52,
+    "leadPx": 18
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "[1440x900] Seluruh halaman: gambar, tanpa 4xx/console/CSP, media tidak dimuat sebelum Putar",
+   "criteria": "A08 A13",
+   "status": "PASS",
+   "detail": {
+    "images_visible": 36,
+    "requests": 44
+   },
+   "seconds": 3.3
+  },
+  {
+   "test": "[1280x800] Layar awal: Canon 01, hasil foto terlihat, tanpa scroll horizontal",
+   "criteria": "A01 A03 A13",
+   "status": "PASS",
+   "detail": {
+    "visibleFraction": 0.8,
+    "imageTop": 389,
+    "imageH": 512,
+    "currentSrc": "kosmetik-02-720.webp",
+    "h1Px": 48.96,
+    "leadPx": 17.92
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "[1280x800] Seluruh halaman: gambar, tanpa 4xx/console/CSP, media tidak dimuat sebelum Putar",
+   "criteria": "A08 A13",
+   "status": "PASS",
+   "detail": {
+    "images_visible": 36,
+    "requests": 44
+   },
+   "seconds": 2.8
+  },
+  {
+   "test": "[1024x768] Layar awal: Canon 01, hasil foto terlihat, tanpa scroll horizontal",
+   "criteria": "A01 A03 A13",
+   "status": "PASS",
+   "detail": {
+    "visibleFraction": 1,
+    "imageTop": 353,
+    "imageH": 402,
+    "currentSrc": "kosmetik-02-720.webp",
+    "h1Px": 43.328,
+    "leadPx": 17.408
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "[1024x768] Seluruh halaman: gambar, tanpa 4xx/console/CSP, media tidak dimuat sebelum Putar",
+   "criteria": "A08 A13",
+   "status": "PASS",
+   "detail": {
+    "images_visible": 36,
+    "requests": 44
+   },
+   "seconds": 2.7
+  },
+  {
+   "test": "[768x1024] Layar awal: Canon 01, hasil foto terlihat, tanpa scroll horizontal",
+   "criteria": "A01 A03 A13",
+   "status": "PASS",
+   "detail": {
+    "visibleFraction": 1,
+    "imageTop": 332,
+    "imageH": 559,
+    "currentSrc": "kosmetik-02-720.webp",
+    "h1Px": 37.696,
+    "leadPx": 16.896
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "[768x1024] Seluruh halaman: gambar, tanpa 4xx/console/CSP, media tidak dimuat sebelum Putar",
+   "criteria": "A08 A13",
+   "status": "PASS",
+   "detail": {
+    "images_visible": 36,
+    "requests": 37
+   },
+   "seconds": 3.3
+  },
+  {
+   "test": "[390x844] Layar awal: Canon 01, hasil foto terlihat, tanpa scroll horizontal",
+   "criteria": "A01 A03 A13",
+   "status": "PASS",
+   "detail": {
+    "visibleFraction": 1,
+    "imageTop": 375,
+    "imageH": 326,
+    "currentSrc": "kosmetik-02-360.webp",
+    "h1Px": 30.42,
+    "leadPx": 15
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "[390x844] Seluruh halaman: gambar, tanpa 4xx/console/CSP, media tidak dimuat sebelum Putar",
+   "criteria": "A08 A13",
+   "status": "PASS",
+   "detail": {
+    "images_visible": 36,
+    "requests": 37
+   },
+   "seconds": 4.3
+  },
+  {
+   "test": "[360x800] Layar awal: Canon 01, hasil foto terlihat, tanpa scroll horizontal",
+   "criteria": "A01 A03 A13",
+   "status": "PASS",
+   "detail": {
+    "visibleFraction": 1,
+    "imageTop": 395,
+    "imageH": 296,
+    "currentSrc": "kosmetik-02-360.webp",
+    "h1Px": 29.6,
+    "leadPx": 15
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "[360x800] Seluruh halaman: gambar, tanpa 4xx/console/CSP, media tidak dimuat sebelum Putar",
+   "criteria": "A08 A13",
+   "status": "PASS",
+   "detail": {
+    "images_visible": 36,
+    "requests": 37
+   },
+   "seconds": 4.1
+  },
+  {
+   "test": "[320x568] Layar awal: Canon 01, hasil foto terlihat, tanpa scroll horizontal",
+   "criteria": "A01 A03 A13",
+   "status": "PASS",
+   "detail": {
+    "visibleFraction": 0.55,
+    "imageTop": 428,
+    "imageH": 256,
+    "currentSrc": "kosmetik-02-360.webp",
+    "h1Px": 29.6,
+    "leadPx": 15
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "[320x568] Seluruh halaman: gambar, tanpa 4xx/console/CSP, media tidak dimuat sebelum Putar",
+   "criteria": "A08 A13",
+   "status": "PASS",
+   "detail": {
+    "images_visible": 36,
+    "requests": 37
+   },
+   "seconds": 5.7
+  },
+  {
+   "test": "[844x390] Layar awal: Canon 01, hasil foto terlihat, tanpa scroll horizontal",
+   "criteria": "A01 A03 A13",
+   "status": "PASS",
+   "detail": {
+    "visibleFraction": 0.33,
+    "imageTop": 284,
+    "imageH": 320,
+    "currentSrc": "kosmetik-02-720.webp",
+    "h1Px": 28,
+    "leadPx": 16
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "[844x390] Seluruh halaman: gambar, tanpa 4xx/console/CSP, media tidak dimuat sebelum Putar",
+   "criteria": "A08 A13",
+   "status": "PASS",
+   "detail": {
+    "images_visible": 36,
+    "requests": 44
+   },
+   "seconds": 5.0
+  },
+  {
+   "test": "[1440x900] Anchor internal: target benar, heading tidak tertutup header, video tetap diam",
+   "criteria": "A10",
+   "status": "PASS",
+   "detail": {
+    "pointer .hero-actions a[href=\"#arahan-foto\"]": 250,
+    "pointer .hero-side a.text-link[href=\"#hasil-video\"]": 183,
+    "pointer .cta-actions a[href=\"#hasil-video\"]": 183,
+    "pointer .footer-nav a[href=\"#fitur\"]": 250,
+    "pointer .footer-nav a[href=\"#pemula\"]": 250,
+    "pointer a.to-top": 130,
+    "keyboard .hero-actions a[href=\"#arahan-foto\"]": 250,
+    "keyboard .hero-side a.text-link[href=\"#hasil-video\"]": 183,
+    "keyboard .cta-actions a[href=\"#hasil-video\"]": 183,
+    "keyboard .footer-nav a[href=\"#fitur\"]": 250,
+    "keyboard .footer-nav a[href=\"#pemula\"]": 250,
+    "keyboard a.to-top": 130
+   },
+   "seconds": 30.5
+  },
+  {
+   "test": "[390x844] Anchor internal: target benar, heading tidak tertutup header, video tetap diam",
+   "criteria": "A10",
+   "status": "PASS",
+   "detail": {
+    "pointer .hero-actions a[href=\"#arahan-foto\"]": 197,
+    "pointer .hero-side a.text-link[href=\"#hasil-video\"]": 146,
+    "pointer .cta-actions a[href=\"#hasil-video\"]": 146,
+    "pointer .footer-nav a[href=\"#fitur\"]": 197,
+    "pointer .footer-nav a[href=\"#pemula\"]": 197,
+    "pointer a.to-top": 97,
+    "keyboard .hero-actions a[href=\"#arahan-foto\"]": 197,
+    "keyboard .hero-side a.text-link[href=\"#hasil-video\"]": 146,
+    "keyboard .cta-actions a[href=\"#hasil-video\"]": 146,
+    "keyboard .footer-nav a[href=\"#fitur\"]": 197,
+    "keyboard .footer-nav a[href=\"#pemula\"]": 197,
+    "keyboard a.to-top": 97
+   },
+   "seconds": 30.9
+  },
+  {
+   "test": "[1440x900] Navigasi header: lima tautan, penanda aktif mengikuti gulir, anchor #cara-kerja",
+   "criteria": "A10 A14",
+   "status": "PASS",
+   "detail": {
+    "Visual Brand": [
+     "#arahan-foto"
+    ],
+    "Konten Affiliate": [
+     "#hasil-video"
+    ],
+    "Manfaat": [
+     "#fitur"
+    ],
+    "Tanya Jawab": [
+     "#pemula"
+    ],
+    "Beranda": [
+     "#beranda"
+    ]
+   },
+   "seconds": 12.5
+  },
+  {
+   "test": "Video: tidak autoplay saat muat, gulir, pindah tab, dan muat ulang; tanpa permintaan media",
+   "criteria": "A08",
+   "status": "PASS",
+   "detail": {
+    "checkpoints": 5,
+    "media_requests": 0
+   },
+   "seconds": 9.4
+  },
+  {
+   "test": "Video 1: Putar, Jeda, seek, suara, keyboard, selesai tanpa loop, putar ulang, layar penuh",
+   "criteria": "A07 A08",
+   "status": "PASS",
+   "detail": {
+    "duration": 10,
+    "audioDecodedBytes": 20039,
+    "box": "300x534",
+    "seek": 5.5,
+    "ended": {
+     "ended": true,
+     "paused": true,
+     "t": 10,
+     "loop": false
+    },
+    "fullscreen": "ok",
+    "http": [
+     206
+    ]
+   },
+   "seconds": 6.9
+  },
+  {
+   "test": "Video 1: caption Indonesia dimuat, tersinkron, dan sama dengan teks narasi di halaman",
+   "criteria": "A18",
+   "status": "PASS",
+   "detail": {
+    "cues": 5,
+    "active_at_cue_2": "Layer di atas lipstikmu.",
+    "label": "Bahasa Indonesia"
+   },
+   "seconds": 1.6
+  },
+  {
+   "test": "Video 2: Putar, Jeda, seek, suara, keyboard, selesai tanpa loop, putar ulang, layar penuh",
+   "criteria": "A07 A08",
+   "status": "PASS",
+   "detail": {
+    "duration": 10,
+    "audioDecodedBytes": 20391,
+    "box": "245x436",
+    "seek": 5.5,
+    "ended": {
+     "ended": true,
+     "paused": true,
+     "t": 10,
+     "loop": false
+    },
+    "fullscreen": "ok",
+    "http": [
+     206
+    ]
+   },
+   "seconds": 6.6
+  },
+  {
+   "test": "Video 2: caption Indonesia dimuat, tersinkron, dan sama dengan teks narasi di halaman",
+   "criteria": "A18",
+   "status": "PASS",
+   "detail": {
+    "cues": 5,
+    "active_at_cue_2": "Coba yang ini.",
+    "label": "Bahasa Indonesia"
+   },
+   "seconds": 1.6
+  },
+  {
+   "test": "Video 3: Putar, Jeda, seek, suara, keyboard, selesai tanpa loop, putar ulang, layar penuh",
+   "criteria": "A07 A08",
+   "status": "PASS",
+   "detail": {
+    "duration": 10,
+    "audioDecodedBytes": 20041,
+    "box": "245x436",
+    "seek": 5.5,
+    "ended": {
+     "ended": true,
+     "paused": true,
+     "t": 10,
+     "loop": false
+    },
+    "fullscreen": "ok",
+    "http": [
+     206
+    ]
+   },
+   "seconds": 6.6
+  },
+  {
+   "test": "Video 3: caption Indonesia dimuat, tersinkron, dan sama dengan teks narasi di halaman",
+   "criteria": "A18",
+   "status": "PASS",
+   "detail": {
+    "cues": 5,
+    "active_at_cue_2": "Stop!",
+    "label": "Bahasa Indonesia"
+   },
+   "seconds": 1.7
+  },
+  {
+   "test": "Video 4: Putar, Jeda, seek, suara, keyboard, selesai tanpa loop, putar ulang, layar penuh",
+   "criteria": "A07 A08",
+   "status": "PASS",
+   "detail": {
+    "duration": 10,
+    "audioDecodedBytes": 20299,
+    "box": "245x436",
+    "seek": 5.5,
+    "ended": {
+     "ended": true,
+     "paused": true,
+     "t": 10,
+     "loop": false
+    },
+    "fullscreen": "ok",
+    "http": [
+     206
+    ]
+   },
+   "seconds": 6.7
+  },
+  {
+   "test": "Video 4: caption Indonesia dimuat, tersinkron, dan sama dengan teks narasi di halaman",
+   "criteria": "A18",
+   "status": "PASS",
+   "detail": {
+    "cues": 6,
+    "active_at_cue_2": "Tahan!",
+    "label": "Bahasa Indonesia"
+   },
+   "seconds": 1.5
+  },
+  {
+   "test": "Video: memutar satu video menjeda video lain",
+   "criteria": "A08",
+   "status": "PASS",
+   "detail": [
+    "video-1:jeda",
+    "video-4:jeda",
+    "video-2:putar",
+    "video-3:jeda"
+   ],
+   "seconds": 2.2
+  },
+  {
+   "test": "Video 1 gagal (404): pesan lokal, Coba putar lagi, tautan alternatif 206, pemulihan",
+   "criteria": "A08",
+   "status": "PASS",
+   "detail": {
+    "message": "Video belum dapat diputar. Coba lagi atau buka file videonya.",
+    "recovered_with_keyboard": true,
+    "fallback": {
+     "status": 206,
+     "type": "video/mp4",
+     "range": "bytes 0-99/2480926"
+    }
+   },
+   "seconds": 1.9
+  },
+  {
+   "test": "Video 2 gagal (offline): pesan lokal, Coba putar lagi, tautan alternatif 206, pemulihan",
+   "criteria": "A08",
+   "status": "PASS",
+   "detail": {
+    "message": "Video belum dapat diputar. Coba lagi atau buka file videonya.",
+    "recovered_with_keyboard": true,
+    "fallback": {
+     "status": 206,
+     "type": "video/mp4",
+     "range": "bytes 0-99/2427418"
+    }
+   },
+   "seconds": 1.9
+  },
+  {
+   "test": "Video 3 gagal (rusak): pesan lokal, Coba putar lagi, tautan alternatif 206, pemulihan",
+   "criteria": "A08",
+   "status": "PASS",
+   "detail": {
+    "message": "Video belum dapat diputar. Coba lagi atau buka file videonya.",
+    "recovered_with_keyboard": true,
+    "fallback": {
+     "status": 206,
+     "type": "video/mp4",
+     "range": "bytes 0-99/2469276"
+    }
+   },
+   "seconds": 1.8
+  },
+  {
+   "test": "Video 4 gagal (404): pesan lokal, Coba putar lagi, tautan alternatif 206, pemulihan",
+   "criteria": "A08",
+   "status": "PASS",
+   "detail": {
+    "message": "Video belum dapat diputar. Coba lagi atau buka file videonya.",
+    "recovered_with_keyboard": true,
+    "fallback": {
+     "status": 206,
+     "type": "video/mp4",
+     "range": "bytes 0-99/2451637"
+    }
+   },
+   "seconds": 1.9
+  },
+  {
+   "test": "[1440x900] Tanpa JavaScript: navigasi, hasil, FAQ, galeri, narasi, video native, CTA tetap berfungsi",
+   "criteria": "A14",
+   "status": "PASS",
+   "detail": {
+    "js": false,
+    "nav": true,
+    "toggle": false,
+    "hero": true,
+    "controls": true,
+    "retry": false,
+    "reveals": true,
+    "buttons": 0,
+    "sw": 1440,
+    "cw": 1440,
+    "video_native_playable": true,
+    "details_open": 3
+   },
+   "seconds": 2.9
+  },
+  {
+   "test": "[390x844] Tanpa JavaScript: navigasi, hasil, FAQ, galeri, narasi, video native, CTA tetap berfungsi",
+   "criteria": "A14",
+   "status": "PASS",
+   "detail": {
+    "js": false,
+    "nav": true,
+    "toggle": false,
+    "hero": true,
+    "controls": true,
+    "retry": false,
+    "reveals": true,
+    "buttons": 0,
+    "sw": 390,
+    "cw": 390,
+    "video_native_playable": true,
+    "details_open": 3
+   },
+   "seconds": 2.6
+  },
+  {
+   "test": "[390x844] main.js gagal dimuat: flag.js mencabut kelas js, navigasi cadangan tampil, tanpa tombol mati",
+   "criteria": "A14",
+   "status": "PASS",
+   "detail": {
+    "js": false,
+    "nav": true,
+    "toggle": false,
+    "buttons": 0,
+    "csp": []
+   },
+   "seconds": 0.7
+  },
+  {
+   "test": "Reduced motion: tanpa animasi berjalan, gulir langsung, video tetap dapat diputar manual",
+   "criteria": "A14",
+   "status": "PASS",
+   "detail": {
+    "scroll": "auto",
+    "reveals": true,
+    "running": 0,
+    "paused": true
+   },
+   "seconds": 1.2
+  },
+  {
+   "test": "[390x844] Menu mobile: buka, fokus tautan pertama, urutan Tab, Escape, klik luar, tujuan tiap tautan",
+   "criteria": "A14",
+   "status": "PASS",
+   "detail": {
+    "open": {
+     "exp": "true",
+     "label": "Tutup menu",
+     "focus": "Beranda",
+     "vis": "visible"
+    },
+    "tab_order": [
+     "Beranda",
+     "Visual Brand",
+     "Konten Affiliate",
+     "Manfaat",
+     "Tanya Jawab",
+     "Mulai dengan Jago Prompt"
+    ],
+    "escape": {
+     "exp": "false",
+     "focusIsToggle": true,
+     "vis": "hidden"
+    },
+    "outside_click_closes": true,
+    "destinations": {
+     "Visual Brand": 92,
+     "Konten Affiliate": 92,
+     "Manfaat": 92,
+     "Tanya Jawab": 92
+    }
+   },
+   "seconds": 15.3
+  },
+  {
+   "test": "[1440x900] Skip link dan urutan Tab: mengikuti urutan baca, fokus terlihat, siklus kembali ke awal",
+   "criteria": "A14",
+   "status": "PASS",
+   "detail": {
+    "stops": 48,
+    "unique": 40,
+    "skip_link": {
+     "text": "Lewati ke konten",
+     "visible": true
+    },
+    "after_skip": {
+     "hash": "#konten",
+     "active": "konten"
+    }
+   },
+   "seconds": 2.3
+  },
+  {
+   "test": "[390x844] FAQ dan disclosure galeri dengan keyboard; seluruh 31 gambar termuat setelah dibuka",
+   "criteria": "A06 A14",
+   "status": "PASS",
+   "detail": {
+    "faq": 4,
+    "galleries": {
+     "Lihat 9 visual lain dalam seri kosmetik": 9,
+     "Lihat 10 visual lain dalam seri kuliner": 10
+    },
+    "unique_source_images_loaded": 31
+   },
+   "seconds": 5.7
+  },
+  {
+   "test": "Kontras teks seluruh halaman dan ukuran target interaktif (1440 dan 390)",
+   "criteria": "A13",
+   "status": "PASS",
+   "detail": {
+    "1440x900": {
+     "text_nodes": 214,
+     "min_ratio": 4.81,
+     "targets": 39,
+     "min_target_h": 44,
+     "below_44": []
+    },
+    "390x844": {
+     "text_nodes": 208,
+     "min_ratio": 4.81,
+     "targets": 34,
+     "min_target_h": 44,
+     "below_44": []
+    }
+   },
+   "seconds": 1.6
+  },
+  {
+   "test": "Zoom 200%/400% dan teks 200%: tanpa scroll horizontal, CTA terjangkau",
+   "criteria": "A13",
+   "status": "PASS",
+   "detail": {
+    "1440x900 @200%": {
+     "scrollWidth": 720,
+     "clientWidth": 720,
+     "outside": [],
+     "clipped": [],
+     "cta_reachable": true
+    },
+    "1280x800 @200%": {
+     "scrollWidth": 640,
+     "clientWidth": 640,
+     "outside": [],
+     "clipped": [],
+     "cta_reachable": true
+    },
+    "1280x1024 @400% (reflow 320)": {
+     "scrollWidth": 320,
+     "clientWidth": 320,
+     "outside": [],
+     "clipped": [],
+     "cta_reachable": true
+    },
+    "390x844 teks 200%": {
+     "scrollWidth": 390,
+     "clientWidth": 390,
+     "outside": [],
+     "clipped": [],
+     "cta_reachable": true
+    },
+    "1280x800 teks 200%": {
+     "scrollWidth": 1280,
+     "clientWidth": 1280,
+     "outside": [],
+     "clipped": [],
+     "cta_reachable": true
+    }
+   },
+   "seconds": 5.9
+  },
+  {
+   "test": "Gambar gagal dimuat: alt tampil, ruang tetap, tanpa overflow",
+   "criteria": "A13",
+   "status": "PASS",
+   "detail": {
+    "h": 326,
+    "alt": 84,
+    "broken": true,
+    "sw": 390,
+    "cw": 390,
+    "h1": true
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "Font gagal dimuat: fallback terbaca, tanpa overflow",
+   "criteria": "A13",
+   "status": "PASS",
+   "detail": {
+    "scrollWidth": 390,
+    "visibleFraction": 1
+   },
+   "seconds": 0.8
+  },
+  {
+   "test": "Halaman 404: status 404 nyata, halaman khusus, tautan pulang berfungsi dari path bertingkat",
+   "criteria": "A10",
+   "status": "PASS",
+   "detail": {
+    "status": 404,
+    "h1": "Halaman ini belum ditemukan.",
+    "css": "32px",
+    "logo": 96,
+    "robots": "noindex, follow",
+    "csp": []
+   },
+   "seconds": 1.4
+  },
+  {
+   "test": "Keamanan: header terpasang, CSP efektif memblokir skrip sisipan, tanpa pelanggaran pada pemakaian normal",
+   "criteria": "A15",
+   "status": "PASS",
+   "detail": {
+    "headers": {
+     "Content-Security-Policy": "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; media-src 'self'; font-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'",
+     "X-Content-Type-Options": "nosniff",
+     "Referrer-Policy": "strict-origin-when-cross-origin",
+     "X-Frame-Options": "DENY"
+    },
+    "blocked": [
+     "script-src-elem inline",
+     "script-src-elem inline",
+     "script-src-elem https://cdn.jagoprompt.test/x.js",
+     "script-src-elem https://cdn.jagoprompt.test/x.js",
+     "img-src https://cdn.jagoprompt.test/p.png",
+     "img-src https://cdn.jagoprompt.test/p.png"
+    ]
+   },
+   "seconds": 1.2
+  },
+  {
+   "test": "Tangkapan layar tiap section (1440 dan 390) dari source final",
+   "criteria": "A04 A20",
+   "status": "PASS",
+   "detail": {
+    "screenshots": 20
+   },
+   "seconds": 10.8
+  },
+  {
+   "test": "Performa LAB melalui HTTP loopback: tanpa throttling dan dengan throttling jaringan + CPU",
+   "criteria": "A16",
+   "status": "PASS",
+   "detail": {
+    "1440x900 · tanpa throttling": {
+     "fcp_ms": 148,
+     "lcp": {
+      "t": 148,
+      "url": "kosmetik-02-720.webp",
+      "el": "IMG"
+     },
+     "cls": 0,
+     "dcl_ms": 99,
+     "load_ms": 123,
+     "initial_transfer_bytes": 609944,
+     "initial_requests": 20
+    },
+    "1440x900 · throttling 1,6 Mbps / RTT 150 ms / CPU 4x": {
+     "fcp_ms": 1736,
+     "lcp": {
+      "t": 1736,
+      "url": "kosmetik-02-720.webp",
+      "el": "IMG"
+     },
+     "cls": 0,
+     "dcl_ms": 1795,
+     "load_ms": 2615,
+     "initial_transfer_bytes": 496396,
+     "initial_requests": 18
+    },
+    "390x844 · tanpa throttling": {
+     "fcp_ms": 172,
+     "lcp": {
+      "t": 172,
+      "url": "kosmetik-02-360.webp",
+      "el": "IMG"
+     },
+     "cls": 0,
+     "dcl_ms": 140,
+     "load_ms": 164,
+     "initial_transfer_bytes": 471656,
+     "initial_requests": 18
+    },
+    "390x844 · throttling 1,6 Mbps / RTT 150 ms / CPU 4x": {
+     "fcp_ms": 1600,
+     "lcp": {
+      "t": 1600,
+      "url": "kosmetik-02-360.webp",
+      "el": "IMG"
+     },
+     "cls": 0,
+     "dcl_ms": 1678,
+     "load_ms": 2495,
+     "initial_transfer_bytes": 471656,
+     "initial_requests": 18
+    }
+   },
+   "seconds": 10.6
+  }
+ ],
+ "measurements": {
+  "hero": {
+   "1440x900": {
+    "title": 130,
+    "lead": 209,
+    "results": 360,
+    "actions": 527,
+    "summary": 601,
+    "imageTop": 403,
+    "imageH": 510,
+    "visibleFraction": 0.97,
+    "mosaicArea": 315141,
+    "summaryArea": 137413,
+    "currentSrc": "kosmetik-02-720.webp",
+    "loaded": true,
+    "h1Px": 52,
+    "leadPx": 18,
+    "h1": "Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+   },
+   "1280x800": {
+    "title": 126,
+    "lead": 196,
+    "results": 346,
+    "actions": 510,
+    "summary": 584,
+    "imageTop": 389,
+    "imageH": 512,
+    "visibleFraction": 0.8,
+    "mosaicArea": 317918,
+    "summaryArea": 138013,
+    "currentSrc": "kosmetik-02-720.webp",
+    "loaded": true,
+    "h1Px": 48.96,
+    "leadPx": 17.92,
+    "h1": "Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+   },
+   "1024x768": {
+    "title": 120,
+    "lead": 173,
+    "results": 310,
+    "actions": 467,
+    "summary": 599,
+    "imageTop": 353,
+    "imageH": 402,
+    "visibleFraction": 1,
+    "mosaicArea": 195737,
+    "summaryArea": 108378,
+    "currentSrc": "kosmetik-02-720.webp",
+    "loaded": true,
+    "h1Px": 43.328,
+    "leadPx": 17.408,
+    "h1": "Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+   },
+   "768x1024": {
+    "title": 101,
+    "lead": 198,
+    "results": 289,
+    "actions": 1115,
+    "summary": 1183,
+    "imageTop": 332,
+    "imageH": 559,
+    "visibleFraction": 1,
+    "mosaicArea": 376358,
+    "summaryArea": 191480,
+    "currentSrc": "kosmetik-02-720.webp",
+    "loaded": true,
+    "h1Px": 37.696,
+    "leadPx": 16.896,
+    "h1": "Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+   },
+   "390x844": {
+    "title": 97,
+    "lead": 209,
+    "results": 311,
+    "actions": 1102,
+    "summary": 1224,
+    "imageTop": 375,
+    "imageH": 326,
+    "visibleFraction": 1,
+    "mosaicArea": 147760,
+    "summaryArea": 98060,
+    "currentSrc": "kosmetik-02-360.webp",
+    "loaded": true,
+    "h1Px": 30.42,
+    "leadPx": 15,
+    "h1": "Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+   },
+   "360x800": {
+    "title": 97,
+    "lead": 207,
+    "results": 332,
+    "actions": 1081,
+    "summary": 1203,
+    "imageTop": 395,
+    "imageH": 296,
+    "visibleFraction": 1,
+    "mosaicArea": 121952,
+    "summaryArea": 96362,
+    "currentSrc": "kosmetik-02-360.webp",
+    "loaded": true,
+    "h1Px": 29.6,
+    "leadPx": 15,
+    "h1": "Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+   },
+   "320x568": {
+    "title": 97,
+    "lead": 239,
+    "results": 364,
+    "actions": 1080,
+    "summary": 1202,
+    "imageTop": 428,
+    "imageH": 256,
+    "visibleFraction": 0.55,
+    "mosaicArea": 91392,
+    "summaryArea": 89676,
+    "currentSrc": "kosmetik-02-360.webp",
+    "loaded": true,
+    "h1Px": 29.6,
+    "leadPx": 15,
+    "h1": "Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+   },
+   "844x390": {
+    "title": 73,
+    "lead": 145,
+    "results": 217,
+    "actions": 386,
+    "summary": 516,
+    "imageTop": 284,
+    "imageH": 320,
+    "visibleFraction": 0.33,
+    "mosaicArea": 124538,
+    "summaryArea": 102412,
+    "currentSrc": "kosmetik-02-720.webp",
+    "loaded": true,
+    "h1Px": 28,
+    "leadPx": 16,
+    "h1": "Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+   }
+  },
+  "contrast_targets": {
+   "1440x900": {
+    "text_nodes": 214,
+    "min_ratio": 4.81,
+    "targets": 39,
+    "min_target_h": 44,
+    "below_44": []
+   },
+   "390x844": {
+    "text_nodes": 208,
+    "min_ratio": 4.81,
+    "targets": 34,
+    "min_target_h": 44,
+    "below_44": []
+   }
+  },
+  "performance_lab": {
+   "1440x900 · tanpa throttling": {
+    "fcp_ms": 148,
+    "lcp": {
+     "t": 148,
+     "url": "kosmetik-02-720.webp",
+     "el": "IMG"
+    },
+    "cls": 0,
+    "dcl_ms": 99,
+    "load_ms": 123,
+    "initial_transfer_bytes": 609944,
+    "initial_requests": 20
+   },
+   "1440x900 · throttling 1,6 Mbps / RTT 150 ms / CPU 4x": {
+    "fcp_ms": 1736,
+    "lcp": {
+     "t": 1736,
+     "url": "kosmetik-02-720.webp",
+     "el": "IMG"
+    },
+    "cls": 0,
+    "dcl_ms": 1795,
+    "load_ms": 2615,
+    "initial_transfer_bytes": 496396,
+    "initial_requests": 18
+   },
+   "390x844 · tanpa throttling": {
+    "fcp_ms": 172,
+    "lcp": {
+     "t": 172,
+     "url": "kosmetik-02-360.webp",
+     "el": "IMG"
+    },
+    "cls": 0,
+    "dcl_ms": 140,
+    "load_ms": 164,
+    "initial_transfer_bytes": 471656,
+    "initial_requests": 18
+   },
+   "390x844 · throttling 1,6 Mbps / RTT 150 ms / CPU 4x": {
+    "fcp_ms": 1600,
+    "lcp": {
+     "t": 1600,
+     "url": "kosmetik-02-360.webp",
+     "el": "IMG"
+    },
+    "cls": 0,
+    "dcl_ms": 1678,
+    "load_ms": 2495,
+    "initial_transfer_bytes": 471656,
+    "initial_requests": 18
+   }
+  }
+ }
+}

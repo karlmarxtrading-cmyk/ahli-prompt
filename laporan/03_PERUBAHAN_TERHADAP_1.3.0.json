@@ -1,0 +1,409 @@
+{
+ "versi": "1.4.0",
+ "baseline": "JAGO_PROMPT_REKONSTRUKSI_SALES_1.3.0_20261115.zip",
+ "baseline_sha256": "517b588c342e6fabfeec3fe3fa499965288af88a2ed5c0ecb330c9320336f79a",
+ "ringkasan_website": {
+  "identik": 112,
+  "berubah": 5,
+  "baru": 5,
+  "dipindah_keluar": 29
+ },
+ "styles_css_investor_identik": true,
+ "berkas": [
+  {
+   "path": "00_MULAI_DI_SINI.md",
+   "status": "DIARSIPKAN/DIGANTI",
+   "ke": null,
+   "alasan": "Dokumen/hasil 1.3.0; lihat riwayat_1.3.0/ atau pengganti 1.4.0"
+  },
+  {
+   "path": "CHECKPOINT.json",
+   "status": "DIARSIPKAN/DIGANTI",
+   "ke": null,
+   "alasan": "Dokumen/hasil 1.3.0; lihat riwayat_1.3.0/ atau pengganti 1.4.0"
+  },
+  {
+   "path": "INVENTARIS_PAKET_FINAL.csv",
+   "status": "DIARSIPKAN/DIGANTI",
+   "ke": null,
+   "alasan": "Dokumen/hasil 1.3.0; lihat riwayat_1.3.0/ atau pengganti 1.4.0"
+  },
+  {
+   "path": "PACKAGE_VALIDATION.json",
+   "status": "DIARSIPKAN/DIGANTI",
+   "ke": null,
+   "alasan": "Dokumen/hasil 1.3.0; lihat riwayat_1.3.0/ atau pengganti 1.4.0"
+  },
+  {
+   "path": "README.md",
+   "status": "DIARSIPKAN/DIGANTI",
+   "ke": null,
+   "alasan": "Dokumen/hasil 1.3.0; lihat riwayat_1.3.0/ atau pengganti 1.4.0"
+  },
+  {
+   "path": "bukti/ASET_MANIFEST.json",
+   "status": "BERUBAH",
+   "alasan": "Versi, data caption per video; path lingkungan lama dihapus."
+  },
+  {
+   "path": "bukti/BERKAS_DIKELUARKAN_DARI_PUBLIK.json",
+   "status": "BARU",
+   "alasan": "Daftar 29 berkas yang dikeluarkan dari folder publik berikut hash dan lokasinya."
+  },
+  {
+   "path": "bukti/QA_ITERASI_PERTAMA.json",
+   "status": "DIARSIPKAN/DIGANTI",
+   "ke": null,
+   "alasan": "Dokumen/hasil 1.3.0; lihat riwayat_1.3.0/ atau pengganti 1.4.0"
+  },
+  {
+   "path": "dokumentasi_internal/panduan_account.html",
+   "status": "BERUBAH",
+   "alasan": "Rujukan gambar diarahkan ke dokumentasi_internal/assets/ (gambar itu dikeluarkan dari folder publik)."
+  },
+  {
+   "path": "konfigurasi/PANDUAN_KONFIGURASI.md",
+   "status": "BARU",
+   "alasan": "Panduan skema konfigurasi dan urutan kerja."
+  },
+  {
+   "path": "konfigurasi/hosting/_headers.contoh",
+   "status": "BARU",
+   "alasan": "Contoh header untuk hosting berformat _headers."
+  },
+  {
+   "path": "konfigurasi/hosting/header_keamanan.json",
+   "status": "BARU",
+   "alasan": "Sumber tunggal header keamanan."
+  },
+  {
+   "path": "konfigurasi/hosting/htaccess.contoh",
+   "status": "BARU",
+   "alasan": "Contoh Apache."
+  },
+  {
+   "path": "konfigurasi/hosting/nginx.contoh.conf",
+   "status": "BARU",
+   "alasan": "Contoh nginx."
+  },
+  {
+   "path": "konfigurasi/rilis.json",
+   "status": "BERUBAH",
+   "alasan": "Skema 1.4.0: gerbang berbukti, official_hosts, account_requires_login."
+  },
+  {
+   "path": "pratinjau_lokal.py",
+   "status": "BERUBAH",
+   "alasan": "404.html berstatus 404, MIME eksplisit (.vtt/.webp/.woff2), opsi header keamanan, fungsi make_server untuk QA."
+  },
+  {
+   "path": "qa/audio_segmentasi.py",
+   "status": "BARU",
+   "alasan": "Rekaman cara pewaktuan caption."
+  },
+  {
+   "path": "qa/audio_transkripsi.py",
+   "status": "BARU",
+   "alasan": "Rekaman cara transkripsi audio."
+  },
+  {
+   "path": "qa/browser_checks.py",
+   "status": "BERUBAH",
+   "alasan": "Navigasi HTTP nyata menggantikan set_content dengan aset ditanamkan; cakupan diperluas."
+  },
+  {
+   "path": "qa/check_static.py",
+   "status": "BERUBAH",
+   "alasan": "Profil preview/staging/production; pemeriksaan caption, CSP, folder publik, berkas tak terpakai."
+  },
+  {
+   "path": "qa/http_checks.py",
+   "status": "BERUBAH",
+   "alasan": "MIME, header keamanan, 404 khusus, penolakan path di luar folder publik."
+  },
+  {
+   "path": "qa/inline_preview.py",
+   "status": "DIARSIPKAN/DIGANTI",
+   "ke": null,
+   "alasan": "Dokumen/hasil 1.3.0; lihat riwayat_1.3.0/ atau pengganti 1.4.0"
+  },
+  {
+   "path": "qa/jalankan_semua.py",
+   "status": "BARU",
+   "alasan": "Runner seluruh QA; menulis ringkasan yang terikat hash source."
+  },
+  {
+   "path": "qa/test_rilis.py",
+   "status": "BARU",
+   "alasan": "38 uji sistem rilis, termasuk kasus negatif per gerbang."
+  },
+  {
+   "path": "qa/uji_mutasi.py",
+   "status": "BARU",
+   "alasan": "12 mutasi untuk membuktikan pemeriksaan dapat gagal."
+  },
+  {
+   "path": "qa/visual_compare.py",
+   "status": "BARU",
+   "alasan": "Perbandingan tampilan dengan 1.3.0."
+  },
+  {
+   "path": "tools/aktifkan_rilis.py",
+   "status": "BERUBAH",
+   "alasan": "Tidak lagi menulis ke website/; hanya meneruskan ke bangun_rilis.py."
+  },
+  {
+   "path": "tools/bangun_rilis.py",
+   "status": "BARU",
+   "alasan": "Build per profil ke dist/, dry-run bawaan, rollback."
+  },
+  {
+   "path": "tools/gate_rilis.py",
+   "status": "BERUBAH",
+   "alasan": "Memakai aturan bersama rilis_core; melaporkan tiga lingkup kesiapan dan kelayakan per profil."
+  },
+  {
+   "path": "tools/periksa_url.py",
+   "status": "BARU",
+   "alasan": "Bukti keterjangkauan URL dan host resmi."
+  },
+  {
+   "path": "tools/rilis_core.py",
+   "status": "BARU",
+   "alasan": "Aturan bersama untuk build dan gate."
+  },
+  {
+   "path": "tools/smoke_live.py",
+   "status": "BARU",
+   "alasan": "Smoke test hosting sesudah unggah."
+  },
+  {
+   "path": "website/404.html",
+   "status": "BERUBAH",
+   "alasan": "CSP meta, penanda profil/versi, js/flag.js; meta description diperbaiki (sebelumnya menyalin deskripsi halaman akses)."
+  },
+  {
+   "path": "website/assets/brand/favicon-512.png",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/brand/favicon-512.png",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/brand/logo-jago-prompt.png",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/brand/logo-jago-prompt.png",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/bag-editorial-480.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/bag-editorial-480.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/bag-editorial.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/bag-editorial.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/coffee-directed.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/coffee-directed.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/coffee-editorial-480.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/coffee-editorial-480.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/coffee-editorial.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/coffee-editorial.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/coffee-raw.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/coffee-raw.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/coffee-simple-480.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/coffee-simple-480.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/coffee-simple.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/coffee-simple.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/cosmetic-lipstick.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/cosmetic-lipstick.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/fashion-bag.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/fashion-bag.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/fashion-video-poster.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/fashion-video-poster.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/food-editorial-480.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/food-editorial-480.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/food-editorial.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/food-editorial.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/food-editorial.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/food-editorial.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/lifestyle-candle.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/lifestyle-candle.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/perfume-editorial-480.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/perfume-editorial-480.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/perfume-editorial.webp",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/perfume-editorial.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/perfume-hero.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/perfume-hero.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/product-watch.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/product-watch.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/serum-botanical.svg",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/images/serum-botanical.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/serum-editorial-480.webp",
+   "status": "DIPINDAH",
+   "ke": "dokumentasi_internal/assets/serum-editorial-480.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/serum-editorial.webp",
+   "status": "DIPINDAH",
+   "ke": "dokumentasi_internal/assets/serum-editorial.webp",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/story-1.svg",
+   "status": "DIPINDAH",
+   "ke": "dokumentasi_internal/assets/story-1.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/story-2.svg",
+   "status": "DIPINDAH",
+   "ke": "dokumentasi_internal/assets/story-2.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/story-3.svg",
+   "status": "DIPINDAH",
+   "ke": "dokumentasi_internal/assets/story-3.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/images/story-4.svg",
+   "status": "DIPINDAH",
+   "ke": "dokumentasi_internal/assets/story-4.svg",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/assets/media/affiliate-01.id.vtt",
+   "status": "BARU",
+   "alasan": "Caption WebVTT narasi video (transkripsi mesin)."
+  },
+  {
+   "path": "website/assets/media/affiliate-02.id.vtt",
+   "status": "BARU",
+   "alasan": "Caption WebVTT narasi video (transkripsi mesin)."
+  },
+  {
+   "path": "website/assets/media/affiliate-03.id.vtt",
+   "status": "BARU",
+   "alasan": "Caption WebVTT narasi video (transkripsi mesin)."
+  },
+  {
+   "path": "website/assets/media/affiliate-04.id.vtt",
+   "status": "BARU",
+   "alasan": "Caption WebVTT narasi video (transkripsi mesin)."
+  },
+  {
+   "path": "website/assets/video/fashion-example.mp4",
+   "status": "DIPINDAH",
+   "ke": "arsip/aset_tidak_dipakai/assets/video/fashion-example.mp4",
+   "alasan": "Tidak dirujuk halaman publik"
+  },
+  {
+   "path": "website/css/sales.css",
+   "status": "BERUBAH",
+   "alasan": "Gaya teks narasi; font cadangan bermetrik selaras (CLS desktop 0,14 → 0,00); target tautan footer 44 px."
+  },
+  {
+   "path": "website/daftar.html",
+   "status": "BERUBAH",
+   "alasan": "CSP meta, penanda profil/versi, js/flag.js; elemen tanda lingkungan uji (tersembunyi pada preview dan production)."
+  },
+  {
+   "path": "website/index.html",
+   "status": "BERUBAH",
+   "alasan": "Caption + teks narasi 4 video; kalimat petunjuk video; penafian narasi/merek; CSP meta; penanda profil dan versi; script inline dipindah ke js/flag.js; atribut onerror dihapus."
+  },
+  {
+   "path": "website/js/flag.js",
+   "status": "BARU",
+   "alasan": "Baru: menandai JS aktif sebelum render dan mencabutnya bila main.js gagal; menggantikan script inline agar CSP script-src self berlaku."
+  },
+  {
+   "path": "website/js/main.js",
+   "status": "BERUBAH",
+   "alasan": "Perbaikan bug: penanda navigasi aktif dihitung dari posisi section, bukan urutan tautan menu."
+  }
+ ],
+ "diff": {
+  "website/css/sales.css": "--- a/website/css/sales.css\n+++ b/website/css/sales.css\n@@ -1,2 +1,2 @@\n-/* Jago Prompt 1.3.0 — perubahan konten, bukan penggantian design system. */\n+/* Jago Prompt 1.3.0–1.4.0 — perubahan konten, bukan penggantian design system. */\n .sales-support { font-size: var(--fs-small); color: var(--ink-2); line-height: 1.65; margin-top: 12px; max-width: 48ch; }\n@@ -102 +102,14 @@\n .sales-page h1, .sales-page h2, .sales-page h3 { overflow-wrap: anywhere; }\n+/* 1.4.0 — teks narasi video (alternatif caption; tetap terbaca tanpa JS) */\n+.media-transcript { border-top: 1px solid var(--line); }\n+.media-transcript > summary { font-size: 14px; padding: 12px 2px; }\n+.media-transcript > p { font-size: 14px; line-height: 1.6; color: var(--ink-2); padding: 0 2px 12px; }\n+/* 1.4.0 — font cadangan bermetrik selaras: saat Plus Jakarta Sans belum selesai dimuat, teks cadangan menempati\n+   lebar dan tinggi yang hampir sama, sehingga judul hero tidak berpindah baris (CLS desktop 0,14 pada 1.3.0).\n+   Plus Jakarta Sans tetap font utama; tampilan akhir tidak berubah. Rasio dihitung dari metrik berkas font.\n+   unicode-range membatasi cadangan ini pada huruf Latin dasar, sehingga simbol (·, →, ©) tetap memakai font sistem seperti sebelumnya. */\n+@font-face { font-family: \"JP Fallback\"; font-weight: 100 600; src: local(\"Arial\"), local(\"Liberation Sans\"), local(\"Helvetica Neue\"), local(\"Roboto\"); size-adjust: 104.8%; ascent-override: 99%; descent-override: 21.2%; line-gap-override: 0%; unicode-range: U+0020-007E; }\n+@font-face { font-family: \"JP Fallback\"; font-weight: 601 900; src: local(\"Arial Bold\"), local(\"Liberation Sans Bold\"), local(\"Helvetica Neue Bold\"), local(\"Roboto Bold\"); size-adjust: 101%; ascent-override: 102.8%; descent-override: 22%; line-gap-override: 0%; unicode-range: U+0020-007E; }\n+:root { --font: \"Plus Jakarta Sans\", \"JP Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif; }\n+/* 1.4.0 — target sentuh tautan footer minimal 44px (sebelumnya 40px) */\n+.sales-page .footer-nav a { display: inline-flex; align-items: center; min-height: 44px; }\n",
+  "website/js/main.js": "--- a/website/js/main.js\n+++ b/website/js/main.js\n@@ -100,5 +100,9 @@\n     var threshold = (header ? header.offsetHeight : 0) + Math.min(window.innerHeight * 0.24, 200);\n+    /* Pilih section yang paling dekat di atas ambang berdasarkan POSISI halaman, bukan urutan tautan:\n+       urutan menu (Visual Brand sebelum Konten Affiliate) berbeda dari urutan section. */\n     var active = sections[0];\n+    var activeTop = -Infinity;\n     sections.forEach(function (item) {\n-      if (item.target.getBoundingClientRect().top <= threshold) active = item;\n+      var top = item.target.getBoundingClientRect().top;\n+      if (top <= threshold && top >= activeTop) { active = item; activeTop = top; }\n     });\n"
+ }
+}

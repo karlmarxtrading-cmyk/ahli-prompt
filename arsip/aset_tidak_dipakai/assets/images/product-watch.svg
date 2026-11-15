@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Foto konsep produk jam tangan di atas pedestal silinder">
+<title>Foto konsep produk jam tangan di atas pedestal silinder</title>
+<defs><filter id="grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+  <feColorMatrix type="saturate" values="0"/>
+  <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+  <feBlend in2="SourceGraphic" mode="multiply"/>
+</filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<filter id="soft2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="soft3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfd4cf"/><stop offset="1" stop-color="#a9b0a9"/></linearGradient>
+<radialGradient id="sp" cx="0.5" cy="0.45" r="0.5"><stop offset="0" stop-color="#fff" stop-opacity="0.6"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f4f2"/><stop offset="0.4" stop-color="#9a9d9b"/><stop offset="0.7" stop-color="#e3e4e2"/><stop offset="1" stop-color="#6f7270"/></linearGradient>
+<radialGradient id="dial" cx="0.4" cy="0.35" r="0.75"><stop offset="0" stop-color="#5f7563"/><stop offset="1" stop-color="#26332a"/></radialGradient>
+<linearGradient id="strap" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2d2a26"/><stop offset="0.5" stop-color="#4a4540"/><stop offset="1" stop-color="#23211e"/></linearGradient>
+<linearGradient id="cyl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d9dcd7"/><stop offset="0.5" stop-color="#f4f5f2"/><stop offset="1" stop-color="#b8bcb6"/></linearGradient></defs>
+<g>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<rect width="800" height="1000" fill="url(#sp)"/>
+<!-- cylinder pedestal -->
+<rect x="220" y="640" width="360" height="380" fill="url(#cyl)"/>
+<ellipse cx="400" cy="640" rx="180" ry="40" fill="#fafbf9"/>
+<g transform="translate(400 560)">
+ <ellipse cx="0" cy="80" rx="150" ry="24" fill="#4c534c" opacity="0.4" filter="url(#soft2)"/>
+ <path d="M-54 -380 L54 -380 L46 -130 L-46 -130Z" fill="url(#strap)"/>
+ <path d="M-54 60 L54 60 L60 100 Q0 120 -60 100Z" fill="url(#strap)"/>
+ <circle r="150" fill="url(#steel)"/>
+ <circle r="132" fill="#2b2f2c"/>
+ <circle r="126" fill="url(#dial)"/>
+ <rect x="-3" y="-118" width="6" height="18" rx="2" fill="#e9eee6" transform="rotate(0)"/><rect x="-3" y="-118" width="6" height="10" rx="2" fill="#e9eee6" transform="rotate(30)"/><rect x="-3" y="-118" width="6" height="10" rx="2" fill="#e9eee6" transform="rotate(60)"/><rect x="-3" y="-118" width="6" height="18" rx="2" fill="#e9eee6" transform="rotate(90)"/><rect x="-3" y="-118" width="6" height="10" rx="2" fill="#e9eee6" transform="rotate(120)"/><rect x="-3" y="-118" width="6" height="10" rx="2" fill="#e9eee6" transform="rotate(150)"/><rect x="-3" y="-118" width="6" height="18" rx="2" fill="#e9eee6" transform="rotate(180)"/><rect x="-3" y="-118" width="6" height="10" rx="2" fill="#e9eee6" transform="rotate(210)"/><rect x="-3" y="-118" width="6" height="10" rx="2" fill="#e9eee6" transform="rotate(240)"/><rect x="-3" y="-118" width="6" height="18" rx="2" fill="#e9eee6" transform="rotate(270)"/><rect x="-3" y="-118" width="6" height="10" rx="2" fill="#e9eee6" transform="rotate(300)"/><rect x="-3" y="-118" width="6" height="10" rx="2" fill="#e9eee6" transform="rotate(330)"/>
+ <rect x="-4" y="-90" width="8" height="96" rx="4" fill="#f3f1ea" transform="rotate(-50)"/>
+ <rect x="-3" y="-112" width="6" height="118" rx="3" fill="#f3f1ea" transform="rotate(62)"/>
+ <rect x="-1" y="-118" width="2" height="132" fill="#d8a45a" transform="rotate(150)"/>
+ <circle r="8" fill="#e9e6dc"/>
+ <path d="M-110 -60 A126 126 0 0 1 -20 -124" stroke="#fff" stroke-width="10" opacity="0.18" fill="none" stroke-linecap="round"/>
+ <rect x="148" y="-16" width="22" height="32" rx="6" fill="url(#steel)"/>
+</g></g>
+<rect width="800" height="1000" filter="url(#grain)" opacity="0.3"/>
+</svg>

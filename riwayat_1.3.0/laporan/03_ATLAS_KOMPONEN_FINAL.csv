@@ -1,0 +1,65 @@
+﻿ID,JENIS,SELEKTOR,SUMBER,ISI_DAN_PERAN
+C001,Metadata,head [urutan 1],website/index.html:3,Jago Prompt — Visual Produk Konsisten & Konten Affiliate
+C002,Header,header.site-header [urutan 1],website/index.html:45,Beranda Visual Brand Konten Affiliate Manfaat Tanya Jawab Mulai dengan Jago Prompt Mulai sekarang
+C003,Hero,section#beranda [urutan 1],website/index.html:106,"Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten. Visual produk yang menarik, serasi, dan mudah dikenali. Untuk katalog, promosi, dan konten harian—tanpa terus merangkai instruksi dari nol. Satu seri produk, berbagai tampilan Contoh visual Sorotan produk Momen spesial Keseharian Kontennya beragam. Karakter produknya tetap terasa. Nuansa peach, krem, dan burgundi menghubungkan satu seri visual kosmetik. Satu brand. Banyak cerita visual. Buat produk kamu tampil menarik, tanpa kehilangan karakter yang membuatnya dikenali. Mulai dengan Jago Prompt Lihat contoh visual Lebih ringan untuk marketing kamu Mudah dikenali Gaya yang menyatukan setiap konten. Menarik dilihat Produk jadi pusat perhatian. Praktis diteruskan Fokus pada ide promosi berikutnya. Butuh konten affiliate? Lihat v"
+C004,Canon 01,h1 [urutan 1],website/index.html:109,Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten.
+C005,Canon 02,#video-title [urutan 1],website/index.html:228,Cukup satu klik: hasilkan estetika produk menjadi prompt siap pakai.
+C006,Video,[data-media-unit] [urutan 1],website/index.html:236,"Browser kamu tidak mendukung video HTML5. Coba putar lagi Tampilan lip gloss saat dipakai, detail warna pada bibir, dan produk di tangan. Buka video 1 secara langsung ↗"
+C007,Video,[data-media-unit] [urutan 2],website/index.html:302,"Browser kamu tidak mendukung video HTML5. Coba putar lagi Wajah, kemasan, aplikator, dan hasil pemakaian lip gloss ditampilkan bergantian. Buka video 4 secara langsung ↗"
+C008,Video,[data-media-unit] [urutan 3],website/index.html:329,"Browser kamu tidak mendukung video HTML5. Coba putar lagi Helm anak diperlihatkan saat dikenakan, dengan tampilan dekat bagian depannya. Buka video 2 secara langsung ↗"
+C009,Video,[data-media-unit] [urutan 4],website/index.html:356,Browser kamu tidak mendukung video HTML5. Coba putar lagi Helm anak hadir dalam cerita singkat bersiap berangkat bersama keluarga. Buka video 3 secara langsung ↗
+C010,Masalah,#ide [urutan 1],website/index.html:385,"Identitas yang tetap terasa Konten boleh berganti. Karakter brand tetap dikenali. Saat setiap konten terasa berbeda-beda, identitas brand mudah tenggelam. Jaga benang merah visualnya, dari etalase sampai promosi musiman. Untuk etalase Produk tampil jelas dan mudah dikenali. Satu seri kemasan, dengan nuansa peach dan burgundi. Karakter yang sama Untuk momen spesial Suasananya berubah, produknya tetap terasa akrab. Warna yang senada Karakter yang dikenali Cerita yang berbeda Dua contoh dalam seri kosmetik yang sama. Bukan perbandingan hasil pengujian antarplatform AI."
+C011,Manfaat,.feature-card [urutan 1],website/index.html:466,"01 Konsistensi brand Brand tetap terasa sama. Bangun rangkaian konten yang serasi, sehingga produk kamu lebih mudah dikenali dari satu postingan ke postingan berikutnya."
+C012,Manfaat,.feature-card [urutan 2],website/index.html:489,"02 Daya tarik produk Beri produk panggung yang tepat. Tunjukkan tampilan, tekstur, dan karakter produk untuk mendukung katalog, promosi, dan peluncuran."
+C013,Manfaat,.feature-card [urutan 3],website/index.html:512,"03 Kemudahan affiliate Fokus pada promosi, bukan instruksi. Dapatkan arah konten dari estetika produk, tanpa menjadikan teori prompting sebagai pekerjaan tambahan."
+C014,Manfaat,.feature-card [urutan 4],website/index.html:535,"04 Keluwesan konten Satu produk, banyak kebutuhan. Dari tampilan etalase sampai momen perayaan, hadirkan cerita visual yang tetap terhubung dengan brand kamu."
+C015,Seri brand,.brand-case [urutan 1],website/index.html:574,"Seri kosmetik Kosmetik: hangat, lembut, dan berkarakter. Kemasan peach, sentuhan burgundi, dan suasana hangat menghubungkan tampilan etalase, momen pemakaian, sampai promosi perayaan. Referensi produk dari aset proyek Momen perayaan Seri kosmetik Sorotan produk Seri kosmetik Satu seri koleksi Seri kosmetik Nuansa lembut Seri kosmetik Komposisi sederhana Seri kosmetik Lihat 9 visual lain dalam seri kosmetik Lip gloss bernuansa peach dengan tekstur sapuan, lampu hangat, dan dekorasi perayaan Lip gloss terbuka di atas bidang krem dengan sapuan warna dan ornamen merah Tangan membuka aplikator lip gloss di atas meja krem dengan lampu hangat Seseorang bersweater burgundi memegang kemasan lip gloss bernuansa peach Lip gloss di samping kotak hadiah burgundi dan pita krem Lip gloss di atas kain kre"
+C016,Seri brand,.brand-case [urutan 2],website/index.html:713,"Seri kuliner Kuliner: menggugah selera, mudah dikenali. Merah, putih, dan kemasan yang khas menjadi benang merah. Ceritanya berkembang lewat tampilan sajian, detail tekstur, dan momen menikmati produk. Referensi produk dari aset proyek Identitas kemasan Seri kuliner Daya tarik sajian Seri kuliner Cerita dari dekat Seri kuliner Momen menikmati Seri kuliner Ragam susunan Seri kuliner Lihat 10 visual lain dalam seri kuliner Kotak dimsum merah-putih di atas podium krem dengan latar gelap Dimsum dalam kukusan bambu di meja kayu Kemasan dimsum merah-putih terbuka di latar putih, dengan sumpit dan saus Kotak dimsum terbuka di atas meja kayu dengan kukusan bambu Lima dimsum di piring putih dengan latar merah Dimsum di dalam wadah merah pada latar kuning krem Sumpit mencelupkan dimsum ke dalam mang"
+C017,Visual utama,.hero-shot [urutan 1],website/index.html:130,Sorotan produk
+C018,Visual utama,.hero-shot [urutan 2],website/index.html:136,Momen spesial
+C019,Visual utama,.hero-shot [urutan 3],website/index.html:142,Keseharian
+C020,Visual galeri,.gallery-item [urutan 1],website/index.html:595,Momen perayaan Seri kosmetik
+C021,Visual galeri,.gallery-item [urutan 2],website/index.html:606,Sorotan produk Seri kosmetik
+C022,Visual galeri,.gallery-item [urutan 3],website/index.html:617,Satu seri koleksi Seri kosmetik
+C023,Visual galeri,.gallery-item [urutan 4],website/index.html:628,Nuansa lembut Seri kosmetik
+C024,Visual galeri,.gallery-item [urutan 5],website/index.html:639,Komposisi sederhana Seri kosmetik
+C025,Visual galeri,.gallery-item [urutan 6],website/index.html:734,Identitas kemasan Seri kuliner
+C026,Visual galeri,.gallery-item [urutan 7],website/index.html:745,Daya tarik sajian Seri kuliner
+C027,Visual galeri,.gallery-item [urutan 8],website/index.html:756,Cerita dari dekat Seri kuliner
+C028,Visual galeri,.gallery-item [urutan 9],website/index.html:767,Momen menikmati Seri kuliner
+C029,Visual galeri,.gallery-item [urutan 10],website/index.html:778,Ragam susunan Seri kuliner
+C030,Visual tambahan,.expanded-item [urutan 1],website/index.html:656,"Lip gloss bernuansa peach dengan tekstur sapuan, lampu hangat, dan dekorasi perayaan"
+C031,Visual tambahan,.expanded-item [urutan 2],website/index.html:662,Lip gloss terbuka di atas bidang krem dengan sapuan warna dan ornamen merah
+C032,Visual tambahan,.expanded-item [urutan 3],website/index.html:668,Tangan membuka aplikator lip gloss di atas meja krem dengan lampu hangat
+C033,Visual tambahan,.expanded-item [urutan 4],website/index.html:674,Seseorang bersweater burgundi memegang kemasan lip gloss bernuansa peach
+C034,Visual tambahan,.expanded-item [urutan 5],website/index.html:680,Lip gloss di samping kotak hadiah burgundi dan pita krem
+C035,Visual tambahan,.expanded-item [urutan 6],website/index.html:686,Lip gloss di atas kain krem dengan pita burgundi dan dekorasi perayaan
+C036,Visual tambahan,.expanded-item [urutan 7],website/index.html:692,Kemasan lip gloss melayang di atas latar burgundi dengan ornamen keemasan
+C037,Visual tambahan,.expanded-item [urutan 8],website/index.html:698,Lip gloss dan aplikator ditata di atas kain krem dengan pita merah dan dekorasi emas
+C038,Visual tambahan,.expanded-item [urutan 9],website/index.html:704,Tangan memegang aplikator lip gloss di atas kemasannya pada meja krem
+C039,Visual tambahan,.expanded-item [urutan 10],website/index.html:795,Kotak dimsum merah-putih di atas podium krem dengan latar gelap
+C040,Visual tambahan,.expanded-item [urutan 11],website/index.html:801,Dimsum dalam kukusan bambu di meja kayu
+C041,Visual tambahan,.expanded-item [urutan 12],website/index.html:807,"Kemasan dimsum merah-putih terbuka di latar putih, dengan sumpit dan saus"
+C042,Visual tambahan,.expanded-item [urutan 13],website/index.html:813,Kotak dimsum terbuka di atas meja kayu dengan kukusan bambu
+C043,Visual tambahan,.expanded-item [urutan 14],website/index.html:819,Lima dimsum di piring putih dengan latar merah
+C044,Visual tambahan,.expanded-item [urutan 15],website/index.html:825,Dimsum di dalam wadah merah pada latar kuning krem
+C045,Visual tambahan,.expanded-item [urutan 16],website/index.html:831,Sumpit mencelupkan dimsum ke dalam mangkuk saus
+C046,Visual tambahan,.expanded-item [urutan 17],website/index.html:837,Kemasan dimsum merah-putih di atas latar krem hangat
+C047,Visual tambahan,.expanded-item [urutan 18],website/index.html:843,"Dimsum, kukusan, saus, dan sumpit dalam komposisi merah-putih"
+C048,Visual tambahan,.expanded-item [urutan 19],website/index.html:849,Tampilan dekat tekstur dimsum di atas kukusan bambu
+C049,Referensi produk,.case-reference [urutan 1],website/index.html:587,Referensi produk dari aset proyek
+C050,Referensi produk,.case-reference [urutan 2],website/index.html:726,Referensi produk dari aset proyek
+C051,Kampanye,.campaign-grid .sb-frame [urutan 1],website/index.html:881,Etalase yang jelas Kenalkan seri produk dalam tampilan yang serasi.
+C052,Kampanye,.campaign-grid .sb-frame [urutan 2],website/index.html:894,Dekat dengan keseharian Bantu audiens membayangkan produk di tangan mereka.
+C053,Kampanye,.campaign-grid .sb-frame [urutan 3],website/index.html:907,Sorotan yang berbeda Beri ruang pada daya tarik produk.
+C054,Kampanye,.campaign-grid .sb-frame [urutan 4],website/index.html:920,Momen yang relevan Hubungkan produk dengan cerita perayaan.
+C055,FAQ,.faq-list details [urutan 1],website/index.html:981,"Apakah ini kursus prompting? Bukan. Jago Prompt berfokus pada kemudahan menyiapkan konten marketing dan konsistensi visual brand, bukan menjual pelajaran atau tutorial prompting."
+C056,FAQ,.faq-list details [urutan 2],website/index.html:989,"Untuk siapa Jago Prompt? Untuk pemilik brand, pelaku usaha, affiliate media sosial, dan tim konten yang ingin menyiapkan materi promosi dengan karakter visual yang jelas."
+C057,FAQ,.faq-list details [urutan 3],website/index.html:997,"Apa bedanya contoh foto dan video di sini? Seri foto memperlihatkan benang merah identitas brand. Video memperlihatkan contoh arah konten promosi, terutama momen produk yang relevan untuk affiliate."
+C058,FAQ,.faq-list details [urutan 4],website/index.html:1005,Apakah setiap brand harus punya gaya yang sama? Tidak. Seri kosmetik dan kuliner di halaman ini memakai karakter yang berbeda. Yang dijaga adalah keselarasan dalam masing-masing brand.
+C059,Persona,.persona-grid article [urutan 1],website/index.html:1030,"Pemilik brand Tampil serasi, lebih mudah dikenali. Jaga karakter produk dari katalog sampai kampanye, tanpa membuat setiap konten terasa berasal dari brand yang berbeda."
+C060,Persona,.persona-grid article [urutan 2],website/index.html:1041,"Affiliate media sosial Beri produk alasan untuk dilirik. Temukan arah konten yang menonjolkan detail, pemakaian, dan daya tarik produk pilihanmu."
+C061,Persona,.persona-grid article [urutan 3],website/index.html:1052,Tim konten Lebih banyak ruang untuk ide. Kurangi energi yang habis merangkai instruksi berulang. Arahkan perhatian pada cerita dan kebutuhan promosi.
+C062,CTA akhir,#mulai [urutan 1],website/index.html:1066,Bikin konten berikutnya terasa lebih kamu. Visual produk yang menarik. Karakter brand yang tetap terasa. Lebih ringan menyiapkan konten marketing. Mulai dengan Jago Prompt Tonton contoh video Akses akun segera hadir. Lihat status pendaftaran sebelum mulai.
+C063,Footer,.site-footer [urutan 1],website/index.html:1097,"Kemudahan menyiapkan konten marketing, visual produk yang menarik, dan identitas brand yang konsisten. Visual Brand Konten Affiliate Manfaat Tanya Jawab Mulai © 2026 Jago Prompt. Visual contoh dari aset proyek. Bukan testimoni pelanggan."
+C064,Kembali ke atas,[data-to-top] [urutan 1],website/index.html:1150,Kembali ke atas

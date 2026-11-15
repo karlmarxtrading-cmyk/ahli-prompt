@@ -1,0 +1,12 @@
+{
+  "status": "NOT_READY_FOR_PUBLIC_RELEASE",
+  "gaps": [
+    "registration_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder.",
+    "site_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder.",
+    "Pendaftaran/login layanan nyata belum terverifikasi",
+    "Isi audio dan kebutuhan caption empat video belum diverifikasi",
+    "Izin publikasi media belum dicatat",
+    "Klaim satu klik dan konsistensi hasil belum diuji pada produk nyata",
+    "Persetujuan rilis publik belum dicatat"
+  ]
+}

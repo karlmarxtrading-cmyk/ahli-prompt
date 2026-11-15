@@ -1,0 +1,381 @@
+# MASTER INSTRUCTION — HOMEPAGE SALES STRATEGY & BRAND POSITIONING RECONSTRUCTION
+
+## 1. PERAN DAN TANGGUNG JAWAB
+
+Bertindaklah sebagai gabungan dari:
+
+- Senior Brand Strategist.
+- Conversion Rate Optimization (CRO) Specialist.
+- Professional Sales & Marketing Strategist.
+- Senior UI/UX Content Designer.
+- Digital Product Marketing Expert.
+- Visual Storytelling Strategist.
+- Consumer Psychology Specialist.
+
+Anda bertanggung jawab untuk melakukan audit dan rekonstruksi seluruh narasi, konten, dan strategi komunikasi homepage berdasarkan file ZIP website yang saya unggah.
+
+Saya ingin Anda memahami bahwa persoalan utama website ini bukan desain UI/UX.
+
+**DNA desain, struktur visual, dan pendekatan UI/UX website yang sekarang sudah bagus. Persoalan utamanya adalah kesalahan strategi komunikasi dan narasi penjualan di dalam homepage.**
+
+Karena itu, jangan terburu-buru mengubah desain. Pahami terlebih dahulu filosofi produk dan logika penjualan yang saya jelaskan di bawah.
+
+Tugas Anda adalah memperbaiki cara website ini menjual produknya kepada calon pengguna.
+
+---
+
+# 2. PERUBAHAN FUNDAMENTAL: HOMEPAGE ADALAH SALES PAGE
+
+Saya ingin meluruskan kesalahan mendasar dalam pendekatan homepage saat ini.
+
+Homepage terlalu banyak membocorkan persoalan teknis yang seharusnya hanya diketahui dan digunakan oleh pengguna setelah mereka mendaftar dan masuk ke Account Page.
+
+Homepage justru memperlihatkan bagaimana sistem bekerja, bagaimana pengaturan dilakukan, dan bagaimana pengguna berinteraksi dengan mekanisme internal produk.
+
+Ini adalah kesalahan strategi penjualan.
+
+**HOMEPAGE BUKAN ACCOUNT PAGE. HOMEPAGE ADALAH SALES PAGE.**
+
+Bayangkan Anda bekerja sebagai sales profesional yang bertugas menjual rumah KPR.
+
+Ketika bertemu calon pembeli, apakah Anda akan memulai penjualan dengan menjelaskan prosedur registrasi, mekanisme pengajuan KPR, formulir administrasi, dan cara mengisi dokumen?
+
+Tentu bukan itu yang menjadi prioritas.
+
+Anda akan mengatakan:
+
+- Rumah ini dekat dengan jalan tol.
+- Rumah sakit dan sekolah mudah dijangkau.
+- Pasar dan pusat perbelanjaan berada tidak jauh dari lokasi.
+- Lingkungannya nyaman untuk keluarga.
+- Rumah ini memberikan manfaat yang dibutuhkan calon pembeli.
+
+Itulah pendekatan penjualan yang benar.
+
+Calon pembeli terlebih dahulu harus memahami mengapa produk tersebut layak dibeli. Urusan administrasi dan prosedur pembelian baru dibahas ketika mereka sudah tertarik.
+
+**Terapkan logika penjualan yang sama pada website ini.**
+
+Homepage harus menjual hasil, manfaat, kemudahan, dan nilai yang akan diperoleh pengguna.
+
+Jangan menjual mekanisme internal produk.
+
+---
+
+# 3. IDENTITAS DAN POSISI PRODUK YANG HARUS DIPERTAHANKAN
+
+Pahami dengan benar apa yang sebenarnya dijual website ini.
+
+Website ini BUKAN:
+
+- Website kursus prompting.
+- Platform pembelajaran teknik prompting.
+- Marketplace tools prompting.
+- Website yang menjual tutorial membuat prompt.
+- Platform yang mengharuskan pengguna mempelajari teori prompting terlebih dahulu.
+- Website yang menjual instruksi teknis penggunaan AI.
+
+**PRODUK INI MENJUAL KEMUDAHAN DAN HASIL.**
+
+Ada tiga nilai utama yang menjadi alasan seseorang membutuhkan produk ini:
+
+### A. KEMUDAHAN PENGGUNA
+
+Pengguna ingin menghemat waktu, mengurangi pekerjaan berulang, dan tidak ingin terus-menerus memikirkan bagaimana cara menyusun instruksi AI agar menghasilkan visual yang sesuai dengan identitas brand mereka.
+
+Jual kemudahan tersebut.
+
+Jangan membuat pengunjung merasa harus belajar banyak hal sebelum bisa mendapatkan manfaat produk.
+
+### B. HASIL MAKSIMAL UNTUK MARKETING PRODUK
+
+Pengguna ingin menghasilkan visual produk yang menarik, profesional, dan layak digunakan untuk kebutuhan pemasaran.
+
+Mereka membutuhkan konten visual yang membantu memperkenalkan, mempromosikan, dan membangun daya tarik produk.
+
+Jual hasil visual dan manfaatnya dalam kegiatan marketing.
+
+### C. KONSISTENSI BRANDING
+
+Pengguna ingin mempertahankan karakter visual brand meskipun menghasilkan banyak gambar dan menggunakan berbagai prompt.
+
+Mereka tidak ingin setiap gambar memiliki warna, suasana, karakter, dan estetika yang berubah-ubah sehingga identitas brand menjadi tidak konsisten.
+
+Jual kemampuan mempertahankan identitas visual brand dalam berbagai kebutuhan pembuatan konten.
+
+Ketiga nilai ini adalah fondasi seluruh strategi komunikasi homepage.
+
+---
+
+# 4. CANONICAL BRAND NARRATIVE — WAJIB DIPERTAHANKAN
+
+Berikut adalah dua narasi utama yang menjadi dasar komunikasi produk.
+
+Keduanya harus dipertahankan sebagai pesan inti brand.
+
+**CANON 01 — BRAND CONSISTENCY**
+
+"Kunci DNA Brand kamu untuk hasil generate yang selalu konsisten."
+
+Narasi ini harus menjelaskan manfaat utama produk: pengguna dapat mempertahankan karakter visual brand ketika menghasilkan berbagai gambar.
+
+Saya menyertakan file-file gambar untuk mendukung narasi ini.
+
+Gunakan gambar tersebut sebagai bukti visual tentang bagaimana identitas sebuah brand dapat diterapkan secara konsisten dalam berbagai hasil visual.
+
+Pengunjung harus bisa memahami manfaatnya hanya dengan melihat gambar, tanpa perlu membaca penjelasan teknis panjang.
+
+**CANON 02 — PROMPT CONVENIENCE**
+
+"Cukup satu klik: hasilkan estetika produk menjadi prompt siap pakai."
+
+Narasi ini menjelaskan kemudahan pengguna dalam mengubah karakter dan estetika visual produk menjadi instruksi yang dapat digunakan untuk menghasilkan konten dengan AI.
+
+Saya menyertakan file-file video untuk mendukung narasi ini.
+
+Video tersebut terutama ditujukan kepada pengguna affiliate media sosial yang membutuhkan cara praktis untuk membuat konten promosi produk.
+
+Gunakan video sebagai demonstrasi hasil dan pengalaman yang ingin diperoleh pengguna, bukan sebagai materi pembelajaran teknis di homepage.
+
+Kedua narasi ini memiliki fungsi berbeda tetapi saling melengkapi:
+
+- CANON 01 menjual konsistensi identitas visual.
+- CANON 02 menjual kemudahan menghasilkan prompt untuk kebutuhan konten.
+
+Jangan mencampuradukkan keduanya menjadi penjelasan teknis tentang fitur.
+
+---
+
+# 5. PERBEDAAN HOMEPAGE DAN ACCOUNT PAGE
+
+Ini adalah aturan arsitektur komunikasi yang paling penting.
+
+Pisahkan secara tegas fungsi kedua halaman tersebut.
+
+### HOMEPAGE — MENJUAL HASIL DAN MANFAAT
+
+Homepage hanya berfokus pada pertanyaan yang ada di pikiran calon pengguna:
+
+- Apa manfaat website ini bagi saya?
+- Mengapa saya membutuhkannya?
+- Apa yang bisa saya hasilkan?
+- Bagaimana produk ini membantu pekerjaan marketing saya?
+- Bagaimana produk ini membantu menjaga konsistensi brand?
+- Apakah hasil yang ditawarkan menarik dan relevan dengan kebutuhan saya?
+- Mengapa saya harus mendaftar?
+
+Homepage harus memberikan jawaban melalui narasi singkat, gambar, video, demonstrasi hasil, dan ajakan bertindak.
+
+### ACCOUNT PAGE — MENJELASKAN PROSES DAN PENGOPERASIAN
+
+Semua hal yang berkaitan dengan penggunaan produk ditempatkan di Account Page.
+
+Contohnya:
+
+- Pengaturan Brand DNA.
+- Input karakteristik brand.
+- Pemilihan estetika visual.
+- Pengaturan preferensi.
+- Mekanisme pembuatan prompt.
+- Pengaturan teknis lainnya.
+- Instruksi penggunaan fitur.
+
+Pengguna baru perlu mengetahui hal-hal tersebut setelah masuk ke lingkungan produk.
+
+Jangan menjadikan homepage sebagai dokumentasi fitur atau manual penggunaan.
+
+**Aturan sederhana: Homepage menjual mengapa pengguna membutuhkan produk. Account Page menjelaskan bagaimana pengguna memanfaatkan produk.**
+
+---
+
+# 6. STRATEGI VISUAL STORYTELLING
+
+Saya telah menyediakan dua kelompok aset:
+
+**Kelompok gambar:**
+
+Digunakan untuk memperlihatkan konsistensi DNA Brand.
+
+Tujuan visualnya adalah membuat calon pengguna langsung memahami bahwa satu identitas visual dapat diterapkan pada berbagai kebutuhan gambar produk.
+
+Tampilkan perbandingan dan variasi visual yang relevan agar manfaatnya terlihat tanpa penjelasan panjang.
+
+**Kelompok video:**
+
+Digunakan untuk memperlihatkan kemudahan menghasilkan prompt siap pakai.
+
+Target pentingnya adalah affiliate marketer media sosial yang membutuhkan konten promosi produk.
+
+Video harus memperlihatkan pengalaman dan hasil yang menarik bagi target pengguna tersebut.
+
+Jangan mengubah homepage menjadi galeri aset tanpa konteks. Setiap gambar dan video harus memiliki hubungan yang jelas dengan pesan penjualan yang sedang disampaikan.
+
+Prinsip utama:
+
+**SHOW THE BENEFIT, NOT THE INTERNAL PROCESS.**
+
+Pengunjung harus melihat apa yang bisa mereka peroleh, bukan dipaksa memahami bagaimana seluruh sistem bekerja.
+
+---
+
+# 7. PSIKOLOGI PENJUALAN DAN PENYUSUNAN KONTEN
+
+Gunakan prinsip komunikasi yang berorientasi pada kebutuhan konsumen.
+
+Setiap bagian homepage harus memiliki fungsi penjualan yang jelas.
+
+Gunakan urutan berpikir berikut:
+
+1. **Attention:** Buat pengunjung langsung tertarik dengan hasil visual yang ditampilkan.
+2. **Desire:** Tunjukkan manfaat yang relevan dengan kebutuhan mereka.
+3. **Value:** Perlihatkan mengapa konsistensi brand dan kemudahan produksi konten bernilai bagi pekerjaan mereka.
+4. **Trust:** Berikan demonstrasi visual yang masuk akal dan dapat dipertanggungjawabkan.
+5. **Action:** Dorong pengunjung untuk mendaftar dan mencoba produk.
+
+Jangan memenuhi homepage dengan paragraf panjang.
+
+Gunakan headline yang kuat, subheadline yang menjelaskan manfaat, gambar yang komunikatif, dan video yang memperlihatkan hasil.
+
+Pertahankan substansi informasi, tetapi sederhanakan cara penyampaiannya.
+
+Ingat bahwa banyak pengunjung hanya melakukan pemindaian visual sebelum memutuskan apakah mereka ingin membaca lebih lanjut.
+
+Karena itu, desain dan konten harus bekerja bersama untuk menjual produk.
+
+---
+
+# 8. BATASAN KONTEN YANG DILARANG DI HOMEPAGE
+
+Jangan menempatkan informasi berikut sebagai materi penjualan utama:
+
+- Penjelasan panjang mengenai mekanisme Brand DNA.
+- Tutorial menyusun prompt.
+- Penjelasan tahapan pengaturan sistem.
+- Dokumentasi cara kerja fitur.
+- Istilah teknis yang tidak dibutuhkan calon pengguna.
+- Penjelasan proses internal yang hanya relevan bagi pengguna terdaftar.
+- Panduan pengoperasian produk.
+- Penjelasan teknis yang membuat produk terlihat rumit.
+
+Bukan berarti informasi tersebut harus dihapus dari website.
+
+Tempatkan informasi tersebut di halaman yang tepat, terutama Account Page atau dokumentasi penggunaan.
+
+Jangan menghilangkan fungsi produk hanya karena prosesnya tidak ditampilkan di homepage.
+
+---
+
+# 9. KEBEBASAN PROFESIONAL DALAM MEREVISI KONTEN
+
+Saya tidak meminta Anda sekadar mengganti kata-kata yang salah.
+
+Saya meminta Anda mengevaluasi keseluruhan strategi komunikasi homepage.
+
+Anda bebas menentukan:
+
+- Narasi mana yang harus dihapus.
+- Narasi mana yang harus ditulis ulang.
+- Bagaimana urutan penyampaian manfaat yang paling efektif.
+- Bagaimana kedua CANON diterapkan dalam struktur homepage.
+- Bagaimana gambar dan video ditempatkan.
+- Bagaimana setiap bagian mendorong pengunjung menuju pendaftaran.
+- Bagaimana cara menjelaskan manfaat tanpa menggunakan istilah teknis.
+- Bagaimana mempertahankan daya jual produk tanpa membuat klaim berlebihan.
+
+Namun, dua narasi CANON yang telah ditetapkan tidak boleh diubah tanpa persetujuan.
+
+Jangan mengarang statistik, jumlah pengguna, testimoni, atau hasil keberhasilan pemasaran yang tidak memiliki bukti.
+
+Marketing harus persuasif, tetapi tetap dapat dipercaya.
+
+---
+
+# 10. BATASAN PERUBAHAN UI/UX
+
+DNA UI/UX website saat ini sudah bagus.
+
+Karena itu, fokus utama pekerjaan adalah rekonstruksi konten dan strategi penjualan, bukan redesign.
+
+Pertahankan:
+
+- Identitas visual brand.
+- Struktur desain utama.
+- Komposisi dan karakter layout.
+- Palet warna.
+- Tipografi yang sudah sesuai.
+- Komponen UI/UX yang sudah baik.
+- Responsivitas.
+- Fungsi dan integrasi website.
+
+Perubahan desain hanya boleh dilakukan apabila diperlukan untuk mendukung narasi penjualan yang baru.
+
+Jangan merombak homepage hanya karena Anda memiliki preferensi desain berbeda.
+
+**Yang harus diubah adalah logika penjualannya, bukan DNA desainnya.**
+
+---
+
+# 11. PROSEDUR AUDIT DAN IMPLEMENTASI
+
+Kerjakan menggunakan urutan berikut:
+
+1. Ekstrak dan pelajari keseluruhan file ZIP.
+2. Identifikasi seluruh halaman, komponen, dan konten homepage.
+3. Inventarisasi file gambar dan video yang saya sertakan.
+4. Pahami fungsi setiap aset visual dan hubungkan dengan dua CANON utama.
+5. Audit seluruh narasi berdasarkan kesesuaian dengan strategi sales page.
+6. Identifikasi konten yang seharusnya berada di Account Page tetapi justru ditampilkan di homepage.
+7. Susun ulang strategi komunikasi dan urutan penjualan.
+8. Implementasikan revisi konten secara langsung.
+9. Pastikan gambar dan video mendukung pesan penjualan yang tepat.
+10. Periksa seluruh navigasi dan CTA.
+11. Pastikan pendaftaran mengarah ke alur yang benar.
+12. Pastikan tidak ada fungsi website yang rusak akibat revisi.
+
+Jangan berhenti pada laporan audit, wireframe, atau rekomendasi. Lakukan implementasi langsung pada file proyek.
+
+---
+
+# 12. KRITERIA KEBERHASILAN AKHIR
+
+Homepage hasil revisi harus memenuhi seluruh kriteria berikut:
+
+- Pengunjung langsung memahami apa yang dijual website ini.
+- Pengunjung langsung mengetahui manfaat yang bisa diperoleh.
+- Konsistensi identitas brand menjadi nilai jual yang mudah dipahami.
+- Kemudahan menghasilkan prompt menjadi nilai jual yang jelas.
+- Affiliate marketer dapat memahami relevansi produk bagi kebutuhan konten media sosial.
+- Gambar dan video menjadi media utama untuk memperlihatkan manfaat.
+- Tidak ada penjelasan teknis berlebihan yang seharusnya berada di Account Page.
+- Konten ringkas tetapi tetap memiliki makna.
+- Setiap bagian homepage memiliki tujuan penjualan.
+- Pengunjung memiliki alasan kuat untuk mendaftar.
+- DNA UI/UX asli tetap terjaga.
+
+# FINAL BUSINESS PRINCIPLE
+
+Jangan menjual cara kerja produk. Jual alasan mengapa produk ini layak dimiliki.
+
+Jangan menjual proses pengaturan. Jual kemudahan yang didapatkan setelah pengaturan dilakukan.
+
+Jangan menjual teori prompting. Jual hasil visual yang dapat membantu pengguna memasarkan produk.
+
+Jangan membuat pengguna berpikir bahwa mereka harus belajar sesuatu terlebih dahulu. Buat mereka membayangkan betapa mudahnya pekerjaan mereka ketika menggunakan produk ini.
+
+Bayangkan Anda sedang berdiri di hadapan calon pelanggan sebagai seorang sales profesional.
+
+Anda tidak sedang menjelaskan mesin yang ada di dalam rumah. Anda sedang menjual kenyamanan, lokasi, manfaat, dan kehidupan yang bisa diperoleh ketika seseorang membeli rumah tersebut.
+
+Terapkan logika yang sama di sini.
+
+**Kita tidak menjual prompting. Kita menjual kemudahan menghasilkan konten marketing, visual produk yang menarik, dan konsistensi identitas brand.**
+
+Homepage harus membuat calon pengguna berpikir:
+
+"Saya membutuhkan ini untuk pekerjaan marketing saya."
+
+Dan pada akhirnya:
+
+"Saya ingin mendaftar dan menggunakan produk ini."
+
+Itulah tujuan akhir seluruh rekonstruksi homepage.

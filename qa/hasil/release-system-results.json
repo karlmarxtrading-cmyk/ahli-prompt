@@ -1,0 +1,208 @@
+{
+ "scope": "Sistem rilis pada salinan sementara dengan host fixture .test; tanpa jaringan luar. Bukan bukti layanan akun atau deployment.",
+ "tools_sha256": {
+  "aktifkan_rilis.py": "246f4d1a3c23231a7bd15d1a44ba4101576a6177430328bba005859fa3c64290",
+  "bangun_rilis.py": "16f3d537bf7b7ee03649d25a5ef4cdfb850d06ae2431018de28b4c12df8ae8c0",
+  "gate_rilis.py": "f871f87f5b2fdae608c8254c8682d6199a1360a26c2932cf57c971e5ad72d9df",
+  "periksa_url.py": "8038ba8a9b96e247dcba50c537c823fb66b94fca6388c43a1efe86ebae07f147",
+  "rilis_core.py": "f43311130d0e1e7672782552f4a3e5d778527b3ef8799c31bb1b4cdbfadeb984",
+  "smoke_live.py": "d61e53e677a5fbe2e016c52746ac05fcd8db42d67d5e5e7d488cdd4a2d5d0176"
+ },
+ "counts": {
+  "PASS": 38,
+  "FAIL": 0,
+  "ERROR": 0
+ },
+ "results": [
+  {
+   "test": "DryRun.test_cli_dry_run_tidak_menulis",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "DryRun.test_dry_run_tidak_menulis_apa_pun_untuk_semua_profil",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Konsistensi.test_gate_dan_build_selalu_sepakat",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Konsistensi.test_konfigurasi_rusak_dilaporkan_spesifik",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Konsistensi.test_nama_lama_aktifkan_rilis_tidak_lagi_mengubah_website",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Konsistensi.test_struktur_html_rusak_gagal_utuh_tanpa_keluaran_parsial",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Konsistensi.test_tiga_lingkup_dilaporkan_terpisah",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "PeriksaUrl.test_jalur_nyata_menolak_host_fixture_tanpa_menghubungi_jaringan",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "PeriksaUrl.test_semua_terjangkau",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "PeriksaUrl.test_status_galat_redirect_asing_dan_bukan_html_ditolak",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "PeriksaUrl.test_tanpa_url_tidak_pernah_lulus",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Preview.test_preview_selalu_layak_dan_identik_dengan_source",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Preview.test_source_adalah_keadaan_preview_yang_jujur",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_boolean_datar_gaya_1_3_0_tidak_cukup",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_bukti_keterjangkauan_url_wajib_segar_dan_lulus",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_bukti_kosong_hilang_atau_di_luar_folder_ditolak",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_fixture_tidak_dapat_dipakai_lewat_jalur_cli",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_mengganti_url_sesudah_diperiksa_membatalkan_bukti",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_penanggung_jawab_dan_tanggal_wajib",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_qa_frontend_harus_dari_source_saat_ini_dan_tanpa_gagal",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_setiap_gerbang_yang_belum_terpenuhi_menolak_aktivasi",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_true_tanpa_bukti_ditolak",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_url_saja_tidak_membuka_produksi",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionNegatif.test_url_tidak_aman_atau_contoh_ditolak",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionPositif.test_host_fixture_bocor_terdeteksi_pada_keluaran",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionPositif.test_semua_gerbang_berbukti_menghasilkan_keluaran_produksi",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "ProductionPositif.test_site_url_dengan_subfolder_mengatur_base_404",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "SmokeLokal.test_keluaran_utuh_lulus_dan_berkas_yang_diubah_terdeteksi",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "SmokeLokal.test_profil_yang_salah_terdeteksi",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "SmokeLokal.test_url_lokal_tidak_pernah_menjadi_bukti_rilis",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Staging.test_build_berulang_menghasilkan_keluaran_identik",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Staging.test_host_di_luar_official_hosts_ditolak",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Staging.test_konfigurasi_kosong_ditolak_tanpa_keluaran",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Staging.test_login_tidak_wajib_bila_alur_tidak_memerlukannya",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Staging.test_login_wajib_bila_alur_memerlukannya",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Staging.test_perubahan_konfigurasi_berulang_dan_rollback",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Staging.test_rollback_tanpa_generasi_sebelumnya_dilaporkan",
+   "status": "PASS",
+   "detail": ""
+  },
+  {
+   "test": "Staging.test_staging_mengarahkan_cta_tetapi_tetap_bertanda_uji_dan_noindex",
+   "status": "PASS",
+   "detail": ""
+  }
+ ]
+}

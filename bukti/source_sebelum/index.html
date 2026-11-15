@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jago Prompt — Gambar Produk yang Selaras dengan Gaya Brand Anda</title>
+  <meta name="description" content="Jago Prompt adalah konsep asisten kreatif: tentukan warna, suasana, dan ciri khas brand sekali sebagai panduan, lalu gunakan kembali saat menyusun prompt foto dan video untuk berbagai platform AI.">
+  <meta name="theme-color" content="#FBFAF6">
+  <meta name="robots" content="index, follow">
+
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:site_name" content="Jago Prompt">
+  <meta property="og:title" content="Jago Prompt — Satu Panduan Brand, Gaya Visual Lebih Konsisten">
+  <meta property="og:description" content="Pratinjau konsep: panduan gaya brand yang dipakai ulang saat menyusun prompt foto dan video. Lihat contoh foto, contoh video, dan alurnya.">
+  <meta property="og:image" content="assets/brand/favicon-512.png">
+  <meta name="twitter:card" content="summary">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/brand/favicon-32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/brand/favicon-180.png">
+
+  <link rel="preload" href="assets/fonts/plus-jakarta-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/plus-jakarta-sans-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/plus-jakarta-sans-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/images/serum-editorial.webp" as="image" imagesrcset="assets/images/serum-editorial-480.webp 480w, assets/images/serum-editorial.webp 960w" imagesizes="(max-height: 480px) and (min-width: 600px) and (orientation: landscape) 32vw, (max-width: 640px) 88vw, (max-width: 960px) 60vw, 420px" fetchpriority="high">
+  <!-- Tandai JS aktif sebelum render pertama agar menu mobile tidak bergeser; dicabut lagi bila main.js gagal dimuat. -->
+  <script>document.documentElement.classList.add("js");</script>
+  <link rel="stylesheet" href="css/styles.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Jago Prompt",
+    "inLanguage": "id-ID",
+    "description": "Konsep asisten kreatif: satu panduan gaya brand untuk menyusun prompt foto dan video yang lebih konsisten."
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#konten">Lewati ke konten</a>
+
+  <!-- ============================== HEADER -->
+  <header class="site-header" data-header>
+    <div class="container header-inner">
+      <a class="brand" href="#beranda" aria-label="Jago Prompt — kembali ke beranda">
+        <img src="assets/brand/logo-jago-prompt-96.png" srcset="assets/brand/logo-jago-prompt-96.png 96w, assets/brand/logo-jago-prompt-256.png 256w" sizes="(max-width: 640px) 64px, 76px" width="76" height="76" alt="Logo Jago Prompt">
+      </a>
+
+      <nav class="main-nav" aria-label="Navigasi utama">
+        <ul id="nav-menu" class="nav-list" data-nav>
+          <li><a href="#beranda" class="nav-link">Beranda</a></li>
+          <li><a href="#hasil-video" class="nav-link">Contoh Video</a></li>
+          <li><a href="#arahan-foto" class="nav-link">Contoh Foto</a></li>
+          <li><a href="#arahan-video" class="nav-link">Storyboard</a></li>
+          <li><a href="#cara-kerja" class="nav-link">Cara Kerja</a></li>
+          <li class="nav-cta-mobile"><a href="#arahan-foto" class="btn btn-dark btn-block">Lihat Contoh Foto</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <a href="#arahan-foto" class="btn btn-dark btn-sm header-cta">Lihat Contoh Foto</a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-menu" aria-label="Buka menu" data-menu-toggle>
+          <span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="konten" tabindex="-1">
+
+    <!-- ============================== HERO: hasil foto dahulu -->
+    <!-- Urutan DOM = urutan visual: H1 → pengantar → hasil → CTA → panduan → rincian. -->
+    <section class="hero" id="beranda" aria-labelledby="hero-title">
+      <div class="container">
+        <div class="hero-intro">
+          <h1 id="hero-title" class="hero-title">Gambar produk yang selaras dengan <span class="hero-title-accent">gaya brand Anda.</span></h1>
+          <p class="hero-lead">Tentukan warna, suasana, dan ciri khas brand sekali sebagai panduan. Gunakan kembali panduan itu saat menyusun prompt untuk berbagai platform AI.</p>
+        </div>
+
+        <!-- Visual presentasi; bukan hasil generator yang berjalan di situs ini. -->
+        <div class="hero-panel" data-demo>
+          <figure class="hero-results" aria-labelledby="hero-results-caption">
+            <div class="hero-results-head">
+              <span class="panel-label">Contoh hasil foto</span>
+              <span class="demo-badge">Ilustrasi AI</span>
+            </div>
+            <div class="hero-mosaic">
+              <div class="hero-shot hero-shot-main">
+                <img src="assets/images/serum-editorial.webp" srcset="assets/images/serum-editorial-480.webp 480w, assets/images/serum-editorial.webp 960w" sizes="(max-height: 480px) and (min-width: 600px) and (orientation: landscape) 32vw, (max-width: 640px) 88vw, (max-width: 960px) 60vw, 420px" width="960" height="1200" fetchpriority="high" alt="Ilustrasi AI: botol serum hijau di atas batu alam, dinding krem, dan bayangan daun dari cahaya jendela">
+                <span class="hero-shot-tag">Kosmetik</span>
+              </div>
+              <div class="hero-shot">
+                <img src="assets/images/bag-editorial-480.webp" width="480" height="600" decoding="async" alt="Ilustrasi AI: tas kulit cokelat di atas batu alam, dinding krem, dan bayangan jendela">
+                <span class="hero-shot-tag">Fashion</span>
+              </div>
+              <div class="hero-shot">
+                <img src="assets/images/food-editorial-480.webp" width="480" height="600" decoding="async" alt="Ilustrasi AI: croissant di piring keramik krem dengan cahaya jendela yang hangat">
+                <span class="hero-shot-tag">Makanan</span>
+              </div>
+            </div>
+            <figcaption id="hero-results-caption" class="hero-results-caption"><b>Contoh arah visual: krem hangat, cahaya alami, dan bersahaja.</b> Tiga produk berbeda dengan arah gaya yang senada, bukan variasi dari satu produk.</figcaption>
+          </figure>
+
+          <div class="hero-side">
+            <div class="hero-pitch">
+              <p class="hero-tagline">Satu panduan brand. <br>Gaya visual yang lebih konsisten.</p>
+              <div class="hero-actions">
+                <a href="#arahan-foto" class="btn btn-dark btn-lg">Lihat Contoh Foto
+                  <svg class="btn-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M4 10h11m-4-5 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                </a>
+                <a href="#hasil-video" class="btn btn-ghost btn-lg">Tonton Contoh Video</a>
+              </div>
+              <p class="prototype-note"><span class="prototype-dot" aria-hidden="true"></span>Pratinjau konsep · Fitur AI belum tersedia.</p>
+            </div>
+
+            <section class="style-guide" aria-labelledby="guide-title">
+              <div class="guide-head">
+                <h2 id="guide-title" class="panel-label">Contoh panduan gaya</h2>
+                <span class="swatches" aria-hidden="true"><i style="--c:#EFE6D6"></i><i style="--c:#D9C3A6"></i><i style="--c:#7A4A2B"></i><i style="--c:#6F8C5E"></i></span>
+              </div>
+              <dl class="guide-list">
+                <div class="guide-row">
+                  <dt>Warna</dt>
+                  <dd>Krem, pasir, cokelat hangat, hijau sage</dd>
+                </div>
+                <div class="guide-row">
+                  <dt>Suasana</dt>
+                  <dd>Hangat, natural, bersahaja</dd>
+                </div>
+                <div class="guide-row">
+                  <dt>Ciri khas</dt>
+                  <dd>Cahaya jendela, bayangan lembut, permukaan batu atau keramik</dd>
+                </div>
+              </dl>
+            </section>
+            <p class="style-guide-note">Panduan berupa catatan teks. Tulis sekali, lalu salin ke prompt berikutnya.</p>
+
+            <details class="demo-details">
+              <summary>Lihat contoh prompt dari panduan ini</summary>
+              <div class="demo-details-body">
+                <div class="prompt-chip" data-prompt-chip>
+                  <span class="prompt-chip-label">Bagian panduan brand · dipakai ulang</span>
+                  <code lang="en">Warm cream and sand palette with a muted sage accent, soft natural window light, gentle shadows, natural stone or ceramic surface, calm minimal editorial product photography, no text or logo.</code>
+                </div>
+                <div class="prompt-chip prompt-chip-light">
+                  <span class="prompt-chip-label">Bagian produk · diganti tiap gambar</span>
+                  <code lang="en">Olive green glass serum bottle with a dropper, centered, portrait 4:5.</code>
+                </div>
+                <p class="demo-disclosure">Contoh prompt dalam bahasa Inggris ini dapat Anda salin ke platform AI pilihan Anda. Hasil dapat berbeda di tiap platform; Jago Prompt belum menguji perbandingan antarplatform. Panduan gaya membantu menyelaraskan warna dan suasana, bukan menjamin bentuk produk tampil identik. Gambar presentasi di atas dibuat terpisah dari aplikasi Jago Prompt.</p>
+              </div>
+            </details>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================== HASIL VIDEO: video fashion asli dari pemilik proyek -->
+    <section class="section section-video" id="hasil-video" aria-labelledby="hasil-video-title">
+      <div class="container">
+        <div class="video-card">
+          <header class="video-head">
+            <p class="kicker">Contoh hasil video</p>
+            <h2 id="hasil-video-title" class="section-title">Contoh video fashion</h2>
+            <p class="section-lead">Video vertikal 13 detik. Tampilan penuh, detail tas, busana, dan sepatu hadir dalam palet cokelat, krem, dan taupe yang senada.</p>
+          </header>
+
+          <div class="video-player" data-video-box>
+            <video class="video-el" data-video controls playsinline preload="none" width="480" height="854" poster="assets/images/fashion-video-poster.webp" src="assets/video/fashion-example.mp4" aria-label="Contoh video fashion, 13 detik, dengan suara latar">
+              <a href="assets/video/fashion-example.mp4">Buka file video (MP4)</a>
+            </video>
+          </div>
+
+          <div class="video-body">
+            <p class="video-source">Video contoh disediakan oleh pemilik proyek. Bukan keluaran generator Jago Prompt.</p>
+            <p class="video-hint">Pilih tombol putar pada video untuk memulai. Video tidak diputar otomatis dan memiliki suara latar yang pelan.</p>
+            <div class="video-status-box">
+              <p class="video-status" data-video-status role="status" aria-live="polite"></p>
+              <button class="btn btn-ghost btn-sm" type="button" data-video-retry hidden>Coba putar lagi</button>
+            </div>
+            <div class="video-actions">
+              <a class="btn btn-ghost" href="assets/video/fashion-example.mp4" download="jago-prompt-contoh-video-fashion.mp4">Unduh video <span class="btn-meta">MP4 · 3,2 MB</span></a>
+            </div>
+            <details class="inline-details video-details">
+              <summary>Baca ringkasan adegan</summary>
+              <ol class="scene-list">
+                <li><span>0:00</span> Seorang perempuan berdiri di ruangan berdinding kaca dengan pemandangan kota. Ia memakai kemeja satin cokelat, celana krem, dan sepatu loafer krem, sambil membawa tas tangan taupe.</li>
+                <li><span>0:01</span> Tampilan dekat tas tangan taupe dengan kunci berwarna emas, lalu celana dan sepatu.</li>
+                <li><span>0:02</span> Potret setengah badan dan wajah dari jarak dekat.</li>
+                <li><span>0:04</span> Detail tangan memegang tas, lalu tampilan dekat sepatu loafer.</li>
+                <li><span>0:07</span> Ia berjalan melintasi ruangan, lalu berdiri menghadap kamera.</li>
+                <li><span>0:08</span> Tampilan dekat tas dari dua sudut.</li>
+                <li><span>0:09</span> Ia terlihat dari belakang, lalu menoleh dan tersenyum.</li>
+                <li><span>0:11</span> Penutup: tampilan penuh di ruangan yang sama.</li>
+              </ol>
+            </details>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================== DARI IDE MENJADI ARAHAN -->
+    <section class="section" id="ide" aria-labelledby="ide-title">
+      <div class="container">
+        <header class="section-head center reveal">
+          <p class="kicker">Mengapa perlu panduan</p>
+          <h2 id="ide-title" class="section-title">Tanpa arahan, gaya mudah berubah.</h2>
+          <p class="section-lead">Ide yang sama bisa tampil berbeda setiap kali prompt ditulis ulang. Arahan yang jelas tentang warna, suasana, pencahayaan, latar, dan komposisi menjadi panduan untuk prompt berikutnya.</p>
+        </header>
+
+        <div class="compare reveal">
+          <article class="compare-card compare-before">
+            <div class="compare-label">Ide awal</div>
+            <blockquote class="compare-quote">“Saya mau foto kopi yang terasa hangat.”</blockquote>
+            <div class="compare-media">
+              <img src="assets/images/coffee-simple.webp" srcset="assets/images/coffee-simple-480.webp 480w, assets/images/coffee-simple.webp 960w" sizes="(max-width: 960px) 90vw, (max-width: 1280px) 40vw, 500px" width="960" height="960" loading="lazy" decoding="async" alt="Ilustrasi AI: cangkir kopi krem di atas meja polos dengan cahaya netral">
+            </div>
+            <p class="compare-note">Objeknya sudah jelas. Suasana dan cara menampilkannya masih bisa diarahkan.</p>
+          </article>
+
+          <div class="compare-arrow" aria-hidden="true">
+            <span class="compare-arrow-pill">Tambahkan arahan</span>
+            <svg viewBox="0 0 64 24"><path d="M2 12h56m-10-9 10 9-10 9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+
+          <article class="compare-card compare-after">
+            <div class="compare-label compare-label-accent">Contoh arah visual</div>
+            <div class="compare-media">
+              <img src="assets/images/coffee-editorial.webp" srcset="assets/images/coffee-editorial-480.webp 480w, assets/images/coffee-editorial.webp 960w" sizes="(max-width: 960px) 90vw, (max-width: 1280px) 40vw, 500px" width="960" height="960" loading="lazy" decoding="async" alt="Ilustrasi AI: cangkir kopi krem serupa dalam suasana kafe hangat dengan cahaya samping">
+            </div>
+            <ul class="chip-list" aria-label="Arahan kreatif">
+              <li>Cahaya hangat</li><li>Meja kayu</li><li>Suasana kafe</li>
+            </ul>
+            <details class="inline-details">
+              <summary>Apa yang diarahkan?</summary>
+              <p>Cahaya datang dari samping, kamera melihat bagian depan dan sisi cangkir, dan latar dibuat lembut agar perhatian tetap pada kopi.</p>
+            </details>
+          </article>
+        </div>
+        <p class="fineprint">Perbandingan ilustratif: kedua gambar dibuat dengan AI untuk menjelaskan perubahan arah suasana, bukan jaminan produk tampil identik.</p>
+      </div>
+    </section>
+
+    <!-- ============================== FITUR -->
+    <section class="section section-tint" id="fitur" aria-labelledby="fitur-title">
+      <div class="container">
+        <header class="section-head reveal">
+          <p class="kicker">Bantuan yang dirancang</p>
+          <h2 id="fitur-title" class="section-title">Dari ide sampai prompt, selangkah demi selangkah.</h2>
+          <p class="section-lead">Empat konsep fitur untuk membantu Anda merencanakan foto dan video dengan gaya yang senada.</p>
+        </header>
+
+        <div class="feature-grid">
+          <!-- 01 -->
+          <article class="feature-card reveal">
+            <div class="feature-media feature-media-photo">
+              <img src="assets/images/serum-editorial.webp" srcset="assets/images/serum-editorial-480.webp 480w, assets/images/serum-editorial.webp 960w" sizes="(max-width: 640px) 90vw, (max-width: 960px) 44vw, 30vw" width="960" height="1200" loading="lazy" decoding="async" alt="Ilustrasi AI: botol serum hijau di atas batu alam dengan bayangan daun">
+              <div class="spec-overlay" aria-hidden="true">
+                <span>Cahaya alami</span>
+                <span>Ilustrasi AI</span>
+              </div>
+            </div>
+            <div class="feature-body">
+              <div class="feature-meta"><span class="feature-index">01</span><span class="status">Konsep fitur</span></div>
+              <h3 class="feature-title">Arahan Foto</h3>
+              <p>Tentukan warna, suasana, cahaya, dan komposisi agar foto produk mengikuti gaya brand Anda.</p>
+            </div>
+          </article>
+
+          <!-- 02 -->
+          <article class="feature-card reveal">
+            <div class="feature-media feature-media-dark">
+              <ol class="mini-storyboard" aria-label="Storyboard empat adegan">
+                <li><img src="assets/images/story-1.svg" width="800" height="600" loading="lazy" alt="Adegan 1: botol dalam gelap"><span>01 · 2 dtk</span></li>
+                <li><img src="assets/images/story-2.svg" width="800" height="600" loading="lazy" alt="Adegan 2: kamera mendekat"><span>02 · 3 dtk</span></li>
+                <li><img src="assets/images/story-3.svg" width="800" height="600" loading="lazy" alt="Adegan 3: cahaya menyapu botol"><span>03 · 3 dtk</span></li>
+                <li><img src="assets/images/story-4.svg" width="800" height="600" loading="lazy" alt="Adegan 4: komposisi iklan"><span>04 · 2 dtk</span></li>
+              </ol>
+            </div>
+            <div class="feature-body">
+              <div class="feature-meta"><span class="feature-index">02</span><span class="status">Konsep fitur</span></div>
+              <h3 class="feature-title">Arahan Video</h3>
+              <p>Rangkai ide menjadi urutan adegan yang jelas, dari pembuka sampai penutup.</p>
+            </div>
+          </article>
+
+          <!-- 03 -->
+          <article class="feature-card reveal">
+            <div class="feature-media feature-media-editor">
+              <div class="editor" aria-hidden="true">
+                <div class="editor-row editor-in">
+                  <span class="editor-tag">Bahasa sehari-hari</span>
+                  <p>foto sepatu lari yang kelihatan cepat dan sporty</p>
+                </div>
+                <div class="editor-arrow"><svg viewBox="0 0 20 20"><path d="M10 3v13m-5-5 5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+                <div class="editor-row editor-out">
+                  <span class="editor-tag editor-tag-accent">Prompt terstruktur</span>
+                  <p><b>Subjek:</b> sepatu lari putih, sisi samping</p>
+                  <p><b>Gerak:</b> melayang, debu halus, motion blur ringan</p>
+                  <p><b>Cahaya:</b> hard light pagi, bayangan tegas</p>
+                  <p><b>Latar:</b> lintasan atletik, warna cerah</p>
+                  <p><b>Format:</b> 16:9, sudut rendah</p>
+                </div>
+              </div>
+            </div>
+            <div class="feature-body">
+              <div class="feature-meta"><span class="feature-index">03</span><span class="status">Dalam rancangan</span></div>
+              <h3 class="feature-title">Susun Prompt</h3>
+              <p>Ubah bahasa sehari-hari dan panduan gaya menjadi prompt yang rapi untuk platform AI pilihan Anda.</p>
+            </div>
+          </article>
+
+          <!-- 04 -->
+          <article class="feature-card reveal">
+            <div class="feature-media feature-media-learn">
+              <svg class="learn-illustration" viewBox="0 0 520 360" role="img" aria-label="Ilustrasi edukatif: diagram tata cahaya, kamera, dan garis komposisi sepertiga">
+                <!-- Lighting diagram -->
+                <g transform="translate(24 24)">
+                  <rect width="236" height="312" rx="16" fill="#fff" stroke="#E4E1D8"/>
+                  <text x="18" y="32" class="ill-label">Tata cahaya</text>
+                  <circle cx="118" cy="168" r="70" fill="none" stroke="#E4E1D8" stroke-dasharray="4 6"/>
+                  <rect x="104" y="150" width="28" height="40" rx="6" fill="#2B2926"/>
+                  <rect x="110" y="140" width="16" height="12" rx="3" fill="#B49A63"/>
+                  <!-- key light -->
+                  <g transform="translate(46 96) rotate(-45)">
+                    <rect x="-20" y="-12" width="40" height="24" rx="5" fill="#7E9A6E"/>
+                    <path d="M20 -12 L58 -26 L58 26 L20 12Z" fill="#7E9A6E" opacity="0.18"/>
+                  </g>
+                  <text x="22" y="74" class="ill-small">Key</text>
+                  <!-- fill -->
+                  <g transform="translate(196 112) rotate(225)"><rect x="-14" y="-10" width="28" height="20" rx="4" fill="#C9D3BE"/></g>
+                  <text x="176" y="86" class="ill-small">Fill</text>
+                  <!-- rim -->
+                  <g transform="translate(176 248) rotate(135)"><rect x="-12" y="-8" width="24" height="16" rx="4" fill="#B49A63"/></g>
+                  <text x="182" y="282" class="ill-small">Rim</text>
+                  <!-- camera -->
+                  <g transform="translate(70 268)">
+                    <rect x="-22" y="-14" width="44" height="28" rx="6" fill="#2B2926"/>
+                    <circle cx="0" cy="0" r="8" fill="#55524C"/><circle cx="0" cy="0" r="4" fill="#9FB08A"/>
+                  </g>
+                  <path d="M86 254 L106 196" stroke="#2B2926" stroke-dasharray="3 5"/>
+                  <text x="22" y="304" class="ill-small">Kamera 45°</text>
+                </g>
+                <!-- Framing -->
+                <g transform="translate(276 24)">
+                  <rect width="220" height="146" rx="16" fill="#fff" stroke="#E4E1D8"/>
+                  <text x="18" y="30" class="ill-label">Komposisi</text>
+                  <rect x="18" y="42" width="184" height="88" rx="6" fill="#F1EFE8"/>
+                  <g stroke="#9FB08A" stroke-width="1.2"><path d="M79 42v88M141 42v88M18 71h184M18 101h184"/></g>
+                  <circle cx="141" cy="71" r="6" fill="#7E9A6E"/>
+                  <rect x="128" y="76" width="24" height="40" rx="4" fill="#2B2926" opacity="0.85"/>
+                </g>
+                <!-- Lens / angle -->
+                <g transform="translate(276 190)">
+                  <rect width="220" height="146" rx="16" fill="#fff" stroke="#E4E1D8"/>
+                  <text x="18" y="30" class="ill-label">Lensa &amp; gerak</text>
+                  <g transform="translate(18 48)">
+                    <rect width="54" height="34" rx="6" fill="#F1EFE8"/><text x="27" y="22" text-anchor="middle" class="ill-mono">24mm</text>
+                    <rect x="62" width="54" height="34" rx="6" fill="#2B2926"/><text x="89" y="22" text-anchor="middle" class="ill-mono ill-mono-light">50mm</text>
+                    <rect x="124" width="54" height="34" rx="6" fill="#F1EFE8"/><text x="151" y="22" text-anchor="middle" class="ill-mono">85mm</text>
+                  </g>
+                  <path d="M30 116 C80 96 140 96 190 116" fill="none" stroke="#7E9A6E" stroke-width="2" stroke-dasharray="5 5"/>
+                  <path d="M182 110 l9 6 -10 4" fill="none" stroke="#7E9A6E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  <text x="30" y="134" class="ill-small">Dolly / orbit</text>
+                </g>
+              </svg>
+            </div>
+            <div class="feature-body">
+              <div class="feature-meta"><span class="feature-index">04</span><span class="status">Dalam rancangan</span></div>
+              <h3 class="feature-title">Belajar dari Dasar</h3>
+              <p>Pahami cahaya, sudut kamera, dan gerakan lewat contoh yang mudah diikuti.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================== ARAHAN FOTO -->
+    <section class="section" id="arahan-foto" aria-labelledby="foto-title">
+      <div class="container">
+        <div class="split-head reveal">
+          <div>
+            <p class="kicker">Contoh foto · Arahan fotografi</p>
+            <h2 id="foto-title" class="section-title">Bayangkan visual untuk produk Anda.</h2>
+          </div>
+          <p class="section-lead">Parfum, makanan, kosmetik, hingga fashion. Lihat bagaimana pilihan warna, cahaya, dan latar memberi karakter pada setiap gambar. Karakter itulah yang dicatat sebagai panduan gaya.</p>
+        </div>
+
+        <ul class="aspect-row reveal" aria-label="Hal yang dicatat dalam panduan gaya">
+          <li>Pencahayaan</li><li>Komposisi</li><li>Sudut kamera</li><li>Latar</li><li>Warna</li><li>Detail produk</li>
+        </ul>
+
+        <div class="gallery">
+          <figure class="gallery-item gallery-tall reveal">
+            <img src="assets/images/perfume-editorial.webp" srcset="assets/images/perfume-editorial-480.webp 480w, assets/images/perfume-editorial.webp 960w" sizes="(max-width: 960px) 90vw, 38vw" width="960" height="1200" loading="lazy" decoding="async" alt="Ilustrasi AI: botol parfum amber dengan cahaya samping dan pantulan kaca">
+            <figcaption>
+              <span class="g-cat">Fotografi produk</span>
+              <span class="g-dir">Cahaya samping · pantulan kaca · warna amber</span>
+            </figcaption>
+          </figure>
+          <figure class="gallery-item reveal">
+            <img src="assets/images/food-editorial.webp" srcset="assets/images/food-editorial-480.webp 480w, assets/images/food-editorial.webp 960w" sizes="(max-width: 640px) 90vw, (max-width: 960px) 44vw, 30vw" width="960" height="1200" loading="lazy" decoding="async" alt="Ilustrasi AI: croissant di piring keramik dengan cahaya alami">
+            <figcaption>
+              <span class="g-cat">Fotografi makanan</span>
+              <span class="g-dir">Cahaya jendela · tekstur pastry · nada hangat</span>
+            </figcaption>
+          </figure>
+          <figure class="gallery-item reveal">
+            <img src="assets/images/serum-editorial.webp" srcset="assets/images/serum-editorial-480.webp 480w, assets/images/serum-editorial.webp 960w" sizes="(max-width: 640px) 90vw, (max-width: 960px) 44vw, 30vw" width="960" height="1200" loading="lazy" decoding="async" alt="Ilustrasi AI: serum hijau dengan latar netral dan daun eukaliptus">
+            <figcaption>
+              <span class="g-cat">Fotografi kosmetik</span>
+              <span class="g-dir">Batu alam · bayangan daun · warna natural</span>
+            </figcaption>
+          </figure>
+          <figure class="gallery-item reveal">
+            <img src="assets/images/bag-editorial.webp" srcset="assets/images/bag-editorial-480.webp 480w, assets/images/bag-editorial.webp 960w" sizes="(max-width: 640px) 90vw, (max-width: 960px) 44vw, 30vw" width="960" height="1200" loading="lazy" decoding="async" alt="Ilustrasi AI: tas kulit cokelat di ruang bernuansa krem dengan bayangan arsitektural">
+            <figcaption>
+              <span class="g-cat">Fotografi fashion</span>
+              <span class="g-dir">Bayangan jendela tegas · tekstur kulit</span>
+            </figcaption>
+          </figure>
+          <figure class="gallery-item reveal">
+            <img src="assets/images/coffee-editorial.webp" srcset="assets/images/coffee-editorial-480.webp 480w, assets/images/coffee-editorial.webp 960w" sizes="(max-width: 640px) 90vw, (max-width: 960px) 44vw, 30vw" width="960" height="960" loading="lazy" decoding="async" alt="Ilustrasi AI: kopi di meja kayu dengan kain linen dan suasana hangat">
+            <figcaption>
+              <span class="g-cat">Fotografi lifestyle</span>
+              <span class="g-dir">Meja kayu · cahaya hangat · suasana kafe</span>
+            </figcaption>
+          </figure>
+        </div>
+        <p class="fineprint reveal">Galeri ini berisi ilustrasi AI untuk presentasi konsep dengan beragam arah gaya, bukan portofolio klien atau hasil generator Jago Prompt.</p>
+      </div>
+    </section>
+
+    <!-- ============================== ARAHAN VIDEO -->
+    <section class="section section-dark" id="arahan-video" aria-labelledby="video-title">
+      <div class="container">
+        <div class="split-head reveal">
+          <div>
+            <p class="kicker kicker-light">Contoh storyboard · Arahan videografi</p>
+            <h2 id="video-title" class="section-title">Video lebih mudah dirancang, adegan demi adegan.</h2>
+          </div>
+          <p class="section-lead">Contoh rancangan iklan parfum 10 detik: buka suasana, dekatkan produk, tunjukkan detail, lalu tutup dengan gambar utama. Storyboard ini contoh terpisah dari video fashion di atas.</p>
+        </div>
+
+        <div class="storyboard-toolbar">
+          <p>Sketsa storyboard · Contoh alur 10 detik</p>
+          <button class="btn btn-storyboard" type="button" data-storyboard-toggle hidden aria-pressed="false">Putar contoh alur</button>
+        </div>
+        <ol class="storyboard" data-storyboard>
+          <li class="sb-frame reveal">
+            <div class="sb-media"><img src="assets/images/story-1.svg" width="800" height="600" loading="lazy" alt="Adegan 1: botol parfum dalam suasana gelap"></div>
+            <div class="sb-info">
+              <div class="sb-top"><span class="sb-num">Adegan 01</span><span class="sb-dur">0:00–0:02</span></div>
+              <p class="sb-desc">Botol parfum diperlihatkan dalam suasana gelap.</p>
+              <p class="sb-cam">Kamera diam · tampilan lebar</p>
+            </div>
+          </li>
+          <li class="sb-frame reveal">
+            <div class="sb-media"><img src="assets/images/story-2.svg" width="800" height="600" loading="lazy" alt="Adegan 2: kamera bergerak mendekati produk"></div>
+            <div class="sb-info">
+              <div class="sb-top"><span class="sb-num">Adegan 02</span><span class="sb-dur">0:02–0:05</span></div>
+              <p class="sb-desc">Kamera bergerak perlahan mendekati produk.</p>
+              <p class="sb-cam">Kamera mendekat perlahan</p>
+            </div>
+          </li>
+          <li class="sb-frame reveal">
+            <div class="sb-media"><img src="assets/images/story-3.svg" width="800" height="600" loading="lazy" alt="Adegan 3: cahaya menyinari detail botol"></div>
+            <div class="sb-info">
+              <div class="sb-top"><span class="sb-num">Adegan 03</span><span class="sb-dur">0:05–0:08</span></div>
+              <p class="sb-desc">Cahaya menyapu dan menyinari detail botol.</p>
+              <p class="sb-cam">Sorotan cahaya · tampilan detail</p>
+            </div>
+          </li>
+          <li class="sb-frame reveal">
+            <div class="sb-media"><img src="assets/images/story-4.svg" width="800" height="600" loading="lazy" alt="Adegan 4: produk tampil dengan komposisi iklan premium"></div>
+            <div class="sb-info">
+              <div class="sb-top"><span class="sb-num">Adegan 04</span><span class="sb-dur">0:08–0:10</span></div>
+              <p class="sb-desc">Produk tampil dengan komposisi iklan premium.</p>
+              <p class="sb-cam">Gambar utama · ruang untuk teks</p>
+            </div>
+          </li>
+        </ol>
+
+        <div class="timeline reveal" aria-hidden="true">
+          <span style="--w:20%">Pembuka</span><span style="--w:30%">Mendekat</span><span style="--w:30%">Detail</span><span style="--w:20%">Penutup</span>
+          <i class="timeline-head" data-timeline-head></i>
+        </div>
+        <p class="playback-status" data-storyboard-status role="status" aria-live="polite">Empat sketsa ini menunjukkan urutan adegan, bukan video yang sudah dihasilkan.</p>
+        <ul class="video-notes reveal" aria-label="Elemen yang diarahkan">
+          <li><b>Transisi</b> Muncul dari gelap, lalu berpindah adegan mengikuti cahaya.</li>
+          <li><b>Gaya senada</b> Palet amber–hitam dan arah cahaya mengikuti satu panduan di setiap adegan.</li>
+          <li><b>Prompt per adegan</b> Setiap adegan dirancang memiliki prompt yang saling selaras.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============================== CARA KERJA -->
+    <section class="section" id="cara-kerja" aria-labelledby="cara-title">
+      <div class="container">
+        <header class="section-head center reveal">
+          <p class="kicker">Cara kerja</p>
+          <h2 id="cara-title" class="section-title">Ceritakan. Tentukan arah. Susun prompt.</h2>
+          <p class="section-lead">Alur yang dirancang untuk Jago Prompt. Saat ini tersedia sebagai pratinjau konsep.</p>
+        </header>
+
+        <ol class="steps">
+          <li class="step reveal">
+            <div class="step-visual" aria-hidden="true">
+              <div class="sv-bubble">Saya mau video pendek parfum yang terasa mewah…<span class="caret caret-static"></span></div>
+            </div>
+            <span class="step-num-lg">01 · Ide Anda</span>
+            <h3>Ceritakan Ide</h3>
+            <p>Jelaskan foto atau video yang ingin Anda buat menggunakan bahasa sehari-hari.</p>
+          </li>
+          <li class="step reveal">
+            <div class="step-visual" aria-hidden="true">
+              <div class="sv-question">Suasana seperti apa yang Anda inginkan?</div>
+              <div class="sv-options"><span class="is-on">Gelap &amp; dramatis</span><span>Terang &amp; segar</span><span>Hangat</span></div>
+            </div>
+            <span class="step-num-lg">02 · Arahan kreatif</span>
+            <h3>Tentukan Arah</h3>
+            <p>Dalam rancangan ini, AI membantu memilih warna, suasana, dan cahaya. Pilihan itu menjadi panduan gaya brand Anda.</p>
+          </li>
+          <li class="step reveal">
+            <div class="step-visual" aria-hidden="true">
+              <div class="sv-prompt">
+                <span class="sv-line" style="--w:92%"></span><span class="sv-line" style="--w:76%"></span><span class="sv-line" style="--w:84%"></span><span class="sv-line" style="--w:58%"></span>
+                <span class="sv-ready">Prompt siap digunakan</span>
+              </div>
+            </div>
+            <span class="step-num-lg">03 · Prompt terstruktur</span>
+            <h3>Susun Prompt</h3>
+            <p>Pakai kembali panduan yang sama setiap menyusun prompt di platform AI gambar atau video pilihan Anda.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ============================== RAMAH PEMULA -->
+    <section class="section section-tint" id="pemula" aria-labelledby="pemula-title">
+      <div class="container beginner">
+        <div class="beginner-copy reveal">
+          <p class="kicker">Ramah untuk pemula</p>
+          <h2 id="pemula-title" class="section-title">Mulai dari bahasa Anda sendiri.</h2>
+          <p class="section-lead">“Lebih hangat”, “terlihat segar”, atau “sedikit dramatis”. Ide sederhana sudah cukup untuk mulai menyusun arah.</p>
+          <ul class="beginner-list">
+            <li><b>Istilah dijelaskan</b><span>Konsep panduan menyertakan arti singkat dan contoh visual.</span></li>
+            <li><b>Pilihan, bukan paksaan</b><span>Bandingkan beberapa arah gaya; Anda yang menentukan mana yang cocok untuk brand.</span></li>
+            <li><b>Belajar sambil membuat</b><span>Kenali mengapa cahaya, latar, dan sudut mengubah kesan gambar.</span></li>
+          </ul>
+        </div>
+
+        <div class="beginner-visual reveal" aria-label="Ilustrasi: pengguna dengan ide visual dibimbing oleh asisten AI">
+          <svg class="guide-illustration" viewBox="24 60 488 372" role="img" aria-label="Seseorang memiliki ide visual, lalu asisten AI menjelaskan istilah fotografi">
+            <!-- person -->
+            <g transform="translate(96 300)">
+              <ellipse cx="0" cy="118" rx="90" ry="12" fill="#2B2926" opacity="0.08"/>
+              <path d="M-70 120 Q-70 30 0 30 Q70 30 70 120Z" fill="#2B2926"/>
+              <circle cx="0" cy="-8" r="34" fill="#E9DCCB"/>
+              <path d="M-34 -14 Q-30 -50 4 -48 Q36 -46 34 -12 Q20 -30 -6 -30 Q-24 -28 -34 -14Z" fill="#2B2926"/>
+              <circle cx="14" cy="-6" r="3" fill="#2B2926"/>
+            </g>
+            <!-- thought bubble with idea -->
+            <g>
+              <circle cx="140" cy="250" r="6" fill="#fff" stroke="#E4E1D8"/>
+              <circle cx="154" cy="228" r="9" fill="#fff" stroke="#E4E1D8"/>
+              <rect x="40" y="96" width="210" height="116" rx="22" fill="#fff" stroke="#E4E1D8"/>
+              <rect x="58" y="114" width="72" height="80" rx="10" fill="#E8EBDF"/>
+              <rect x="82" y="132" width="24" height="46" rx="6" fill="#7E9A6E"/>
+              <rect x="88" y="124" width="12" height="10" rx="2" fill="#2B2926"/>
+              <path d="M66 186 q30 -14 58 0" stroke="#B9C4A4" stroke-width="5" fill="none" stroke-linecap="round"/>
+              <text x="144" y="138" class="ill-label">Ide saya:</text>
+              <text x="144" y="160" class="ill-small">serum, natural,</text>
+              <text x="144" y="178" class="ill-small">terlihat mahal</text>
+            </g>
+            <!-- AI guide card -->
+            <g transform="translate(250 196)">
+              <rect width="250" height="214" rx="22" fill="#fff" stroke="#E4E1D8"/>
+              <g transform="translate(20 22)">
+                <rect width="30" height="30" rx="9" fill="#2B2926"/>
+                <path d="M15 7 l2.4 5.6 5.6 2.4 -5.6 2.4 -2.4 5.6 -2.4 -5.6 -5.6 -2.4 5.6 -2.4z" fill="#C9D3BE"/>
+                <text x="42" y="20" class="ill-label">Pemandu AI</text>
+              </g>
+              <rect x="20" y="66" width="210" height="64" rx="12" fill="#F1EFE8"/>
+              <text x="34" y="90" class="ill-label">Three-quarter angle</text>
+              <text x="34" y="110" class="ill-small">Kamera sekitar 45° dari depan,</text>
+              <text x="34" y="124" class="ill-small">sisi dan depan produk terlihat.</text>
+              <g transform="translate(20 146)">
+                <rect width="96" height="30" rx="15" fill="#2B2926"/><text x="48" y="20" text-anchor="middle" class="ill-chip ill-chip-light">Pakai ini</text>
+                <rect x="104" width="106" height="30" rx="15" fill="#fff" stroke="#D9D5CA"/><text x="157" y="20" text-anchor="middle" class="ill-chip">Lihat opsi lain</text>
+              </g>
+              <text x="20" y="200" class="ill-small ill-muted">Langkah 3 dari 6 · Sudut kamera</text>
+            </g>
+            <!-- connector -->
+            <path d="M250 154 C300 150 330 170 352 192" fill="none" stroke="#7E9A6E" stroke-width="2" stroke-dasharray="4 6"/>
+            <circle cx="352" cy="192" r="4" fill="#7E9A6E"/>
+            <!-- sparkle -->
+            <path d="M440 120 l5 14 14 5 -14 5 -5 14 -5 -14 -14 -5 14 -5z" fill="#2B2926"/>
+            <path d="M400 70 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" fill="#9FB08A"/>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <!-- Kutipan berikut simulasi, bukan ulasan pelanggan nyata. -->
+    <section class="section testimonials-section" id="cerita" aria-labelledby="cerita-title">
+      <div class="container">
+        <header class="section-head reveal">
+          <p class="kicker">Contoh kebutuhan pengguna</p>
+          <h2 id="cerita-title" class="section-title">Berangkat dari kebutuhan sehari-hari.</h2>
+          <p class="section-lead">Nama, peran, dan kutipan berikut adalah simulasi untuk menggambarkan kebutuhan calon pengguna.</p>
+        </header>
+        <div class="testimonial-grid">
+          <figure class="testimonial-card reveal">
+            <span class="simulation-label">Simulasi · Bukan ulasan nyata</span>
+            <blockquote>“Saya punya ide foto untuk jualan kue, tapi sering bingung menjelaskannya. Saya ingin dibantu menentukan suasana dan cahayanya.”</blockquote>
+            <figcaption><span class="persona-initial" aria-hidden="true">R</span><span><b>Rina</b><span>Pemilik usaha kue · Persona ilustratif</span></span></figcaption>
+          </figure>
+          <figure class="testimonial-card reveal">
+            <span class="simulation-label">Simulasi · Bukan ulasan nyata</span>
+            <blockquote>“Saya ingin menyusun video produk yang alurnya jelas. Akan lebih mudah kalau setiap adegan sudah punya arah sebelum dibuat.”</blockquote>
+            <figcaption><span class="persona-initial" aria-hidden="true">D</span><span><b>Dimas</b><span>Kreator konten · Persona ilustratif</span></span></figcaption>
+          </figure>
+          <figure class="testimonial-card reveal">
+            <span class="simulation-label">Simulasi · Bukan ulasan nyata</span>
+            <blockquote>“Saya ingin foto-foto produk punya suasana yang senada. Contoh visual membantu saya memilih gaya yang cocok untuk brand saya.”</blockquote>
+            <figcaption><span class="persona-initial" aria-hidden="true">N</span><span><b>Nadia</b><span>Pemilik brand lokal · Persona ilustratif</span></span></figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================== FINAL CTA -->
+    <section class="section final-cta" aria-labelledby="cta-title">
+      <div class="container">
+        <div class="cta-card reveal">
+          <img class="cta-logo" src="assets/brand/logo-jago-prompt-256.png" width="88" height="88" loading="lazy" alt="Logo Jago Prompt">
+          <h2 id="cta-title" class="section-title">Sudah terbayang gaya visual brand Anda?</h2>
+          <p class="section-lead">Jelajahi contoh foto dan video. Temukan arah gaya yang paling dekat dengan brand Anda.</p>
+          <div class="cta-actions">
+          <a href="#arahan-foto" class="btn btn-dark btn-lg">Lihat Contoh Foto<svg class="btn-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M4 10h11m-4-5 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+          <a href="#hasil-video" class="btn btn-ghost btn-lg">Tonton Contoh Video</a>
+          </div>
+          <p class="cta-note">Prototipe konsep · Fitur AI, penyimpanan panduan brand, dan pendaftaran belum tersedia.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============================== FOOTER -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <a href="#beranda" class="footer-logo" aria-label="Kembali ke beranda">
+          <img src="assets/brand/logo-jago-prompt-96.png" width="64" height="64" loading="lazy" alt="Logo Jago Prompt">
+        </a>
+        <p>Konsep asisten kreatif: satu panduan gaya brand untuk menyusun prompt foto dan video yang lebih konsisten.</p>
+      </div>
+      <nav aria-label="Navigasi footer">
+        <ul class="footer-nav">
+          <li><a href="#beranda">Beranda</a></li>
+          <li><a href="#hasil-video">Contoh Video</a></li>
+          <li><a href="#arahan-foto">Contoh Foto</a></li>
+          <li><a href="#arahan-video">Storyboard</a></li>
+          <li><a href="#cara-kerja">Cara Kerja</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="container footer-bottom">
+      <p>© <span data-year>2026</span> Jago Prompt. Hak cipta dilindungi.</p>
+      <p>Pratinjau konsep Jago Prompt. Visual AI, video contoh, dan kutipan simulasi diberi label.</p>
+    </div>
+  </footer>
+
+  <a href="#beranda" class="to-top" aria-label="Kembali ke atas" data-to-top>
+    <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 16V4m-5 5 5-5 5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </a>
+
+  <script src="js/main.js" defer onerror="document.documentElement.classList.remove('js')"></script>
+</body>
+</html>

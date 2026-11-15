@@ -1,0 +1,1038 @@
+{
+  "release": {
+    "name": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115.zip",
+    "sha256": "b8dbf5ee926b2daaf6dcb6ac553e74b57b2f28f3880c9b4840ee2eca803397de",
+    "bytes": 17681626,
+    "files": [
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/SHA256SUMS.txt",
+        "bytes": 14686
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/README.md",
+        "bytes": 1848
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/pratinjau_lokal.py",
+        "bytes": 2850
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/analisis_audio_vad.py",
+        "bytes": 1157
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/browser-tests.py",
+        "bytes": 57102
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/extract_dom.py",
+        "bytes": 1306
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/dom-interaction-tests.cjs",
+        "bytes": 22511
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/README.md",
+        "bytes": 898
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/hasil/browser-results.json",
+        "bytes": 50965
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/hasil/static-results.json",
+        "bytes": 15473
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/hasil/dom-interaction-results.json",
+        "bytes": 4699
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/hasil/page-dom.json",
+        "bytes": 77961
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_hasil-video_1440x900.jpg",
+        "bytes": 69839
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/zoom_1280x800_teks_200pct.jpg",
+        "bytes": 117652
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_pemula_1440x900.jpg",
+        "bytes": 66767
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_fitur_390x844.jpg",
+        "bytes": 118718
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_beranda_1440x900.jpg",
+        "bytes": 151625
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/cta_arahan-foto_390x844.jpg",
+        "bytes": 43359
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_pemula_390x844.jpg",
+        "bytes": 49112
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_tas_390x844.jpg",
+        "bytes": 20772
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_wajah_390x844.jpg",
+        "bytes": 19094
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/layar-awal_390x844.jpg",
+        "bytes": 55747
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/tanpa-js_1440x900.jpg",
+        "bytes": 143393
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/zoom_1280x1024_at400pct_zoom_reflow_320.jpg",
+        "bytes": 80896
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_gagal_404_390x844.jpg",
+        "bytes": 47901
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_akhir_390x844.jpg",
+        "bytes": 22850
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/fokus-cta-hero_1440x900.jpg",
+        "bytes": 143968
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/layar-awal_844x390.jpg",
+        "bytes": 49594
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_cerita_390x844.jpg",
+        "bytes": 63928
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/layar-awal_1440x900.jpg",
+        "bytes": 143700
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/hero-rincian-prompt_390x844.jpg",
+        "bytes": 77842
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/halaman-penuh_390x844.jpg",
+        "bytes": 831084
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_fitur_1440x900.jpg",
+        "bytes": 170887
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_selesai_1440x900.jpg",
+        "bytes": 90611
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/gambar-gagal_390x844.jpg",
+        "bytes": 47685
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/cta_hasil-video_1440x900.jpg",
+        "bytes": 84479
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_ide_390x844.jpg",
+        "bytes": 79361
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/layar-awal_320x568.jpg",
+        "bytes": 31843
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_footer_1440x900.jpg",
+        "bytes": 25426
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/halaman-penuh_844x390.jpg",
+        "bytes": 1032057
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/halaman-penuh_768x1024.jpg",
+        "bytes": 1030622
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_gagal_offline_390x844.jpg",
+        "bytes": 47907
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_memutar_1440x900.jpg",
+        "bytes": 91659
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_poster_1440x900.jpg",
+        "bytes": 90585
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/layar-awal_1280x800.jpg",
+        "bytes": 134824
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/storyboard-memutar_1440x900.jpg",
+        "bytes": 103489
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/zoom_1440x900_at200pct_zoom.jpg",
+        "bytes": 133558
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_arahan-foto_1440x900.jpg",
+        "bytes": 179382
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_cta-akhir_390x844.jpg",
+        "bytes": 33818
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_tas_1440x900.jpg",
+        "bytes": 20772
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_cta-akhir_1440x900.jpg",
+        "bytes": 42429
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_cerita_1440x900.jpg",
+        "bytes": 82915
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/zoom_1280x800_at200pct_zoom.jpg",
+        "bytes": 102964
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_hasil-video_390x844.jpg",
+        "bytes": 59156
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/halaman-penuh_1440x900.jpg",
+        "bytes": 1115003
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_arahan-video_1440x900.jpg",
+        "bytes": 128948
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_gagal_rusak_390x844.jpg",
+        "bytes": 47906
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/font-gagal_390x844.jpg",
+        "bytes": 56002
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_awal_390x844.jpg",
+        "bytes": 25499
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/cta_hasil-video_390x844.jpg",
+        "bytes": 47206
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/zoom_390x844_teks_200pct.jpg",
+        "bytes": 47953
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/hero-rincian-prompt_1440x900.jpg",
+        "bytes": 85413
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_awal_1440x900.jpg",
+        "bytes": 25503
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_arahan-foto_390x844.jpg",
+        "bytes": 139470
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_arahan-video_390x844.jpg",
+        "bytes": 95810
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_wajah_1440x900.jpg",
+        "bytes": 19094
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_sepatu_390x844.jpg",
+        "bytes": 20020
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_sepatu_1440x900.jpg",
+        "bytes": 20020
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/tanpa-js_390x844.jpg",
+        "bytes": 45204
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/layar-awal_768x1024.jpg",
+        "bytes": 109838
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_footer_390x844.jpg",
+        "bytes": 21891
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/tanpa-js_video-memutar_390x844.jpg",
+        "bytes": 26487
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/layar-awal_360x800.jpg",
+        "bytes": 50594
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/layar-awal_1024x768.jpg",
+        "bytes": 108837
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/cta_arahan-foto_1440x900.jpg",
+        "bytes": 126462
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_cara-kerja_390x844.jpg",
+        "bytes": 66243
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_cara-kerja_1440x900.jpg",
+        "bytes": 76998
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_ide_1440x900.jpg",
+        "bytes": 116610
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/halaman-penuh_320x568.jpg",
+        "bytes": 751910
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/video_frame_akhir_1440x900.jpg",
+        "bytes": 22850
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/tanpa-js_video-memutar_1440x900.jpg",
+        "bytes": 26487
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/fokus-video_1440x900.jpg",
+        "bytes": 90851
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/bagian_beranda_390x844.jpg",
+        "bytes": 100886
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/screenshot/menu-mobile-terbuka_390x844.jpg",
+        "bytes": 40298
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/qa/check_static.py",
+        "bytes": 14361
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/laporan/MATRIKS_PENERIMAAN.csv",
+        "bytes": 7667
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/laporan/BATAS_VERIFIKASI.md",
+        "bytes": 2725
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/laporan/PANDUAN_JALANKAN_DAN_UNGGAH.md",
+        "bytes": 2421
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/laporan/CHECKPOINT.md",
+        "bytes": 2044
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/laporan/LAPORAN_IMPLEMENTASI.md",
+        "bytes": 9578
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/sumber_asli/JAGO_PROMPT_BASELINE_ASLI.zip",
+        "bytes": 2274142
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/story-3.svg",
+        "bytes": 5388
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/cosmetic-lipstick.svg",
+        "bytes": 3108
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/coffee-directed.svg",
+        "bytes": 4014
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/serum-editorial-480.webp",
+        "bytes": 29488
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/story-1.svg",
+        "bytes": 5154
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/coffee-editorial.webp",
+        "bytes": 95148
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/food-editorial.svg",
+        "bytes": 3403
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/coffee-raw.svg",
+        "bytes": 1817
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/perfume-hero.svg",
+        "bytes": 5520
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/perfume-editorial.webp",
+        "bytes": 66412
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/story-4.svg",
+        "bytes": 5360
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/fashion-bag.svg",
+        "bytes": 3082
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/coffee-simple-480.webp",
+        "bytes": 8530
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/perfume-editorial-480.webp",
+        "bytes": 23174
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/bag-editorial.webp",
+        "bytes": 74416
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/product-watch.svg",
+        "bytes": 4339
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/lifestyle-candle.svg",
+        "bytes": 3944
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/food-editorial.webp",
+        "bytes": 180872
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/food-editorial-480.webp",
+        "bytes": 59816
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/coffee-simple.webp",
+        "bytes": 30644
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/fashion-video-poster.webp",
+        "bytes": 25560
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/bag-editorial-480.webp",
+        "bytes": 18958
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/serum-editorial.webp",
+        "bytes": 86586
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/serum-botanical.svg",
+        "bytes": 5014
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/coffee-editorial-480.webp",
+        "bytes": 29822
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/images/story-2.svg",
+        "bytes": 5239
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/brand/favicon-180.png",
+        "bytes": 32190
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/brand/favicon-32.png",
+        "bytes": 2110
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/brand/logo-jago-prompt-256.png",
+        "bytes": 65137
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/brand/favicon-512.png",
+        "bytes": 252287
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/brand/logo-jago-prompt-96.png",
+        "bytes": 10987
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/brand/logo-jago-prompt.png",
+        "bytes": 1294370
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/fonts/plus-jakarta-sans-latin-500-normal.woff2",
+        "bytes": 12312
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/fonts/plus-jakarta-sans-latin-400-normal.woff2",
+        "bytes": 11816
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/fonts/plus-jakarta-sans-latin-600-normal.woff2",
+        "bytes": 12188
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/fonts/plus-jakarta-sans-latin-700-normal.woff2",
+        "bytes": 12244
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/fonts/plus-jakarta-sans-latin-800-normal.woff2",
+        "bytes": 11896
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/fonts/OFL-LICENSE.txt",
+        "bytes": 4534
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/assets/video/fashion-example.mp4",
+        "bytes": 3362437
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/index.html",
+        "bytes": 44545
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/css/styles.css",
+        "bytes": 40345
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/website/js/main.js",
+        "bytes": 13799
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/docs/MEDIA_MANIFEST.json",
+        "bytes": 1814
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/docs/AI_ASSET_PROVENANCE.json",
+        "bytes": 8419
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/docs/AUDIO_REVIEW.json",
+        "bytes": 2149
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/docs/DAFTAR_PERUBAHAN_BERKAS.json",
+        "bytes": 13314
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/docs/riwayat_1.1.0/AUDIT_DAN_REVISI.md",
+        "bytes": 9240
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/docs/riwayat_1.1.0/INVENTARIS_SUMBER.json",
+        "bytes": 8921
+      },
+      {
+        "path": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115/docs/audio-spektrogram.png",
+        "bytes": 897056
+      }
+    ]
+  },
+  "assets": {
+    "name": "ASET(1).zip",
+    "sha256": "0d9d9dd6e3ea86217c915bdeff6567c9ff470fc6f1281bbb5f717b7fea207ba1",
+    "bytes": 15645166,
+    "files": [
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.22.jpeg",
+        "bytes": 289813
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.39.jpeg",
+        "bytes": 157475
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.40.jpeg",
+        "bytes": 135251
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.414.jpeg",
+        "bytes": 111882
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.42.jpeg",
+        "bytes": 169643
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.425.jpeg",
+        "bytes": 190765
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.43.jpeg",
+        "bytes": 164531
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.431.jpeg",
+        "bytes": 199121
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.433.jpeg",
+        "bytes": 358225
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.44.jpeg",
+        "bytes": 152937
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.442.jpeg",
+        "bytes": 214016
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.45.jpeg",
+        "bytes": 104596
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.465.jpeg",
+        "bytes": 398518
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.486.jpeg",
+        "bytes": 146761
+      },
+      {
+        "path": "ASET/GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.4W5.jpeg",
+        "bytes": 117226
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.27.52.jpeg",
+        "bytes": 93606
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.018.jpeg",
+        "bytes": 158095
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.07.jpeg",
+        "bytes": 253282
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.08.jpeg",
+        "bytes": 175514
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.09.jpeg",
+        "bytes": 119753
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.091.jpeg",
+        "bytes": 117703
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.09A.jpeg",
+        "bytes": 253419
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.10.jpeg",
+        "bytes": 218768
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.121.jpeg",
+        "bytes": 134252
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.13R.jpeg",
+        "bytes": 118512
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.141.jpeg",
+        "bytes": 158403
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.151.jpeg",
+        "bytes": 224889
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.1A0.jpeg",
+        "bytes": 234601
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.1E2.jpeg",
+        "bytes": 305634
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.1Q0.jpeg",
+        "bytes": 189873
+      },
+      {
+        "path": "ASET/GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.1X2.jpeg",
+        "bytes": 169297
+      },
+      {
+        "path": "ASET/VIDEO 1/WhatsApp Video 2026-11-15 at 14.12.31.mp4",
+        "bytes": 2480926
+      },
+      {
+        "path": "ASET/VIDEO 1/WhatsApp Video 2026-11-15 at 14.12.33.mp4",
+        "bytes": 2427418
+      },
+      {
+        "path": "ASET/VIDEO 1/WhatsApp Video 2026-11-15 at 14.12.39.mp4",
+        "bytes": 2469276
+      },
+      {
+        "path": "ASET/VIDEO 1/WhatsApp Video 2026-11-15 at 14.12.40.mp4",
+        "bytes": 2451637
+      }
+    ]
+  },
+  "audit": {
+    "name": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_HERO_VIDEO_20261115(3).zip",
+    "sha256": "2c577798c10742805dbedb98bff0b083cf2f224b56975bdad621fa064663f92b",
+    "bytes": 13369868,
+    "files": [
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/00_MULAI_DI_SINI.txt",
+        "bytes": 3105
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/01_LAPORAN_AUDIT_UIUX.pdf",
+        "bytes": 4218288
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/02_ARAHAN_IMPLEMENTASI.txt",
+        "bytes": 15245
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/03_TEMUAN_DAN_PRIORITAS.csv",
+        "bytes": 3002
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/04_KRITERIA_PENERIMAAN.csv",
+        "bytes": 13579
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/05_INVENTARIS_SEMUA_BERKAS.csv",
+        "bytes": 14151
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/BATAS_UJI_BROWSER.txt",
+        "bytes": 415
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/DELIVERY_STATUS.json",
+        "bytes": 881
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/INPUTS_SHA256.json",
+        "bytes": 486
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/PACKAGE_VALIDATION.json",
+        "bytes": 1990
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/acceptance-targets.json",
+        "bytes": 18678
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/asset_integrity.json",
+        "bytes": 7592
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/audio_levels.txt",
+        "bytes": 1849
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/browser-attempts-summary.json",
+        "bytes": 818
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/browser-not-run.json",
+        "bytes": 4221
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/contrast-token-samples.json",
+        "bytes": 953
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/dom-simulation-results.json",
+        "bytes": 3759
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/full_decode.json",
+        "bytes": 115
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/mp4_boxes.json",
+        "bytes": 258
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/parse_json_font.json",
+        "bytes": 2816
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/static-results.json",
+        "bytes": 11341
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/validasi_sumber.json",
+        "bytes": 4610
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/06_BUKTI/video_metadata.json",
+        "bytes": 3476
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/ACUAN_HERO_ASLI.png",
+        "bytes": 488355
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/ASET_RASTER_01.jpg",
+        "bytes": 256571
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/ASET_RASTER_02.jpg",
+        "bytes": 145005
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/ASET_SVG_01.jpg",
+        "bytes": 77519
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/ASET_SVG_02.jpg",
+        "bytes": 49645
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/USULAN_POSTER_VIDEO_8s.jpg",
+        "bytes": 52491
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/VIDEO_FRAME_00-05_5s.jpg",
+        "bytes": 308270
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/VIDEO_FRAME_06-11_5s.jpg",
+        "bytes": 302845
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/VIDEO_FRAME_12-12_5s.jpg",
+        "bytes": 58537
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/VIDEO_FRAME_13s.jpg",
+        "bytes": 44879
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/WIREFRAME_HERO_DESKTOP.png",
+        "bytes": 610225
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/WIREFRAME_HERO_MOBILE.png",
+        "bytes": 980854
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/WIREFRAME_MOBILE_ATAS.png",
+        "bytes": 609329
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/07_VISUAL/WIREFRAME_MOBILE_BAWAH.png",
+        "bytes": 372341
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/08_SUMBER_ASLI/JAGO_PROMPT_BASELINE_ASLI.zip",
+        "bytes": 2274142
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/08_SUMBER_ASLI/VIDEO_FASHION_ASLI.mp4",
+        "bytes": 3362437
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/09_PROSEDUR_UJI/PETUNJUK_UJI.txt",
+        "bytes": 1659
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/09_PROSEDUR_UJI/run_browser_checks_baseline.py",
+        "bytes": 8891
+      },
+      {
+        "path": "AUDIT_JAGO_PROMPT_HASIL_DAHULU_20261115/SHA256SUMS.txt",
+        "bytes": 4009
+      }
+    ]
+  },
+  "content_audit": {
+    "name": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115.zip",
+    "sha256": "af3152c57a472ea4fa8709147dfb2084b7378881c9a0b1efc81faa89dbbfac44",
+    "bytes": 3137093,
+    "files": [
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/00_MULAI_DARI_SINI.md",
+        "bytes": 2958
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/01_LAPORAN_AUDIT_KONTEN.md",
+        "bytes": 12491
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/02_ATLAS_73_KOMPONEN.csv",
+        "bytes": 13164
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/02_ATLAS_KOMPONEN.md",
+        "bytes": 18077
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/03_MATRIKS_25_TEMUAN_KONTEN.csv",
+        "bytes": 11937
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/04_COPY_USULAN_PER_KOMPONEN.md",
+        "bytes": 8009
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/04_USULAN_COPY_SIAP_EDIT.csv",
+        "bytes": 5398
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/05_INVENTARIS_140_BERKAS.csv",
+        "bytes": 44425
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/06_INVENTARIS_BASELINE_52_BERKAS.csv",
+        "bytes": 8837
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/07_PETA_NAVIGASI_DAN_CANON.md",
+        "bytes": 3721
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/08_DAFTAR_SEMUA_MEDIA_GAMBAR.csv",
+        "bytes": 4256
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/08_MEDIA_DAN_PROVENANCE.md",
+        "bytes": 3308
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/09_BUKTI_QA_DAN_BATAS.md",
+        "bytes": 2564
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/09_INDEKS_72_SCREENSHOT_QA.csv",
+        "bytes": 9116
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/10_CHECKLIST_PENERIMAAN_EDITORIAL.csv",
+        "bytes": 3036
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/11_ARAHAN_REVISI_KONTEN_SAJA.md",
+        "bytes": 2429
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/AUDIT_MANIFEST.json",
+        "bytes": 1185
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/01_HERO_DESKTOP_ASLI.jpg",
+        "bytes": 143700
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/02_HERO_MOBILE_ASLI.jpg",
+        "bytes": 55747
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/03_HERO_DAN_MENU_MOBILE.jpg",
+        "bytes": 40298
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/04_BAGIAN_VIDEO_DESKTOP.jpg",
+        "bytes": 69839
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/05_BAGIAN_IDE.jpg",
+        "bytes": 116610
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/06_KARTU_FITUR.jpg",
+        "bytes": 170887
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/07_GALERI_FOTO.jpg",
+        "bytes": 179382
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/08_STORYBOARD_FOTO.jpg",
+        "bytes": 128948
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/09_PANDUAN_PEMULA.jpg",
+        "bytes": 66767
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/10_PERSONA.jpg",
+        "bytes": 82915
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/11_CTA_AKHIR.jpg",
+        "bytes": 42429
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/12_HALAMAN_MOBILE.jpg",
+        "bytes": 831084
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/13_ATLAS_WEBP.jpg",
+        "bytes": 179787
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/14_ATLAS_SVG.jpg",
+        "bytes": 72849
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/BUKTI_VISUAL/15_KONTAK_FRAME_VIDEO.jpg",
+        "bytes": 127730
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/LAPORAN_AUDIT_KONTEN.html",
+        "bytes": 77527
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/LAPORAN_AUDIT_KONTEN.pdf",
+        "bytes": 1065350
+      },
+      {
+        "path": "AUDIT_KONTEN_JAGO_PROMPT_INVESTOR_LOCK_20261115/SHA256SUMS_AUDIT.txt",
+        "bytes": 3300
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+# Contoh untuk hosting statis yang membaca berkas `_headers` di root situs (mis. Netlify, Cloudflare Pages).
+# Salin menjadi `_headers` di dalam folder yang diunggah HANYA bila hosting Anda memakai format ini.
+# Hosting belum ditetapkan; berkas ini bukan pilihan penyedia.
+
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; media-src 'self'; font-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
+  Strict-Transport-Security: max-age=31536000
+
+/*.html
+  Cache-Control: no-cache
+
+/assets/*
+  Cache-Control: public, max-age=86400
+
+# Staging dan pratinjau: tambahkan baris berikut agar tidak diindeks walau meta robots terlewat.
+# /*
+#   X-Robots-Tag: noindex

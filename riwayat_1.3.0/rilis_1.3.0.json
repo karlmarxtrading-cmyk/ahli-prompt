@@ -1,0 +1,12 @@
+{
+  "version": "1.3.0",
+  "registration_url": null,
+  "login_url": null,
+  "site_url": null,
+  "public_release_approved": false,
+  "note": "Isi hanya URL layanan akun nyata. Tidak ada backend atau auth dalam source 1.2.0.",
+  "account_flow_verified": false,
+  "audio_review_completed": false,
+  "media_publication_approved": false,
+  "product_claims_verified": false
+}

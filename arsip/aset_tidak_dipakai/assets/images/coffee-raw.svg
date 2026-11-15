@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Foto kopi biasa tanpa arahan">
+<title>Foto kopi biasa tanpa arahan</title>
+<defs><filter id="grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+  <feColorMatrix type="saturate" values="0"/>
+  <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+  <feBlend in2="SourceGraphic" mode="multiply"/>
+</filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<filter id="soft2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="soft3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9e9e7"/><stop offset="1" stop-color="#dcdcda"/></linearGradient>
+<linearGradient id="table" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfcfcc"/><stop offset="1" stop-color="#bdbdba"/></linearGradient></defs>
+<g><rect width="800" height="800" fill="url(#bg)"/>
+<rect y="520" width="800" height="280" fill="url(#table)"/>
+<g transform="translate(400 470)">
+ <ellipse cx="0" cy="96" rx="150" ry="18" fill="#000" opacity="0.12"/>
+ <path d="M-110 -40 L110 -40 L96 90 Q90 104 70 104 L-70 104 Q-90 104 -96 90Z" fill="#f4f4f2" stroke="#c9c9c6"/>
+ <ellipse cx="0" cy="-40" rx="110" ry="18" fill="#fafaf9" stroke="#c9c9c6"/>
+ <ellipse cx="0" cy="-36" rx="94" ry="12" fill="#7a6250"/>
+ <path d="M108 -10 q60 0 50 50 q-8 34 -60 30" fill="none" stroke="#e6e6e3" stroke-width="16"/>
+</g></g>
+<rect width="800" height="800" filter="url(#grain)" opacity="0.3"/>
+</svg>

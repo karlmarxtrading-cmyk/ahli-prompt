@@ -1,0 +1,444 @@
+{
+  "results": [
+    {
+      "test": "Reflow 1440x900",
+      "status": "PASS",
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyWidth": 1440
+      }
+    },
+    {
+      "test": "Hasil visual muncul layar awal 1440x900",
+      "status": "PASS",
+      "detail": {
+        "x": 148,
+        "y": 403.4375,
+        "width": 407.953125,
+        "height": 509.9375,
+        "top": 403.4375,
+        "right": 555.953125,
+        "bottom": 913.375,
+        "left": 148
+      }
+    },
+    {
+      "test": "Hero tidak menyembunyikan aset 1440x900",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Reflow 1280x800",
+      "status": "PASS",
+      "detail": {
+        "width": 1280,
+        "scrollWidth": 1280,
+        "bodyWidth": 1280
+      }
+    },
+    {
+      "test": "Hasil visual muncul layar awal 1280x800",
+      "status": "PASS",
+      "detail": {
+        "x": 68,
+        "y": 389.234375,
+        "width": 409.765625,
+        "height": 512.203125,
+        "top": 389.234375,
+        "right": 477.765625,
+        "bottom": 901.4375,
+        "left": 68
+      }
+    },
+    {
+      "test": "Hero tidak menyembunyikan aset 1280x800",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Reflow 1024x768",
+      "status": "PASS",
+      "detail": {
+        "width": 1024,
+        "scrollWidth": 1024,
+        "bodyWidth": 1024
+      }
+    },
+    {
+      "test": "Hasil visual muncul layar awal 1024x768",
+      "status": "PASS",
+      "detail": {
+        "x": 62.515625,
+        "y": 353.09375,
+        "width": 321.25,
+        "height": 401.5625,
+        "top": 353.09375,
+        "right": 383.765625,
+        "bottom": 754.65625,
+        "left": 62.515625
+      }
+    },
+    {
+      "test": "Hero tidak menyembunyikan aset 1024x768",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Reflow 768x1024",
+      "status": "PASS",
+      "detail": {
+        "width": 768,
+        "scrollWidth": 768,
+        "bodyWidth": 768
+      }
+    },
+    {
+      "test": "Hasil visual muncul layar awal 768x1024",
+      "status": "PASS",
+      "detail": {
+        "x": 47.609375,
+        "y": 332.296875,
+        "width": 447.53125,
+        "height": 559.40625,
+        "top": 332.296875,
+        "right": 495.140625,
+        "bottom": 891.703125,
+        "left": 47.609375
+      }
+    },
+    {
+      "test": "Hero tidak menyembunyikan aset 768x1024",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Reflow 390x844",
+      "status": "PASS",
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyWidth": 390
+      }
+    },
+    {
+      "test": "Hasil visual muncul layar awal 390x844",
+      "status": "PASS",
+      "detail": {
+        "x": 32,
+        "y": 374.640625,
+        "width": 326,
+        "height": 326,
+        "top": 374.640625,
+        "right": 358,
+        "bottom": 700.640625,
+        "left": 32
+      }
+    },
+    {
+      "test": "Hero tidak menyembunyikan aset 390x844",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Reflow 360x800",
+      "status": "PASS",
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "bodyWidth": 360
+      }
+    },
+    {
+      "test": "Hasil visual muncul layar awal 360x800",
+      "status": "PASS",
+      "detail": {
+        "x": 32,
+        "y": 395.171875,
+        "width": 296,
+        "height": 296,
+        "top": 395.171875,
+        "right": 328,
+        "bottom": 691.171875,
+        "left": 32
+      }
+    },
+    {
+      "test": "Hero tidak menyembunyikan aset 360x800",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Reflow 320x568",
+      "status": "PASS",
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "bodyWidth": 320
+      }
+    },
+    {
+      "test": "Hero tidak menyembunyikan aset 320x568",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Reflow 844x390",
+      "status": "PASS",
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyWidth": 844
+      }
+    },
+    {
+      "test": "Hero tidak menyembunyikan aset 844x390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Menu mobile awal tertutup",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Menu terbuka dengan fokus",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Escape mengembalikan fokus",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Klik luar menutup menu",
+      "status": "FAIL",
+      "detail": ""
+    },
+    {
+      "test": "Galeri tambahan dapat dibuka keyboard",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Galeri tambahan dapat ditutup keyboard",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "FAQ native berfungsi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Sticky header dan kembali ke atas aktif",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Seluruh gambar galeri Lihat 9 visual lain dalam seri kosmetik",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Seluruh gambar galeri Lihat 10 visual lain dalam seri kuliner",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Tidak ada JS exception pada pemuatan/interaksi biasa",
+      "status": "PASS",
+      "detail": []
+    },
+    {
+      "test": "Video 1: decode dan putar native",
+      "status": "PASS",
+      "detail": {
+        "duration": 10,
+        "error": null,
+        "ready": 4
+      }
+    },
+    {
+      "test": "Video 1: seek native",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 1: pause",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 1: selesai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 1: putar ulang",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 2: decode dan putar native",
+      "status": "PASS",
+      "detail": {
+        "duration": 10,
+        "error": null,
+        "ready": 4
+      }
+    },
+    {
+      "test": "Video 2: seek native",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 2: pause",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 2: selesai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 2: putar ulang",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 3: decode dan putar native",
+      "status": "PASS",
+      "detail": {
+        "duration": 10,
+        "error": null,
+        "ready": 4
+      }
+    },
+    {
+      "test": "Video 3: seek native",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 3: pause",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 3: selesai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 3: putar ulang",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 4: decode dan putar native",
+      "status": "PASS",
+      "detail": {
+        "duration": 10,
+        "error": null,
+        "ready": 4
+      }
+    },
+    {
+      "test": "Video 4: seek native",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 4: pause",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 4: selesai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video 4: putar ulang",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video sebelumnya berhenti saat video lain dimainkan",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Kegagalan media menampilkan pesan lokal",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Retry media pulih",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Pembesaran teks 200 persen: tanpa overflow horizontal",
+      "status": "FAIL",
+      "detail": {
+        "width": 390,
+        "scrollWidth": 427,
+        "bodyWidth": 427
+      }
+    },
+    {
+      "test": "Reduced motion: scroll otomatis",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Reduced motion: konten terlihat",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Tanpa JS: menu dapat diakses",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Tanpa JS: empat video native",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Tanpa JS: FAQ native",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Halaman akses: tidak mengumpulkan kredensial",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Halaman akses: status belum dibuka terlihat",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Halaman akses: reflow",
+      "status": "PASS",
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyWidth": 390
+      }
+    },
+    {
+      "test": "Storyboard lama tetap tersedia",
+      "status": "FAIL",
+      "detail": ""
+    }
+  ]
+}

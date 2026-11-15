@@ -1,0 +1,8 @@
+{
+  "website_files": 146,
+  "package_entries_before_self_and_checksums": 221,
+  "source_checks_passed": true,
+  "no_backend_added": true,
+  "browser_method": "set_content with inline resources; URL navigation blocked; no host deployment claim",
+  "status": "HOMEPAGE_IMPLEMENTED_NOT_END_TO_END_PRODUCTION"
+}

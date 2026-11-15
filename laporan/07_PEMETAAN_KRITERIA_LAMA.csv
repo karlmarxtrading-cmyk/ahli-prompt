@@ -1,0 +1,12 @@
+﻿KRITERIA_LAMA,PERLAKUAN,KRITERIA_PENGGANTI,ALASAN,BUKTI
+1.3.0 statis: CTA menuju halaman akses yang ada,Dipertahankan untuk preview; diganti untuk staging/production,[preview] CTA menuju halaman akses yang ada · [staging/production] CTA menuju layanan akun pada konfigurasi,Profil rilis: tujuan CTA berbeda per profil,static-preview.json; static-staging-fixture.json; static-production-fixture.json
+1.3.0 statis: Halaman akses jujur,Dipertahankan untuk preview; diganti untuk staging/production,[preview] Halaman akses jujur: belum dibuka · [staging/production] Halaman akses menampilkan tujuan resmi,"Status ""belum dibuka"" hanya benar selama layanan belum terhubung",idem
+1.3.0 statis: Status akun terlihat di homepage,Dipertahankan untuk preview; diganti,[staging] Tetap bertanda lingkungan uji · [production] Tanpa status pratinjau/staging,"Catatan pratinjau tidak boleh tampil di rilis sah, dan tidak boleh hilang sebelum itu",idem
+1.3.0 statis: Pratinjau tidak diindeks sebelum rilis,Dipertahankan untuk preview dan staging; diganti untuk production,[production] Beranda boleh diindeks; daftar.html dan 404.html tetap noindex,Indeks hanya pada rilis sah,idem
+1.3.0 statis: Gerbang rilis tidak PASS palsu,Diperkuat,Gerbang true wajib berbukti; 38 uji sistem rilis,Boolean manual tidak lagi cukup,release-system-results.json
+1.3.0 statis: Internal asset / Halaman internal noindex,Dipertahankan,Materi internal utuh dan di luar folder publik; bertanda tidak diindeks,Tetap berlaku,static-preview.json
+1.3.0 browser: 68 skenario dengan set_content,Diganti,50 skenario dengan navigasi HTTP + 4 skenario fixture,Aset ditanamkan bukan bukti navigasi; cakupan per skenario diperluas,browser-preview.json
+1.3.0: Audio bermakna dan caption terverifikasi (NOT VERIFIED),Dipecah,"A18a (PASS, mesin) dan A18b (NOT VERIFIED, manusia)",Isi kini diketahui; koreksi manusia belum,bukti/audio/TINJAUAN_AUDIO.md
+1.2.0 AC-08/AC-09: satu video fashion pada #hasil-video,Tidak berlaku,A07: empat video affiliate,Master instruction dan aset baru menggantikan video fashion,riwayat_1.3.0/laporan/02_REKONSILIASI_73_KOMPONEN.csv
+"1.2.0 AC-03: copy hero ""Gambar produk yang selaras…""",Tidak berlaku,A01: Canon 01,Canon terbaru pemilik,static-preview.json
+Audit lama: prompt/tutorial di homepage,Tidak dihidupkan kembali,A05,Bertentangan dengan master instruction,static-preview.json

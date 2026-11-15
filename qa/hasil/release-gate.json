@@ -1,0 +1,127 @@
+{
+ "version": "1.4.0",
+ "status": "NOT_READY_FOR_PUBLIC_RELEASE",
+ "scopes": {
+  "FRONTEND_READY": {
+   "ready": true,
+   "reason": "Semua rangkaian QA lulus pada source saat ini."
+  },
+  "ACCOUNT_PRODUCT_E2E_READY": {
+   "ready": false,
+   "reason": "registration_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder.; account_requires_login belum diputuskan (true/false). Tentukan apakah alur produk memerlukan halaman login terpisah.; Keterjangkauan URL belum diperiksa. Jalankan tools/periksa_url.py (menghasilkan bukti/rilis/url-check.json).; Belum terpenuhi: Alur akun pada layanan nyata (daftar, kegagalan input, login/logout, akses Account Page, penolakan tanpa sesi).; Belum terpenuhi: Klaim dua canon diuji pada produk nyata dengan skenario yang dapat diulang."
+  },
+  "LIVE_DEPLOYMENT_VERIFIED": {
+   "ready": false,
+   "reason": "Belum ada bukti/rilis/live-smoke.json dari tools/smoke_live.py terhadap site_url."
+  }
+ },
+ "profiles": {
+  "preview": {
+   "eligible": true,
+   "gaps": []
+  },
+  "staging": {
+   "eligible": false,
+   "gaps": [
+    {
+     "code": "registration_url",
+     "message": "registration_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder."
+    },
+    {
+     "code": "account_requires_login",
+     "message": "account_requires_login belum diputuskan (true/false). Tentukan apakah alur produk memerlukan halaman login terpisah."
+    }
+   ]
+  },
+  "production": {
+   "eligible": false,
+   "gaps": [
+    {
+     "code": "registration_url",
+     "message": "registration_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder."
+    },
+    {
+     "code": "account_requires_login",
+     "message": "account_requires_login belum diputuskan (true/false). Tentukan apakah alur produk memerlukan halaman login terpisah."
+    },
+    {
+     "code": "site_url",
+     "message": "site_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder."
+    },
+    {
+     "code": "url_check",
+     "message": "Keterjangkauan URL belum diperiksa. Jalankan tools/periksa_url.py (menghasilkan bukti/rilis/url-check.json)."
+    },
+    {
+     "code": "account_flow_verified",
+     "message": "Belum terpenuhi: Alur akun pada layanan nyata (daftar, kegagalan input, login/logout, akses Account Page, penolakan tanpa sesi)."
+    },
+    {
+     "code": "audio_review_completed",
+     "message": "Belum terpenuhi: Isi audio empat video dan caption telah diperiksa pendengar manusia."
+    },
+    {
+     "code": "media_publication_approved",
+     "message": "Belum terpenuhi: Hak publikasi komersial media (pemeran, merek pada kemasan dan narasi) dicatat."
+    },
+    {
+     "code": "product_claims_verified",
+     "message": "Belum terpenuhi: Klaim dua canon diuji pada produk nyata dengan skenario yang dapat diulang."
+    },
+    {
+     "code": "public_release_approved",
+     "message": "Belum terpenuhi: Persetujuan pemilik untuk rilis publik dicatat."
+    }
+   ]
+  }
+ },
+ "gates": {
+  "account_flow_verified": {
+   "label": "Alur akun pada layanan nyata (daftar, kegagalan input, login/logout, akses Account Page, penolakan tanpa sesi)",
+   "status": false,
+   "evidence": null,
+   "verified_by": null,
+   "date": null
+  },
+  "audio_review_completed": {
+   "label": "Isi audio empat video dan caption telah diperiksa pendengar manusia",
+   "status": false,
+   "evidence": null,
+   "verified_by": null,
+   "date": null
+  },
+  "media_publication_approved": {
+   "label": "Hak publikasi komersial media (pemeran, merek pada kemasan dan narasi) dicatat",
+   "status": false,
+   "evidence": null,
+   "verified_by": null,
+   "date": null
+  },
+  "product_claims_verified": {
+   "label": "Klaim dua canon diuji pada produk nyata dengan skenario yang dapat diulang",
+   "status": false,
+   "evidence": null,
+   "verified_by": null,
+   "date": null
+  },
+  "public_release_approved": {
+   "label": "Persetujuan pemilik untuk rilis publik dicatat",
+   "status": false,
+   "evidence": null,
+   "verified_by": null,
+   "date": null
+  }
+ },
+ "gaps": [
+  "registration_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder.",
+  "account_requires_login belum diputuskan (true/false). Tentukan apakah alur produk memerlukan halaman login terpisah.",
+  "site_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder.",
+  "Keterjangkauan URL belum diperiksa. Jalankan tools/periksa_url.py (menghasilkan bukti/rilis/url-check.json).",
+  "Belum terpenuhi: Alur akun pada layanan nyata (daftar, kegagalan input, login/logout, akses Account Page, penolakan tanpa sesi).",
+  "Belum terpenuhi: Isi audio empat video dan caption telah diperiksa pendengar manusia.",
+  "Belum terpenuhi: Hak publikasi komersial media (pemeran, merek pada kemasan dan narasi) dicatat.",
+  "Belum terpenuhi: Klaim dua canon diuji pada produk nyata dengan skenario yang dapat diulang.",
+  "Belum terpenuhi: Persetujuan pemilik untuk rilis publik dicatat."
+ ],
+ "website_tree_sha256": "a7bf5a7dd8160bdfa4bd3ee8c51bf2a6ad3f23707eaf5e8776e49c592bc90002"
+}

@@ -1,0 +1,446 @@
+{
+ "method": "Tangkapan elemen per section, header statis, reduced motion, ambang selisih kanal 12/255. Chromium 153.0.8010.12",
+ "baseline": "website/ dari JAGO_PROMPT_REKONSTRUKSI_SALES_1.3.0_20261115.zip",
+ "baseline_tree_sha256": "22cc6dd6ed871e93ed06307772ce3c000ad1cbd3489cda7e0d2fadd2679ead24",
+ "final_tree_sha256": "a7bf5a7dd8160bdfa4bd3ee8c51bf2a6ad3f23707eaf5e8776e49c592bc90002",
+ "pixel_identical": 2,
+ "layout_within_1px": 16,
+ "total": 20,
+ "reading": "layout_max_delta_px = pergeseran terbesar kotak elemen terhadap section. Selisih piksel kecil dengan layout sama berasal dari anti-alias teks pada posisi sub-piksel.",
+ "rows": [
+  {
+   "section": "beranda",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    967
+   ],
+   "final_size": [
+    1440,
+    967
+   ],
+   "elements": [
+    47,
+    47
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 0.0,
+   "changed_after_blur_pct": 0.0
+  },
+  {
+   "section": "hasil-video",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    1580
+   ],
+   "final_size": [
+    1440,
+    1735
+   ],
+   "elements": [
+    65,
+    77
+   ],
+   "layout_max_delta_px": null,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  },
+  {
+   "section": "ide",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    1197
+   ],
+   "final_size": [
+    1440,
+    1197
+   ],
+   "elements": [
+    26,
+    26
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 1.9,
+   "changed_after_blur_pct": 0.232,
+   "changed_bbox": [
+    121,
+    115,
+    1317,
+    1090
+   ]
+  },
+  {
+   "section": "fitur",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    1643
+   ],
+   "final_size": [
+    1440,
+    1643
+   ],
+   "elements": [
+    51,
+    51
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 1.181,
+   "changed_after_blur_pct": 0.084,
+   "changed_bbox": [
+    121,
+    115,
+    1319,
+    1478
+   ]
+  },
+  {
+   "section": "arahan-foto",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    3206
+   ],
+   "final_size": [
+    1440,
+    3206
+   ],
+   "elements": [
+    80,
+    80
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 1.181,
+   "changed_after_blur_pct": 0.133,
+   "changed_bbox": [
+    120,
+    273,
+    1311,
+    2652
+   ]
+  },
+  {
+   "section": "arahan-video",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    1087
+   ],
+   "final_size": [
+    1440,
+    1087
+   ],
+   "elements": [
+    39,
+    39
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 1.789,
+   "changed_after_blur_pct": 0.258,
+   "changed_bbox": [
+    120,
+    256,
+    1319,
+    955
+   ]
+  },
+  {
+   "section": "pemula",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    529
+   ],
+   "final_size": [
+    1440,
+    530
+   ],
+   "elements": [
+    19,
+    19
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  },
+  {
+   "section": "cerita",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    656
+   ],
+   "final_size": [
+    1440,
+    655
+   ],
+   "elements": [
+    18,
+    18
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  },
+  {
+   "section": "mulai",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    812
+   ],
+   "final_size": [
+    1440,
+    813
+   ],
+   "elements": [
+    12,
+    12
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  },
+  {
+   "section": "footer",
+   "viewport": "1440x900",
+   "baseline_size": [
+    1440,
+    233
+   ],
+   "final_size": [
+    1440,
+    232
+   ],
+   "elements": [
+    21,
+    21
+   ],
+   "layout_max_delta_px": 4,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  },
+  {
+   "section": "beranda",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    1558
+   ],
+   "final_size": [
+    390,
+    1558
+   ],
+   "elements": [
+    47,
+    47
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 0.0,
+   "changed_after_blur_pct": 0.0
+  },
+  {
+   "section": "hasil-video",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    3728
+   ],
+   "final_size": [
+    390,
+    4109
+   ],
+   "elements": [
+    65,
+    77
+   ],
+   "layout_max_delta_px": null,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  },
+  {
+   "section": "ide",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    1599
+   ],
+   "final_size": [
+    390,
+    1599
+   ],
+   "elements": [
+    26,
+    26
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 1.853,
+   "changed_after_blur_pct": 0.39,
+   "changed_bbox": [
+    21,
+    74,
+    357,
+    1430
+   ]
+  },
+  {
+   "section": "fitur",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    2250
+   ],
+   "final_size": [
+    390,
+    2250
+   ],
+   "elements": [
+    51,
+    51
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 2.467,
+   "changed_after_blur_pct": 0.331,
+   "changed_bbox": [
+    21,
+    74,
+    369,
+    2133
+   ]
+  },
+  {
+   "section": "arahan-foto",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    7143
+   ],
+   "final_size": [
+    390,
+    7143
+   ],
+   "elements": [
+    80,
+    80
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 1.847,
+   "changed_after_blur_pct": 0.229,
+   "changed_bbox": [
+    20,
+    111,
+    370,
+    6958
+   ]
+  },
+  {
+   "section": "arahan-video",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    1594
+   ],
+   "final_size": [
+    390,
+    1593
+   ],
+   "elements": [
+    39,
+    39
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  },
+  {
+   "section": "pemula",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    817
+   ],
+   "final_size": [
+    390,
+    817
+   ],
+   "elements": [
+    19,
+    19
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 6.35,
+   "changed_after_blur_pct": 1.762,
+   "changed_bbox": [
+    0,
+    0,
+    390,
+    752
+   ]
+  },
+  {
+   "section": "cerita",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    1097
+   ],
+   "final_size": [
+    390,
+    1097
+   ],
+   "elements": [
+    18,
+    18
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": 4.876,
+   "changed_after_blur_pct": 0.908,
+   "changed_bbox": [
+    21,
+    74,
+    368,
+    1096
+   ]
+  },
+  {
+   "section": "mulai",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    757
+   ],
+   "final_size": [
+    390,
+    758
+   ],
+   "elements": [
+    12,
+    12
+   ],
+   "layout_max_delta_px": 0,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  },
+  {
+   "section": "footer",
+   "viewport": "390x844",
+   "baseline_size": [
+    390,
+    428
+   ],
+   "final_size": [
+    390,
+    436
+   ],
+   "elements": [
+    21,
+    21
+   ],
+   "layout_max_delta_px": 8.0,
+   "changed_pixel_pct": null,
+   "note": "ukuran section berubah"
+  }
+ ]
+}

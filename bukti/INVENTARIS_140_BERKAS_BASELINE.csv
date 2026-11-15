@@ -1,0 +1,141 @@
+﻿PATH,BYTES,SHA256,STATUS,PERAN
+README.md,1848,6d96f81f25fdeabc4f9d87b4a5d45341f9ebf50faae7d80ba58920b468d1b6f7,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+SHA256SUMS.txt,14686,ba3dc3e3bd530b3ff05252887a23974a6396ae3c8adc57e18dc1d27f3bf3bc6a,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+docs/AI_ASSET_PROVENANCE.json,8419,e308b087bc3c0ee17239aee11fb6a776cad9a685fef73af32b8070a85a5d120e,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+docs/AUDIO_REVIEW.json,2149,cdd7b412ee558707c5858c9e75526c656a3fc4f93de6056fb34cbd4947f5cf3c,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+docs/DAFTAR_PERUBAHAN_BERKAS.json,13314,f9023020d5e858be5d616369cb42d544511cfd3445b6be8cc82d27489962333a,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+docs/MEDIA_MANIFEST.json,1814,74b46e2d5b49b53bc6d0aa2a5133be4070633a542364d52f33a7e0364773c1ff,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+docs/audio-spektrogram.png,897056,e76b88f3ab0ed9733903ebdbd388bebbd2fa75839dca706358dd4944379b4336,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+docs/riwayat_1.1.0/AUDIT_DAN_REVISI.md,9240,278d8c200d40860a7aaa2f75879cd2c9052a9efb58632bff9a7b1ee0adbd9df7,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+docs/riwayat_1.1.0/INVENTARIS_SUMBER.json,8921,abdc594aa3756ba1a7622c68d4700afeb9b89639f01794d8d7955445c3f9703a,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+laporan/BATAS_VERIFIKASI.md,2725,a0292b8003e87d44f175f97e52ea73330c8114d190d9d08005d7005e688898c0,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+laporan/CHECKPOINT.md,2044,130f46f9742ad67f9545045b4c3fd2307311f542676b75597c3263492716a8bd,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+laporan/LAPORAN_IMPLEMENTASI.md,9578,d956a074468d20964c9c44e71fc24cd9fa5b9e1f4e2eac4d404728c658752741,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+laporan/MATRIKS_PENERIMAAN.csv,7667,ca0e78c4df6f1c6e80051df8a037798f715174270191b9da53df40cd1da7c60c,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+laporan/PANDUAN_JALANKAN_DAN_UNGGAH.md,2421,0763b3606aad3a575b8c6ea6ec0ac65906f5fc5a2e4f176b6fd2a71205d0de38,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+pratinjau_lokal.py,2850,2deddb0c1e034772a4b3b8877de78dc2767989bf35f283afdfe128d9e13f4c0e,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+qa/README.md,898,a075b484ae888700af2f177d7bf3e5d2a663d0d8ad06199d844c659316556f6f,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/analisis_audio_vad.py,1157,94271278012805ffd17e2748871e9b643d375a024cf2937d029ff46540fa8c43,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/browser-tests.py,57102,54f35c42b8ff349329e38c9fe88b29e7f7b51413c5dabb62ec1ee4fe3a54a4a8,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/check_static.py,14361,d7a6d768e5da366e3c177ad94b83eeaa7986f6aff66dcf316245b984e905acb7,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/dom-interaction-tests.cjs,22511,46e8224e6c9aefd39b435be2163dd33cd75b7016a235838380a743a8486415cd,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/extract_dom.py,1306,608964c600006f8084a745e94886ca854d3ac4944d1e668d7e7dae0010cad063,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/hasil/browser-results.json,50965,3524456c0af1011b5d98c9fd81bbadf471d400a2bc3d38f1a9827bf1c1b1418f,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/hasil/dom-interaction-results.json,4699,5cd1c8cbf8ecd18064c0c2cc6313a6f4a7db1a243b96e233750173a38343c84c,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/hasil/page-dom.json,77961,b4226a04bbb36b1d6a596ede497a38727cb26eaf4697e8b4bacc2ac3b70c61f8,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/hasil/static-results.json,15473,e4564ae19c2c4c55e6744ca142eb16344aa2b9a553a2de1ccd8c0b8964429931,BUKTI_HISTORIS,Pengujian versi lama; tidak diwariskan sebagai PASS versi baru.
+qa/screenshot/bagian_arahan-foto_1440x900.jpg,179382,44bcd28375890e7dd8973d60b1e82e7f5a0497afb4640285c085c21014acfa01,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_arahan-foto_390x844.jpg,139470,cd26a88c74444e345c0836a086ddf07bf93fbd4b9bc39375ce26b05346855885,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_arahan-video_1440x900.jpg,128948,de3ff0637a51e8022e5c1a756e381c14e22d43faf721975eb9cdd7d845547c95,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_arahan-video_390x844.jpg,95810,6170e55e323af208aaaf3f3ef6ee4c8a921ac75afc72df6fbc50965808ea514c,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_beranda_1440x900.jpg,151625,ffd2fad7cdd9b77e1415872403f0082892f45d1886f862b38d425d3568b5acd0,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_beranda_390x844.jpg,100886,2176ad54fba3bb28864f785435e6ff4ef37502d8adb91f2058a72e2541f407ba,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_cara-kerja_1440x900.jpg,76998,8cb627bb754943a303f48942c04f4cd6cc07703530a469992bf5ffd230e5d047,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_cara-kerja_390x844.jpg,66243,c0183e0aacfa36d81f3e777d5f72a9a3cac152639ccf1ba0d14022b54256ee24,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_cerita_1440x900.jpg,82915,da1b5b4b35553c30c2934112b8ed144d703f952ccf9b9cd69ed3b63687abbfb8,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_cerita_390x844.jpg,63928,0f301be161d3071bb26c8cc71bdc0f491b023a0ebb07d7458ba3ea47725db342,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_cta-akhir_1440x900.jpg,42429,c5cd3e84ff59c341cd8f4dcf3b40f56f519868ac5a3c2177f028e9beb32d6840,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_cta-akhir_390x844.jpg,33818,8d24759a5d470a0ada9040cc7f0fcc328932e2b5c8611529acf7354b59355f3b,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_fitur_1440x900.jpg,170887,76bd1335b73a7176296a671680d55a9daefa57c627a2f1dadc6b2e914b411258,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_fitur_390x844.jpg,118718,55e895aff6c3925c87273771e1e5ebb46b4fda5aa6a4148cb9e5a009c25d1572,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_footer_1440x900.jpg,25426,b3b80a0a4c7421043abdcefe1eded92a2cd3aa9953b10176633cff215edda3ad,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_footer_390x844.jpg,21891,3d86db4ec5d4998f525ca724fd8fb203d6bdaf0cb7f1b0db8337ca67423830d1,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_hasil-video_1440x900.jpg,69839,a256d91dc17f76d9a65261460c52ea4b09779bdfc6fcd300d1911c8760466a28,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_hasil-video_390x844.jpg,59156,135e4c717a5bf35fd59988b93b6735c82d738722721d46bf81eebb2293f3ed72,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_ide_1440x900.jpg,116610,fc496c25eff0a04679ac512f9db1950caa2f623cb2079b30de31a5562f039188,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_ide_390x844.jpg,79361,426f5cc63b318e9ffcd67a810627a3fc0a08c2ab9e237bb700eb384e95dacc7e,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_pemula_1440x900.jpg,66767,0cfb25d1280002c9eb6a87c8fdc8982bedbcfd3ac477d3a2c73d4078154f0a13,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/bagian_pemula_390x844.jpg,49112,0ba4f040372f5bac78d27f4e9d5bd9a9539cfa53b815418035a99e6a1065b671,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/cta_arahan-foto_1440x900.jpg,126462,a99a4fbc14f393b1cc2f4824d3dc1eba7629f10cdc3e8e1b4d6d65696340dea7,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/cta_arahan-foto_390x844.jpg,43359,6dca373f242ed39fe2422ba88478477d33c930b360716003c56402efcebe311f,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/cta_hasil-video_1440x900.jpg,84479,db03b7c8ff5ac56f402b8ec94bc2d8c4a0953f8dfec233cfa8be48950ca85cdf,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/cta_hasil-video_390x844.jpg,47206,e3db4804abb365adbe59fb52bc9caba432d06afd2924529b113ca515615475ae,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/fokus-cta-hero_1440x900.jpg,143968,67972b849b4deda0f7fb74fa07b36d6eebfe78ab46c2df991a174fb1ff4c9318,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/fokus-video_1440x900.jpg,90851,dbd14708d30ea7244c53b5ae1e294baec9105209c58b035762ff151e056aa627,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/font-gagal_390x844.jpg,56002,4fa76b66bf99b3339edf9c309a5b6ecf3302843a1ea020c884d94bbcc2ad8b83,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/gambar-gagal_390x844.jpg,47685,41c634cab0b1ad1035b51d6212feedca299f03c29c6ed8b58b38d0b74e666115,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/halaman-penuh_1440x900.jpg,1115003,919a01b8cfa76108b535468be3d07483db816ba817337220137a4ac29d9a3e5d,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/halaman-penuh_320x568.jpg,751910,e8a156ed6b82b3501462c06aa31ef017b686e10f8073d1a90b95c6043d4f7a82,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/halaman-penuh_390x844.jpg,831084,1ef79a738fb7fa418d353ff209368ddf5c65e99092eabcf24652cf3f21be2c81,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/halaman-penuh_768x1024.jpg,1030622,5b299e2242741ccf1c20b089605c8552bf7d4dd51bb886e25ef446aea270c170,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/halaman-penuh_844x390.jpg,1032057,93bf087c0f8c014c46c7d7bd17b73f2ee5101deb69dba0fd01c51688b99d7cb2,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/hero-rincian-prompt_1440x900.jpg,85413,200903ea16a491bb8f6415c469029a9fffa260e51977215eb5c71306f94ec574,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/hero-rincian-prompt_390x844.jpg,77842,9c7cf808050426879c183818d84e1426d000c51848e7b88dd3cb348e02c74771,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/layar-awal_1024x768.jpg,108837,f3fd5a2f6702ec8d3381fb0fa2924fd08ac823e4901305b8fc8e8b35938f409f,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/layar-awal_1280x800.jpg,134824,b7a31be64d30efd3488fd9b5b84aaae4771ec2b1f42620ee754a94957ca91615,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/layar-awal_1440x900.jpg,143700,f418e59feba2c778f5a8f87c728a7fd2cae9ff3e3778d0d2684d1e8a90b7b9b6,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/layar-awal_320x568.jpg,31843,0ef5e6f9f29a78f7357ebd69c6441f7cd644a98ab10380114faa455d875a5643,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/layar-awal_360x800.jpg,50594,4e4b06b8d3dc7692fb860d27a3c518c8402bbb5917d078c0e75261e4e882a322,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/layar-awal_390x844.jpg,55747,3b247664055452d35b3c7bda5b3900ad0ad64761967469e70ce9f969e3a37165,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/layar-awal_768x1024.jpg,109838,e892de9686c3980b31e854816db62904648c515f7145cca4aa53dca6c8f2d221,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/layar-awal_844x390.jpg,49594,fd3924b65992b894c688c507c683d06aca8f286508c66e6ee77cba40a4d48817,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/menu-mobile-terbuka_390x844.jpg,40298,8e69d9cdfc5644457079f2b8e4645d43fa11ecf43475c80760a1e5939360cef3,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/storyboard-memutar_1440x900.jpg,103489,f12c7dfc02a20a2cff02998a6f0bb49ee3236c792b2406c1495e4999b4f5a0dd,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/tanpa-js_1440x900.jpg,143393,183f1dc51dc8fdc7f96e43902e4a37f58540c1496f71ff4f33ed5203e9c6b08c,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/tanpa-js_390x844.jpg,45204,5397b371472d03c9e38ff89b15b545687ee39ae70c240ac1848fd374470b6e55,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/tanpa-js_video-memutar_1440x900.jpg,26487,c841a91d0104fa7f881915ad8f1200ad462b66f51813611ee4b7594fa81beb19,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/tanpa-js_video-memutar_390x844.jpg,26487,c841a91d0104fa7f881915ad8f1200ad462b66f51813611ee4b7594fa81beb19,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_akhir_1440x900.jpg,22850,fa9cbc22e2aee3893d610a998ef2956c0edef7af42f40f07921ed7d5b2fdcf01,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_akhir_390x844.jpg,22850,bab8cc47a82a473d73de7a51061f9876b23939b3bb8464fd4f4e340d3f281866,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_awal_1440x900.jpg,25503,0da67e71e781df37dcd8516c3e7cae017ecb6b07b76a3e219f6ccfe67756e286,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_awal_390x844.jpg,25499,28c6594c59a4853514ca2175499e82f0fce0e9ca43b8eab678e48b992127f0d8,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_sepatu_1440x900.jpg,20020,f98d1a476bf9dccdeb6067788cdfb21178b1adb7e02abe0af45b26a7fd6207ab,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_sepatu_390x844.jpg,20020,f98d1a476bf9dccdeb6067788cdfb21178b1adb7e02abe0af45b26a7fd6207ab,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_tas_1440x900.jpg,20772,5efd82476590a2aebced7fff22c61ea5a9f1a5e41e60e781c3b9a84a68261fba,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_tas_390x844.jpg,20772,5efd82476590a2aebced7fff22c61ea5a9f1a5e41e60e781c3b9a84a68261fba,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_wajah_1440x900.jpg,19094,9714c1a5f26e1c96b02c2a4d631af3de2b79bfb52aa521c6dd408f2979db4cd8,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_frame_wajah_390x844.jpg,19094,9714c1a5f26e1c96b02c2a4d631af3de2b79bfb52aa521c6dd408f2979db4cd8,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_gagal_404_390x844.jpg,47901,a70c8fddc3b18eb3207e57780cba1db017aa8eb04c3c149e5cabfd511458097a,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_gagal_offline_390x844.jpg,47907,508530f2800da1aff7fe633ad30be422be54fe9967a3d623b379531cb3286f3d,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_gagal_rusak_390x844.jpg,47906,be79fe01221b9dbbc77c2b8b1189dfceb6bba7b2f609d46b6aad481d46ef0dc5,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_memutar_1440x900.jpg,91659,786418690f0ae313a7ee8b029f7d203c2e31ec9cee356f3ea0fc0eb03fdbbca1,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_poster_1440x900.jpg,90585,5ef5457a4dc974c15b8f6f692c1e5c1279a68ee44a5f57c356eec23c3552ab1b,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/video_selesai_1440x900.jpg,90611,ebb32d4988f310783c84c362995d0846105ea67586c693d38f090bf39f24bbea,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/zoom_1280x1024_at400pct_zoom_reflow_320.jpg,80896,9867e8d8d2495d2f7c48d880c6509b182fe9fc6f87374e09a98b9ed479fa7216,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/zoom_1280x800_at200pct_zoom.jpg,102964,c43739aff62b8b6553494a05e6e8900d67b87f4d55f81e3e85c28149c5303676,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/zoom_1280x800_teks_200pct.jpg,117652,72de1d628a0a4fc32c812ab133ba6ad2046a9f407d93daf90f81450d999c15a5,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/zoom_1440x900_at200pct_zoom.jpg,133558,7675132395d1abfcb3701cfc46e0bd3b984c5121a986c56e4a6cc2b0677ee7bc,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+qa/screenshot/zoom_390x844_teks_200pct.jpg,47953,9812f1a1d2aff814e9e45c81ecbbc685dd33c2e6bd2b65e36c27698f06a247d1,BUKTI_HISTORIS,Screenshot sumber 1.2.0; bukan bukti source 1.3.0.
+sumber_asli/JAGO_PROMPT_BASELINE_ASLI.zip,2274142,0571ca1485a0edc6e17bcdd46971d979d8e07a27f0d0c6c911294d0c4c5e923d,RUJUKAN_HISTORIS,"Dokumen, checksum, atau baseline di dalam paket sumber; keputusan terbaru mengatasi ketentuan konten lama."
+website/assets/brand/favicon-180.png,32190,c09f2e805d61851886909274f9eb85a2ae15776e8e110293b996fdb09c615165,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/brand/favicon-32.png,2110,a7c20f506f15541403dd3d10e71f5a643a73301a96c482af61fcc5d78df20b78,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/brand/favicon-512.png,252287,4c15d6579cc4fd2777331887c5dafc7d54eaf72eb6befac959fcaae1a5c54279,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/brand/logo-jago-prompt-256.png,65137,5e23069a404ee6ff60eed39e9cf0cd7ad42fb605cebd8cc0a4475d30bf17508e,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/brand/logo-jago-prompt-96.png,10987,da20b3b2bee973fb29166fca94f5b3d4aa2e20f93d07cbb9da21103c5a85ba0a,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/brand/logo-jago-prompt.png,1294370,f7763beecd2bcd31c8b59a81fc3569a56ff0194d836378ca470cc3f261630cfa,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/fonts/OFL-LICENSE.txt,4534,e07fd1167c2aaaa6fb965dd66e1e73b13c9c95b76b2d648b6e938780f30b37af,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/fonts/plus-jakarta-sans-latin-400-normal.woff2,11816,221a4135d06a4b33abbd535e9a0da4e565d19545ddd9267c4e678a916d54d9b6,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/fonts/plus-jakarta-sans-latin-500-normal.woff2,12312,bad081c8dbc15aed6c5e4cde5461914f7b3bdc295b7a7aed177e4beddb79bffa,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/fonts/plus-jakarta-sans-latin-600-normal.woff2,12188,8872bb5c9111df9bd3162c2394aee6354d782b13408a4dd5bbf65c48207206e6,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/fonts/plus-jakarta-sans-latin-700-normal.woff2,12244,2050755bf475817c96ac7d914c7f07cc3c2d11ff4b3fb4747b8d41de584aad17,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/fonts/plus-jakarta-sans-latin-800-normal.woff2,11896,5f301a8ef9c266c8b596e6793d3cc826daeff9849c5af035f5386439137955ad,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/bag-editorial-480.webp,18958,e3a5fd614349a9c5a0f2f5967552b61ffc1dc78a23831405e56a443b3f6f4b4f,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/bag-editorial.webp,74416,34362c894a8079c24a6690d29c2567cf2d7a8e41e9256f465c1bd7eb0e77ed73,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/coffee-directed.svg,4014,5f920980521adbc06789b767ae2952c9bd4211efb0ec7de8dd2926b2ab00f50b,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/coffee-editorial-480.webp,29822,ae92e592bc08034b727dc641970564b10497ddfde6e85e9cad9547e93b8a6b96,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/coffee-editorial.webp,95148,782f57f785d12088efa42dd3d533dbcbf74ea6f40df13f7dfb66e029b8214f36,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/coffee-raw.svg,1817,80aca480b6d5a0312d7a12ae5e2b7eec6b6e5add671eb9a1bd01e1e76da46e20,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/coffee-simple-480.webp,8530,3343a45e64f5a4ff67cc10fe4272f6aa9734492139636c5fe02c871c25035d55,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/coffee-simple.webp,30644,d39800bd3d0c7df8770dfc2174fb558efca62d3ff50db6a2071a91bca13f0930,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/cosmetic-lipstick.svg,3108,7884b7b0e462ba1a2029bae2a1b4470043b3a172c8ee6d3f3a38b0513871217a,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/fashion-bag.svg,3082,2fc00439bef4ec1cc589466d6e6231673b44c65372be9e0e733629d900a1f7d3,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/fashion-video-poster.webp,25560,a43081727d9ec5c98366eed39dbcfaaff4f55c859e83be0c71bc262602d83019,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/food-editorial-480.webp,59816,ad2ed3df02e031df6bb9cc6e4198640f02e91d2e8c4141a7e2b7ddaf45efc925,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/food-editorial.svg,3403,f0893df632427a721d8c57cb99f61db0895beb7ff6a7984f0a0555cbd1046caf,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/food-editorial.webp,180872,cb14f5830d26c82bc6b5de3db7f3ed0884856b3d4e5df72a2baa34694764686f,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/lifestyle-candle.svg,3944,bbe34cf23c93a022ed1e282bbec43ab97a96717b3ba155379c700ba3d791a71a,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/perfume-editorial-480.webp,23174,d4291d9ce14def24217ff404b3b058f8d0def5b42ebff20fb5d89d9676496d9d,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/perfume-editorial.webp,66412,9c94dd6a178fec761c339128d4c5a85360eba89a1a63a05733255e6f04a9d0f6,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/perfume-hero.svg,5520,6d37f6930f9a7dd6ccfb4f71251fd99176bee8a9cbd79e37b270f23fda6b19fc,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/product-watch.svg,4339,b02c5799c1b6541b9d5794992ba324812fb19831c1b1ef8666c3221b9ccb3655,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/serum-botanical.svg,5014,f66c6938171b8576eab9e7b834991ecb92787861b611326eb5c50f749e8856e8,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/serum-editorial-480.webp,29488,0aba9eb1662c062a3c69a883c2f0c9479fefb2674718957915c0079e69d37da7,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/serum-editorial.webp,86586,1b1d9f5eca881e93ab98fa9627c7f25b3ed8ac92bfc54cfeb249e8c21ba753a8,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/story-1.svg,5154,41dc4c6120f6c1c79742641e819a6a62766406ad0ab0866e29a4719304d586ec,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/story-2.svg,5239,7063c565eb243e09741316960dffea12dc379c53bfd54c88fc465362dc417808,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/story-3.svg,5388,5c6d05a6ee78f46936ddb4d2229cc622a6c09a06a6ba9262938bdd43a2533006,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/images/story-4.svg,5360,f7ff2f918fa4c6cf77fefe0a75c719bbab37bde06898b4ea65e11cf47ac47624,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/assets/video/fashion-example.mp4,3362437,f59480300e71a87cc52bbd693014d055cf569c7161d0e556c421452d09ce09f3,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/css/styles.css,40345,55c68c377c76d9aba7620be260febfec68f374c78d3b8fa941121aeffce1f1ef,IDENTIK,Source/aset website; digunakan sebagai baseline desain.
+website/index.html,44545,da06b51908aa4025f0a10b10663f77e5e4381c0e397d8b63feecfb90de56fe61,DIUBAH,Source/aset website; digunakan sebagai baseline desain.
+website/js/main.js,13799,3a4a8c7428416d5b009c1ffe3f6e725fa81e1f3bbf06b43ada5dc2bb0aad0c22,DIUBAH,Source/aset website; digunakan sebagai baseline desain.

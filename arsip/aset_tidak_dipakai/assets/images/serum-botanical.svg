@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Foto konsep serum dengan suasana botani dan cahaya alami">
+<title>Foto konsep serum dengan suasana botani dan cahaya alami</title>
+<defs><filter id="grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+  <feColorMatrix type="saturate" values="0"/>
+  <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+  <feBlend in2="SourceGraphic" mode="multiply"/>
+</filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<filter id="soft2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="soft3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef0e6"/><stop offset="1" stop-color="#d9ddcc"/></linearGradient>
+<radialGradient id="sun" cx="0.18" cy="0.12" r="0.8"><stop offset="0" stop-color="#fffdf5" stop-opacity="0.95"/><stop offset="1" stop-color="#fffdf5" stop-opacity="0"/></radialGradient>
+<linearGradient id="stone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e7e2d6"/><stop offset="1" stop-color="#c9c2b2"/></linearGradient>
+<linearGradient id="stoneSide" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bdb5a3"/><stop offset="1" stop-color="#a39b88"/></linearGradient>
+<linearGradient id="amber" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7a8a6a"/><stop offset="0.25" stop-color="#b9c4a4"/><stop offset="0.55" stop-color="#8d9c7b"/><stop offset="1" stop-color="#5c6a4f"/></linearGradient>
+<linearGradient id="dropper" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2b2a27"/><stop offset="0.35" stop-color="#55524c"/><stop offset="1" stop-color="#1c1b19"/></linearGradient>
+<linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9fb08a"/><stop offset="1" stop-color="#5f7352"/></linearGradient>
+<linearGradient id="leaf2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b8c6a3"/><stop offset="1" stop-color="#7d906b"/></linearGradient></defs>
+<g>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<rect width="800" height="1000" fill="url(#sun)"/>
+<!-- leaf shadows on wall -->
+<g opacity="0.12" filter="url(#soft)" fill="#3c4733">
+  <path d="M600 60 C700 120 760 220 740 330 C660 280 610 190 600 60Z"/>
+  <path d="M660 300 C740 330 790 400 790 470 C720 460 680 400 660 300Z"/>
+  <path d="M520 40 C560 120 560 200 520 260 C490 190 490 110 520 40Z"/>
+</g>
+<!-- stone plinth -->
+<ellipse cx="420" cy="860" rx="330" ry="40" fill="#6f6a5c" opacity="0.35" filter="url(#soft)"/>
+<path d="M120 700 Q120 680 150 676 L690 664 Q720 664 724 688 L730 820 Q730 850 700 852 L150 860 Q118 860 116 830Z" fill="url(#stoneSide)"/>
+<path d="M120 700 Q120 680 150 676 L690 664 Q720 664 724 688 L726 720 Q600 735 420 735 Q240 735 118 726Z" fill="url(#stone)"/>
+<path d="M200 700 q60 -8 120 2 M480 690 q50 6 120 -4" stroke="#b1a995" stroke-width="2" fill="none" opacity="0.6"/>
+<!-- bottle -->
+<g transform="translate(420 520)">
+  <ellipse cx="34" cy="200" rx="140" ry="16" fill="#3d3a30" opacity="0.35" filter="url(#soft2)"/>
+  <rect x="-92" y="-40" width="184" height="240" rx="26" fill="url(#amber)"/>
+  <rect x="-92" y="-40" width="184" height="240" rx="26" fill="none" stroke="#fff" stroke-opacity="0.35"/>
+  <rect x="-74" y="-28" width="14" height="210" rx="7" fill="#fff" opacity="0.45"/>
+  <rect x="58" y="-20" width="6" height="190" rx="3" fill="#fff" opacity="0.25"/>
+  <rect x="-54" y="40" width="108" height="96" rx="3" fill="#f6f2e8"/>
+  <rect x="-34" y="62" width="68" height="6" rx="3" fill="#3f4936"/>
+  <rect x="-24" y="80" width="48" height="3" rx="1.5" fill="#3f4936" opacity="0.5"/>
+  <rect x="-30" y="92" width="60" height="3" rx="1.5" fill="#3f4936" opacity="0.35"/>
+  <circle cx="0" cy="116" r="7" fill="none" stroke="#7d906b" stroke-width="2"/>
+  <rect x="-34" y="-74" width="68" height="38" rx="4" fill="url(#dropper)"/>
+  <path d="M-30 -74 Q-30 -170 0 -176 Q30 -170 30 -74Z" fill="url(#dropper)"/>
+  <rect x="-20" y="-160" width="6" height="80" rx="3" fill="#fff" opacity="0.2"/>
+</g>
+<!-- leaves -->
+<g>
+  <path d="M120 690 C150 560 240 480 330 470 C300 560 230 650 120 690Z" fill="url(#leaf)"/>
+  <path d="M120 690 C190 600 260 520 330 470" stroke="#e8eedc" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M640 690 C700 600 760 580 800 590 L800 650 C740 670 690 690 640 690Z" fill="url(#leaf2)"/>
+  <path d="M560 700 C600 640 660 630 700 640 C680 680 620 700 560 700Z" fill="url(#leaf)" opacity="0.9"/>
+</g>
+<!-- small pebble -->
+<ellipse cx="610" cy="690" rx="38" ry="18" fill="#d8d2c3"/>
+<ellipse cx="600" cy="684" rx="20" ry="6" fill="#fff" opacity="0.5"/></g>
+<rect width="800" height="1000" filter="url(#grain)" opacity="0.3"/>
+</svg>

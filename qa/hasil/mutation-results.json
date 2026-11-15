@@ -1,0 +1,98 @@
+{
+ "scope": "Uji mutasi atas salinan website/. PASS berarti mutasi terdeteksi oleh pemeriksaan statis.",
+ "counts": {
+  "PASS": 12,
+  "FAIL": 0,
+  "ERROR": 0
+ },
+ "results": [
+  {
+   "test": "canon01_diubah",
+   "status": "PASS",
+   "detail": [
+    "Canon 01 persis pada H1"
+   ]
+  },
+  {
+   "test": "canon02_diubah",
+   "status": "PASS",
+   "detail": [
+    "Canon 02 persis pada #video-title"
+   ]
+  },
+  {
+   "test": "cta_ke_url_luar_pada_preview",
+   "status": "PASS",
+   "detail": [
+    "Tujuh CTA daftar konsisten",
+    "[preview] CTA menuju halaman akses yang ada",
+    "[preview] Tidak ada URL absolut layanan akun"
+   ]
+  },
+  {
+   "test": "status_belum_dibuka_disembunyikan",
+   "status": "PASS",
+   "detail": [
+    "[preview] Halaman akses jujur: belum dibuka"
+   ]
+  },
+  {
+   "test": "indeks_dibuka_pada_preview",
+   "status": "PASS",
+   "detail": [
+    "[preview] Beranda tidak diindeks"
+   ]
+  },
+  {
+   "test": "caption_dihapus",
+   "status": "PASS",
+   "detail": [
+    "Caption Indonesia terpasang video-2",
+    "Resource index.html -> assets/media/affiliate-02.id.vtt"
+   ]
+  },
+  {
+   "test": "autoplay_ditambah",
+   "status": "PASS",
+   "detail": [
+    "Kontrol native video-1"
+   ]
+  },
+  {
+   "test": "script_inline",
+   "status": "PASS",
+   "detail": [
+    "Tanpa script inline: index.html"
+   ]
+  },
+  {
+   "test": "form_palsu",
+   "status": "PASS",
+   "detail": [
+    "Tidak ada form, input, atau penyimpanan akun palsu"
+   ]
+  },
+  {
+   "test": "berkas_internal_ikut_dipublikasikan",
+   "status": "PASS",
+   "detail": [
+    "Folder publik tanpa laporan, konfigurasi, skrip, atau berkas tersembunyi",
+    "Tidak ada berkas publik yang tidak dipakai"
+   ]
+  },
+  {
+   "test": "video_kelima_ditambahkan",
+   "status": "PASS",
+   "detail": [
+    "Tidak ada berkas publik yang tidak dipakai"
+   ]
+  },
+  {
+   "test": "css_investor_diubah",
+   "status": "PASS",
+   "detail": [
+    "CSS dasar investor tidak berubah"
+   ]
+  }
+ ]
+}

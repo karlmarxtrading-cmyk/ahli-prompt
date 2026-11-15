@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Foto konsep makanan editorial dari atas">
+<title>Foto konsep makanan editorial dari atas</title>
+<defs><filter id="grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+  <feColorMatrix type="saturate" values="0"/>
+  <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+  <feBlend in2="SourceGraphic" mode="multiply"/>
+</filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<filter id="soft2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="soft3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9cdb9"/><stop offset="1" stop-color="#c3b39b"/></linearGradient>
+<radialGradient id="light" cx="0.25" cy="0.15" r="0.9"><stop offset="0" stop-color="#fff8ea" stop-opacity="0.85"/><stop offset="1" stop-color="#fff8ea" stop-opacity="0"/></radialGradient>
+<radialGradient id="plate" cx="0.45" cy="0.4" r="0.6"><stop offset="0" stop-color="#fbf8f2"/><stop offset="0.85" stop-color="#ebe5da"/><stop offset="1" stop-color="#d3cbbd"/></radialGradient>
+<radialGradient id="broth" cx="0.45" cy="0.4" r="0.6"><stop offset="0" stop-color="#e8b25e"/><stop offset="1" stop-color="#b56f2a"/></radialGradient></defs>
+<g>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<rect width="800" height="1000" fill="url(#light)"/>
+<!-- linen -->
+<path d="M-20 700 L520 620 L620 1010 L-20 1010Z" fill="#efe9dd" opacity="0.9"/>
+<path d="M30 760 L540 680 M60 840 L560 760" stroke="#d9d0bf" stroke-width="3"/>
+<!-- bowl top-down -->
+<ellipse cx="420" cy="470" rx="300" ry="300" fill="#6b5a44" opacity="0.35" filter="url(#soft)" transform="translate(24 30)"/>
+<circle cx="420" cy="470" r="290" fill="url(#plate)"/>
+<circle cx="420" cy="470" r="210" fill="#2f2b26"/>
+<circle cx="420" cy="470" r="196" fill="url(#broth)"/>
+<!-- noodles -->
+<g fill="none" stroke="#f3dca6" stroke-width="9" stroke-linecap="round" opacity="0.95">
+ <path d="M300 520 C340 470 380 560 430 500 C470 450 510 540 550 480"/>
+ <path d="M310 560 C360 520 400 600 450 540 C490 500 520 580 560 520"/>
+ <path d="M330 600 C370 570 420 630 470 580"/>
+</g>
+<!-- egg -->
+<g transform="translate(350 410) rotate(-20)"><ellipse rx="62" ry="48" fill="#fbf7ee"/><ellipse cx="6" rx="34" ry="28" fill="#f2a43a"/><ellipse cx="-2" cy="-6" rx="12" ry="7" fill="#ffd17d" opacity="0.8"/></g>
+<!-- greens -->
+<g fill="#5f8a3c"><circle cx="500" cy="400" r="12"/><circle cx="522" cy="420" r="10"/><circle cx="480" cy="428" r="9"/><circle cx="540" cy="392" r="8"/></g>
+<g fill="#86b04f"><path d="M450 330 q40 -10 60 20 q-40 14 -60 -20z"/><path d="M520 340 q30 -30 60 -6 q-30 26 -60 6z"/></g>
+<!-- chili -->
+<g fill="#c1442a"><circle cx="400" cy="610" r="7"/><circle cx="430" cy="620" r="6"/><circle cx="460" cy="604" r="6"/></g>
+<!-- chopsticks -->
+<g transform="rotate(-28 640 820)"><rect x="380" y="810" width="460" height="14" rx="7" fill="#7a5130"/><rect x="380" y="836" width="460" height="14" rx="7" fill="#8a5d38"/></g></g>
+<rect width="800" height="1000" filter="url(#grain)" opacity="0.3"/>
+</svg>

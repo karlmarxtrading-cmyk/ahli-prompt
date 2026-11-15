@@ -1,0 +1,878 @@
+[
+  {
+    "path": "website/404.html",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "2c6c742b435d958266ddf9cea0a10e58b768b3df2bbaaaccee1c86ea2e48529e"
+  },
+  {
+    "path": "website/assets/brand/favicon-180.png",
+    "status": "UNCHANGED",
+    "sha256_old": "c09f2e805d61851886909274f9eb85a2ae15776e8e110293b996fdb09c615165",
+    "sha256_final": "c09f2e805d61851886909274f9eb85a2ae15776e8e110293b996fdb09c615165"
+  },
+  {
+    "path": "website/assets/brand/favicon-32.png",
+    "status": "UNCHANGED",
+    "sha256_old": "a7c20f506f15541403dd3d10e71f5a643a73301a96c482af61fcc5d78df20b78",
+    "sha256_final": "a7c20f506f15541403dd3d10e71f5a643a73301a96c482af61fcc5d78df20b78"
+  },
+  {
+    "path": "website/assets/brand/favicon-512.png",
+    "status": "UNCHANGED",
+    "sha256_old": "4c15d6579cc4fd2777331887c5dafc7d54eaf72eb6befac959fcaae1a5c54279",
+    "sha256_final": "4c15d6579cc4fd2777331887c5dafc7d54eaf72eb6befac959fcaae1a5c54279"
+  },
+  {
+    "path": "website/assets/brand/logo-jago-prompt-256.png",
+    "status": "UNCHANGED",
+    "sha256_old": "5e23069a404ee6ff60eed39e9cf0cd7ad42fb605cebd8cc0a4475d30bf17508e",
+    "sha256_final": "5e23069a404ee6ff60eed39e9cf0cd7ad42fb605cebd8cc0a4475d30bf17508e"
+  },
+  {
+    "path": "website/assets/brand/logo-jago-prompt-96.png",
+    "status": "UNCHANGED",
+    "sha256_old": "da20b3b2bee973fb29166fca94f5b3d4aa2e20f93d07cbb9da21103c5a85ba0a",
+    "sha256_final": "da20b3b2bee973fb29166fca94f5b3d4aa2e20f93d07cbb9da21103c5a85ba0a"
+  },
+  {
+    "path": "website/assets/brand/logo-jago-prompt.png",
+    "status": "UNCHANGED",
+    "sha256_old": "f7763beecd2bcd31c8b59a81fc3569a56ff0194d836378ca470cc3f261630cfa",
+    "sha256_final": "f7763beecd2bcd31c8b59a81fc3569a56ff0194d836378ca470cc3f261630cfa"
+  },
+  {
+    "path": "website/assets/fonts/OFL-LICENSE.txt",
+    "status": "UNCHANGED",
+    "sha256_old": "e07fd1167c2aaaa6fb965dd66e1e73b13c9c95b76b2d648b6e938780f30b37af",
+    "sha256_final": "e07fd1167c2aaaa6fb965dd66e1e73b13c9c95b76b2d648b6e938780f30b37af"
+  },
+  {
+    "path": "website/assets/fonts/plus-jakarta-sans-latin-400-normal.woff2",
+    "status": "UNCHANGED",
+    "sha256_old": "221a4135d06a4b33abbd535e9a0da4e565d19545ddd9267c4e678a916d54d9b6",
+    "sha256_final": "221a4135d06a4b33abbd535e9a0da4e565d19545ddd9267c4e678a916d54d9b6"
+  },
+  {
+    "path": "website/assets/fonts/plus-jakarta-sans-latin-500-normal.woff2",
+    "status": "UNCHANGED",
+    "sha256_old": "bad081c8dbc15aed6c5e4cde5461914f7b3bdc295b7a7aed177e4beddb79bffa",
+    "sha256_final": "bad081c8dbc15aed6c5e4cde5461914f7b3bdc295b7a7aed177e4beddb79bffa"
+  },
+  {
+    "path": "website/assets/fonts/plus-jakarta-sans-latin-600-normal.woff2",
+    "status": "UNCHANGED",
+    "sha256_old": "8872bb5c9111df9bd3162c2394aee6354d782b13408a4dd5bbf65c48207206e6",
+    "sha256_final": "8872bb5c9111df9bd3162c2394aee6354d782b13408a4dd5bbf65c48207206e6"
+  },
+  {
+    "path": "website/assets/fonts/plus-jakarta-sans-latin-700-normal.woff2",
+    "status": "UNCHANGED",
+    "sha256_old": "2050755bf475817c96ac7d914c7f07cc3c2d11ff4b3fb4747b8d41de584aad17",
+    "sha256_final": "2050755bf475817c96ac7d914c7f07cc3c2d11ff4b3fb4747b8d41de584aad17"
+  },
+  {
+    "path": "website/assets/fonts/plus-jakarta-sans-latin-800-normal.woff2",
+    "status": "UNCHANGED",
+    "sha256_old": "5f301a8ef9c266c8b596e6793d3cc826daeff9849c5af035f5386439137955ad",
+    "sha256_final": "5f301a8ef9c266c8b596e6793d3cc826daeff9849c5af035f5386439137955ad"
+  },
+  {
+    "path": "website/assets/images/bag-editorial-480.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "e3a5fd614349a9c5a0f2f5967552b61ffc1dc78a23831405e56a443b3f6f4b4f",
+    "sha256_final": "e3a5fd614349a9c5a0f2f5967552b61ffc1dc78a23831405e56a443b3f6f4b4f"
+  },
+  {
+    "path": "website/assets/images/bag-editorial.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "34362c894a8079c24a6690d29c2567cf2d7a8e41e9256f465c1bd7eb0e77ed73",
+    "sha256_final": "34362c894a8079c24a6690d29c2567cf2d7a8e41e9256f465c1bd7eb0e77ed73"
+  },
+  {
+    "path": "website/assets/images/coffee-directed.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "5f920980521adbc06789b767ae2952c9bd4211efb0ec7de8dd2926b2ab00f50b",
+    "sha256_final": "5f920980521adbc06789b767ae2952c9bd4211efb0ec7de8dd2926b2ab00f50b"
+  },
+  {
+    "path": "website/assets/images/coffee-editorial-480.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "ae92e592bc08034b727dc641970564b10497ddfde6e85e9cad9547e93b8a6b96",
+    "sha256_final": "ae92e592bc08034b727dc641970564b10497ddfde6e85e9cad9547e93b8a6b96"
+  },
+  {
+    "path": "website/assets/images/coffee-editorial.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "782f57f785d12088efa42dd3d533dbcbf74ea6f40df13f7dfb66e029b8214f36",
+    "sha256_final": "782f57f785d12088efa42dd3d533dbcbf74ea6f40df13f7dfb66e029b8214f36"
+  },
+  {
+    "path": "website/assets/images/coffee-raw.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "80aca480b6d5a0312d7a12ae5e2b7eec6b6e5add671eb9a1bd01e1e76da46e20",
+    "sha256_final": "80aca480b6d5a0312d7a12ae5e2b7eec6b6e5add671eb9a1bd01e1e76da46e20"
+  },
+  {
+    "path": "website/assets/images/coffee-simple-480.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "3343a45e64f5a4ff67cc10fe4272f6aa9734492139636c5fe02c871c25035d55",
+    "sha256_final": "3343a45e64f5a4ff67cc10fe4272f6aa9734492139636c5fe02c871c25035d55"
+  },
+  {
+    "path": "website/assets/images/coffee-simple.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "d39800bd3d0c7df8770dfc2174fb558efca62d3ff50db6a2071a91bca13f0930",
+    "sha256_final": "d39800bd3d0c7df8770dfc2174fb558efca62d3ff50db6a2071a91bca13f0930"
+  },
+  {
+    "path": "website/assets/images/cosmetic-lipstick.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "7884b7b0e462ba1a2029bae2a1b4470043b3a172c8ee6d3f3a38b0513871217a",
+    "sha256_final": "7884b7b0e462ba1a2029bae2a1b4470043b3a172c8ee6d3f3a38b0513871217a"
+  },
+  {
+    "path": "website/assets/images/fashion-bag.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "2fc00439bef4ec1cc589466d6e6231673b44c65372be9e0e733629d900a1f7d3",
+    "sha256_final": "2fc00439bef4ec1cc589466d6e6231673b44c65372be9e0e733629d900a1f7d3"
+  },
+  {
+    "path": "website/assets/images/fashion-video-poster.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "a43081727d9ec5c98366eed39dbcfaaff4f55c859e83be0c71bc262602d83019",
+    "sha256_final": "a43081727d9ec5c98366eed39dbcfaaff4f55c859e83be0c71bc262602d83019"
+  },
+  {
+    "path": "website/assets/images/food-editorial-480.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "ad2ed3df02e031df6bb9cc6e4198640f02e91d2e8c4141a7e2b7ddaf45efc925",
+    "sha256_final": "ad2ed3df02e031df6bb9cc6e4198640f02e91d2e8c4141a7e2b7ddaf45efc925"
+  },
+  {
+    "path": "website/assets/images/food-editorial.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "f0893df632427a721d8c57cb99f61db0895beb7ff6a7984f0a0555cbd1046caf",
+    "sha256_final": "f0893df632427a721d8c57cb99f61db0895beb7ff6a7984f0a0555cbd1046caf"
+  },
+  {
+    "path": "website/assets/images/food-editorial.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "cb14f5830d26c82bc6b5de3db7f3ed0884856b3d4e5df72a2baa34694764686f",
+    "sha256_final": "cb14f5830d26c82bc6b5de3db7f3ed0884856b3d4e5df72a2baa34694764686f"
+  },
+  {
+    "path": "website/assets/images/lifestyle-candle.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "bbe34cf23c93a022ed1e282bbec43ab97a96717b3ba155379c700ba3d791a71a",
+    "sha256_final": "bbe34cf23c93a022ed1e282bbec43ab97a96717b3ba155379c700ba3d791a71a"
+  },
+  {
+    "path": "website/assets/images/perfume-editorial-480.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "d4291d9ce14def24217ff404b3b058f8d0def5b42ebff20fb5d89d9676496d9d",
+    "sha256_final": "d4291d9ce14def24217ff404b3b058f8d0def5b42ebff20fb5d89d9676496d9d"
+  },
+  {
+    "path": "website/assets/images/perfume-editorial.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "9c94dd6a178fec761c339128d4c5a85360eba89a1a63a05733255e6f04a9d0f6",
+    "sha256_final": "9c94dd6a178fec761c339128d4c5a85360eba89a1a63a05733255e6f04a9d0f6"
+  },
+  {
+    "path": "website/assets/images/perfume-hero.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "6d37f6930f9a7dd6ccfb4f71251fd99176bee8a9cbd79e37b270f23fda6b19fc",
+    "sha256_final": "6d37f6930f9a7dd6ccfb4f71251fd99176bee8a9cbd79e37b270f23fda6b19fc"
+  },
+  {
+    "path": "website/assets/images/product-watch.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "b02c5799c1b6541b9d5794992ba324812fb19831c1b1ef8666c3221b9ccb3655",
+    "sha256_final": "b02c5799c1b6541b9d5794992ba324812fb19831c1b1ef8666c3221b9ccb3655"
+  },
+  {
+    "path": "website/assets/images/serum-botanical.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "f66c6938171b8576eab9e7b834991ecb92787861b611326eb5c50f749e8856e8",
+    "sha256_final": "f66c6938171b8576eab9e7b834991ecb92787861b611326eb5c50f749e8856e8"
+  },
+  {
+    "path": "website/assets/images/serum-editorial-480.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "0aba9eb1662c062a3c69a883c2f0c9479fefb2674718957915c0079e69d37da7",
+    "sha256_final": "0aba9eb1662c062a3c69a883c2f0c9479fefb2674718957915c0079e69d37da7"
+  },
+  {
+    "path": "website/assets/images/serum-editorial.webp",
+    "status": "UNCHANGED",
+    "sha256_old": "1b1d9f5eca881e93ab98fa9627c7f25b3ed8ac92bfc54cfeb249e8c21ba753a8",
+    "sha256_final": "1b1d9f5eca881e93ab98fa9627c7f25b3ed8ac92bfc54cfeb249e8c21ba753a8"
+  },
+  {
+    "path": "website/assets/images/story-1.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "41dc4c6120f6c1c79742641e819a6a62766406ad0ab0866e29a4719304d586ec",
+    "sha256_final": "41dc4c6120f6c1c79742641e819a6a62766406ad0ab0866e29a4719304d586ec"
+  },
+  {
+    "path": "website/assets/images/story-2.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "7063c565eb243e09741316960dffea12dc379c53bfd54c88fc465362dc417808",
+    "sha256_final": "7063c565eb243e09741316960dffea12dc379c53bfd54c88fc465362dc417808"
+  },
+  {
+    "path": "website/assets/images/story-3.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "5c6d05a6ee78f46936ddb4d2229cc622a6c09a06a6ba9262938bdd43a2533006",
+    "sha256_final": "5c6d05a6ee78f46936ddb4d2229cc622a6c09a06a6ba9262938bdd43a2533006"
+  },
+  {
+    "path": "website/assets/images/story-4.svg",
+    "status": "UNCHANGED",
+    "sha256_old": "f7ff2f918fa4c6cf77fefe0a75c719bbab37bde06898b4ea65e11cf47ac47624",
+    "sha256_final": "f7ff2f918fa4c6cf77fefe0a75c719bbab37bde06898b4ea65e11cf47ac47624"
+  },
+  {
+    "path": "website/assets/media/affiliate-01-poster.jpg",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "fb778cbc94be22fb272be1517892a028a6c411fab9ece3cb40292af3539c12d8"
+  },
+  {
+    "path": "website/assets/media/affiliate-01.mp4",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "be4f176ed27bd07a5019bd52ae281d5d7356929f6cfd0c719bb1ffc7f90c0728"
+  },
+  {
+    "path": "website/assets/media/affiliate-02-poster.jpg",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "3f379fadd485f0011cb44e484bdc38880f7e9e72ca29dded77c256746b38ae8d"
+  },
+  {
+    "path": "website/assets/media/affiliate-02.mp4",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "f0d63ef7870c57bc60c0eeb6057235a1dfd61ec0eb43127b864198a5b51f47fb"
+  },
+  {
+    "path": "website/assets/media/affiliate-03-poster.jpg",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "8e7bc6ab397715eba95cdc8448edcc3c3bd069563166ab3ed4dffc8389c6f181"
+  },
+  {
+    "path": "website/assets/media/affiliate-03.mp4",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "009377fbdb786aa5a5afd23c4e270fd02b3031cd8a25c0f1bad624de53199348"
+  },
+  {
+    "path": "website/assets/media/affiliate-04-poster.jpg",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "dc393b90a1c5388bda1e554f40e576372ba4aaa6f1f27aa654892817cac235ac"
+  },
+  {
+    "path": "website/assets/media/affiliate-04.mp4",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "c404f98b5dccb65e9e962825e2dae9db673702d1d36e0680067a95956ac4d734"
+  },
+  {
+    "path": "website/assets/media/kosmetik-01-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "a5c4f8f218d0aa143781bff503a5cb1261dc76885b9728c4c484e7ab23750470"
+  },
+  {
+    "path": "website/assets/media/kosmetik-01-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "89f6c7c44022850d0da8317e26d232b45a63b5252f8a3aabb79c670da3b1b797"
+  },
+  {
+    "path": "website/assets/media/kosmetik-01-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "c64e231f46a86fd69ea0bd23765853966e38ce28778e21556d68de856f44b34d"
+  },
+  {
+    "path": "website/assets/media/kosmetik-02-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "d4b14b3d974861ba9d41218e48ae100d4ca2ed90f442459ebb6f1a9a0fbf66f7"
+  },
+  {
+    "path": "website/assets/media/kosmetik-02-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "61b80d7f3473ebfaf1a0365c8501472ae4b296784da1c555d31d5139c4b0833e"
+  },
+  {
+    "path": "website/assets/media/kosmetik-02-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "dda440183cc1b7cf9df4e3196afdb4f1e0d2d290cf6335496c4e9042e8aa592b"
+  },
+  {
+    "path": "website/assets/media/kosmetik-03-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "1b85ebb6f5afd86fd5dc46a71aed1ad108fb05349f30a5b529a1caae7d298625"
+  },
+  {
+    "path": "website/assets/media/kosmetik-03-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "665688c6a90e588b4bc31967c7f8be7e5a6d426b84fa29b38303e7968db8e9fd"
+  },
+  {
+    "path": "website/assets/media/kosmetik-03-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "2bf2ff66a523af85de6f49b49a7c2a1066b61a8f6390706688bccfa63f9fa436"
+  },
+  {
+    "path": "website/assets/media/kosmetik-04-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "0414dcc502e7f0e472cb8c0d392bd893fce656b8dbff4d2e6bddd70b4033c48d"
+  },
+  {
+    "path": "website/assets/media/kosmetik-04-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "d4dba3f6e04829053a503ba3a0c9a4e92cdce01a4f0e916aa8f2dea59cfbe02f"
+  },
+  {
+    "path": "website/assets/media/kosmetik-04-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "05aba3dd3d4019461914e5163357dfe2c8f58dea25ace26825c2114827819aac"
+  },
+  {
+    "path": "website/assets/media/kosmetik-05-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "499511adb20eb6ba4194e9a2ab67be0fcfed3b450717ed9c7c0efdcb1a2ddabb"
+  },
+  {
+    "path": "website/assets/media/kosmetik-05-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "ca652684bc1512c12eb4639ce7ff185eff436caef32e93018d261da5e5c5761f"
+  },
+  {
+    "path": "website/assets/media/kosmetik-05-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "24a829273a3591a72347326b22a8f72fa12c7b3dbea09f80cb3c9740e1337a22"
+  },
+  {
+    "path": "website/assets/media/kosmetik-06-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "6075963f65201dcc0cdbe222b06cf2747490699f2116d0b757f9c98fdc91933b"
+  },
+  {
+    "path": "website/assets/media/kosmetik-06-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "c57e85f6ef8141f18a472f1c128d0e465ab0789d9ae6c9ffce510f7b2b6a795e"
+  },
+  {
+    "path": "website/assets/media/kosmetik-06-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "ab8bb73261dd6ae9a1e926b876c47347799a93389b94d3ae6fb12f496beecd0d"
+  },
+  {
+    "path": "website/assets/media/kosmetik-07-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "87ce2ac2f3c8b638c7d1de120dffd6d45bb3c4707f0414527e440c1e878051f2"
+  },
+  {
+    "path": "website/assets/media/kosmetik-07-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "dab677129949e90e55b36f9b2e302b67b0d7895f5c96dda0a91c4ac31a370e6b"
+  },
+  {
+    "path": "website/assets/media/kosmetik-07-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "22a7fbb162cbe99c677cccc88fb4b7d55add6c811420e78d44e9d9a73532a48c"
+  },
+  {
+    "path": "website/assets/media/kosmetik-08-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "4b22e028995e892e46249fd0670173bae354c6e9bc9b9564953b57e86093076e"
+  },
+  {
+    "path": "website/assets/media/kosmetik-08-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "3ab53d7519b350841339b6f474380da9b92ce9a1dee518dd2896d55a74b9e0b1"
+  },
+  {
+    "path": "website/assets/media/kosmetik-08-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "53859f23ca18a26dc88cc3ddd12e7b3a0304d18fefe9b4ccf22f38c8f2e2a39b"
+  },
+  {
+    "path": "website/assets/media/kosmetik-09-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "f4ac76788abffd918e99b67e6567329aeca79ee6233c7daed16bbaf980dd5391"
+  },
+  {
+    "path": "website/assets/media/kosmetik-09-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "56ccd2364b08615879b068ddcb554c40af8c6f4aa32e7e388a61011f62fd3fc1"
+  },
+  {
+    "path": "website/assets/media/kosmetik-09-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "563ceed8a83022f7e4bd77589684b58d05bf390c168f939c865bf94d7efd038f"
+  },
+  {
+    "path": "website/assets/media/kosmetik-10-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "7224b1317cf548ea6fd0629d0646d382c48d2fb822833d2381b06e27c904280c"
+  },
+  {
+    "path": "website/assets/media/kosmetik-10-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "0d7e24c008f22bce32ac88c3a7a223667e4561483d0e74f214f39929312b7edb"
+  },
+  {
+    "path": "website/assets/media/kosmetik-10-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "0b560bd9092a50bb122ab069be6db9c3878ef3cd47e8b72a7ee1831945b086b7"
+  },
+  {
+    "path": "website/assets/media/kosmetik-11-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "88a210c18b45c30c3951d0b6297e38538167202f4f6d54919d14a2e29af48281"
+  },
+  {
+    "path": "website/assets/media/kosmetik-11-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "009356726ba8b51045d49e3a4d9b1dc5456ee1371327b4fdbb0c1b708d2d408e"
+  },
+  {
+    "path": "website/assets/media/kosmetik-11-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "f00317973faa869115c7f0e0f7e7b2e2a82eb63c736d1d07dd41100b391c8a43"
+  },
+  {
+    "path": "website/assets/media/kosmetik-12-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "9c51b774f079e58823a55704f583dbe96dcbd7b980bcf0339ba2b902745ed29c"
+  },
+  {
+    "path": "website/assets/media/kosmetik-12-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "4c7ba29666ccf26a165e9930dc7f021a1c2a4f3ef8d1946cfb16251248f53d9c"
+  },
+  {
+    "path": "website/assets/media/kosmetik-12-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "fbbb439c470d3c7ad2fb97b9bd216d6263e8110d2da89c0ff3fc5694063b66ad"
+  },
+  {
+    "path": "website/assets/media/kosmetik-13-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "46e2881924abe326a2b1d51a71537cdff50943bf4d9444db09cb5ea47267bb01"
+  },
+  {
+    "path": "website/assets/media/kosmetik-13-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "d98064452eadfade818e386c4daa6d6ea1565806c681db5d7835994c262b6601"
+  },
+  {
+    "path": "website/assets/media/kosmetik-13-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "15abbb88e2561588ee1bebfb05b967994837a00e46f1ecbf0c8d00f2ab5518f5"
+  },
+  {
+    "path": "website/assets/media/kosmetik-14-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "25e57a14842c27ac327ca639e37953c9c0188240c5bdc91d1056d90e53f45fef"
+  },
+  {
+    "path": "website/assets/media/kosmetik-14-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "f898f1488174bd1c280fa8fd1842f4e502cbbf19cecb076fc82ba266c9521798"
+  },
+  {
+    "path": "website/assets/media/kosmetik-14-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "af03728b6692337bb0d00e245ebd19508f1ff2392f208eb3e5335bbf8ec742cf"
+  },
+  {
+    "path": "website/assets/media/kosmetik-15-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "f59bb494a6b55f3f4482345046cfa6e8fff526b34623457a035e1c85bb362451"
+  },
+  {
+    "path": "website/assets/media/kosmetik-15-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "6ab129a7ee17fec958c370e28c2026322adefcfa37d367a05ca542ca9c82f387"
+  },
+  {
+    "path": "website/assets/media/kosmetik-15-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "1bfa6d806e109a7bebe6fb0b65d3432877dc88beedf99e04668c7261e485a369"
+  },
+  {
+    "path": "website/assets/media/kuliner-01-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "0f0f70628fe90d0a0b960e9535b93d109f4d83625dde8349c8e4a255d3eb0ac6"
+  },
+  {
+    "path": "website/assets/media/kuliner-01-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "de29c0ed05f760a67044bd6092a98318a88de1ba0f3ba0faf01a3fd93731dd5c"
+  },
+  {
+    "path": "website/assets/media/kuliner-01-736.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "c924052540de126c4aff0212810f5b0f58149f00aff2fe7ea0c9dd1dcc0b4add"
+  },
+  {
+    "path": "website/assets/media/kuliner-02-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "4c9c069c86d513b6e0cc9c298effe5e5d5561cc8bd405d8fdf86d26a96216f57"
+  },
+  {
+    "path": "website/assets/media/kuliner-02-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "f918c6d5c69391ebe08cdca14e55f9f64a9ea22277758b6d4a4f979ab7ebe03d"
+  },
+  {
+    "path": "website/assets/media/kuliner-02-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "f241b83820cd9122950259e35c43ab4d2b06535972dd7481b99862516c8034c9"
+  },
+  {
+    "path": "website/assets/media/kuliner-03-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "90f1d50e35412aa348b5fa26eb80770876d0d3b63de731527e70e958581e8218"
+  },
+  {
+    "path": "website/assets/media/kuliner-03-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "5db159708c4ea3783482a63c9dd6b88f9b95d897c78a0f530f7a58787e0bf997"
+  },
+  {
+    "path": "website/assets/media/kuliner-03-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "a8c1d2ab32551c434d10e212e1303ad69a7c11cc2eaf043ae7c214226d8736a9"
+  },
+  {
+    "path": "website/assets/media/kuliner-04-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "82bcf868e90689ee11e9020319b6f187899e28f0e9989fd6dc7cb50899fa047d"
+  },
+  {
+    "path": "website/assets/media/kuliner-04-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "63ba948141d2ae1fc4905c64e8859344fc87f8db24d7bdbb4c7bd379a27c0c53"
+  },
+  {
+    "path": "website/assets/media/kuliner-04-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "5d5832bf4e78f9c97ef1f129b74a4dba06a21b0b3830c32ca714285b016b7f6e"
+  },
+  {
+    "path": "website/assets/media/kuliner-05-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "dbe77821c1d55a9957693060cdd1cf4d0b3fd407a4d30df91b75fcb650b0c8ff"
+  },
+  {
+    "path": "website/assets/media/kuliner-05-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "898ada9f7b541a56f854e75b01521a9547a80df4ab467a4e4d50b78ec10adbd4"
+  },
+  {
+    "path": "website/assets/media/kuliner-05-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "5ecc754159ca486844d97f81a3dd3c31e37823f18b4a7bdf1ba7e65bcdf738a2"
+  },
+  {
+    "path": "website/assets/media/kuliner-06-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "04fb42e8bfc2244c2bf5935f0c253ac01505c9469a0f9376e78c6e0766984313"
+  },
+  {
+    "path": "website/assets/media/kuliner-06-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "53e2855a32381473761ea981a5a171540649750244617563e32c65a1317ab6b3"
+  },
+  {
+    "path": "website/assets/media/kuliner-06-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "f6d06bb7e5c0f1cabf88141ef7ff21df36f3fce231c98d0044a82e5c815cc254"
+  },
+  {
+    "path": "website/assets/media/kuliner-07-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "7efc0c06c11781dd3c16bb20541eeff59be379222d3a786bb68ba36be77391d2"
+  },
+  {
+    "path": "website/assets/media/kuliner-07-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "299ecd23f28a078a14ac08d56154698b099e145235e0c3e62a0525a66987b3ba"
+  },
+  {
+    "path": "website/assets/media/kuliner-07-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "52f9acf98aba42015c4ca9f4e1324051e20c671f74a0821ebdd8e0255dfec5f0"
+  },
+  {
+    "path": "website/assets/media/kuliner-08-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "4b6e93c089b07426262cddffea002244baa99770adf87e6a8b6196e9dd73ed41"
+  },
+  {
+    "path": "website/assets/media/kuliner-08-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "3030cb8d871053eb110fbe467d8fae6e01abcbcc22491db85a77f68f559741aa"
+  },
+  {
+    "path": "website/assets/media/kuliner-08-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "815fee73c8d63cf851853c2a40ef521b405656acd4bd74502493abdcb53d449c"
+  },
+  {
+    "path": "website/assets/media/kuliner-09-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "48715e5ece64cef0a418f9a0457bd166aebee1f3178b970c8cdb222a0b083257"
+  },
+  {
+    "path": "website/assets/media/kuliner-09-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "ebc847c60328ff62859882f8701fae7fc724385930e38234bd1d157cbdaf78ce"
+  },
+  {
+    "path": "website/assets/media/kuliner-09-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "3d7fcfa5d6916141793881668a7ed52d8925da85e912531a43dba3456bf074fd"
+  },
+  {
+    "path": "website/assets/media/kuliner-10-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "105538288572909e9a01594a3cdb88022006eee9b75f16cb83b8e443818bb47d"
+  },
+  {
+    "path": "website/assets/media/kuliner-10-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "1081fec5eed78a574e2290c6b82865afeb1718dab679cc1dd6c9125b58f1fd4d"
+  },
+  {
+    "path": "website/assets/media/kuliner-10-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "254b7306e3c900dcba4400e17ce36db7877b92c06e541af96a9daf5d76b6ad4c"
+  },
+  {
+    "path": "website/assets/media/kuliner-11-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "62af63ced40d52bfc76dd9eb8ef3c2bd87fa6a8eb8d91dc6f73a62a075a2b54b"
+  },
+  {
+    "path": "website/assets/media/kuliner-11-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "20d5b098e52093645a557ff7101a07bc34365033ab73a61168add6d75e79b73f"
+  },
+  {
+    "path": "website/assets/media/kuliner-11-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "bf48d29211c7bdd63bcfcaec816b2b59266011b0c274d83faf3982bc6fc347a0"
+  },
+  {
+    "path": "website/assets/media/kuliner-12-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "a2946f4c62da45f92a6bb5cf191cd2452a216ff46592dc4bcd018f61c236e7b5"
+  },
+  {
+    "path": "website/assets/media/kuliner-12-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "6fa66fe22b15d545adac36b53e2a65ba6f940d116133f5f75a9fabbca443024c"
+  },
+  {
+    "path": "website/assets/media/kuliner-12-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "ed22091236f129aa1236c09b65bb1420f096f123e155bff0e98a15dbaeaa1403"
+  },
+  {
+    "path": "website/assets/media/kuliner-13-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "7fd46ee97b3210ae200ce4f8604175734c4a34b79d8a8bc4859ada2777872f5e"
+  },
+  {
+    "path": "website/assets/media/kuliner-13-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "00fae46f4b5ebf48dabc4ce2ea47b7bd9b336b733501ee81b5221826db7dfe69"
+  },
+  {
+    "path": "website/assets/media/kuliner-13-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "2d31a1606b2b6a3bab64e6188fb8ae18990ed677bdb3bda0f4cb4f4421911d51"
+  },
+  {
+    "path": "website/assets/media/kuliner-14-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "ee3d01cbd5db4cf1710d2704e86217e40bbe94491b4f270c70921cb07ce3133b"
+  },
+  {
+    "path": "website/assets/media/kuliner-14-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "ec782b36f25b1fe01b311bc10e6b048d4d5cf230a0605810ef779baaf1e012b1"
+  },
+  {
+    "path": "website/assets/media/kuliner-14-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "3226b9647c9cdb379e866c6938e509299ef323814a0ea8b91cc1e60bcb9e399d"
+  },
+  {
+    "path": "website/assets/media/kuliner-15-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "d3cb676b21b9f7e99da7310930a12e0c89cd37c20ed82dd858be0dcbe7c9d0ab"
+  },
+  {
+    "path": "website/assets/media/kuliner-15-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "50f2d95debbfe9a305d16b000ad9b8b2fd2670933df5354bf3d4c809c2d26de4"
+  },
+  {
+    "path": "website/assets/media/kuliner-15-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "2daaa7fb777b087c4aba42be0368bc5f72a02f9d9d86d51357860cdc6c91b44f"
+  },
+  {
+    "path": "website/assets/media/kuliner-16-360.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "47ae926841807dde0b379458976fc7e7de153d5c887975b939141e9e9bb17cf7"
+  },
+  {
+    "path": "website/assets/media/kuliner-16-720.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "84fdf1f403b5850a3ea37b1edbee89ea41133493c036016fcbd55eb230063ed6"
+  },
+  {
+    "path": "website/assets/media/kuliner-16-896.webp",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "9d12df9a2e3ada8742e801a9e39f7302983c083d04118f7fb16db72f92e0e5f2"
+  },
+  {
+    "path": "website/assets/video/fashion-example.mp4",
+    "status": "UNCHANGED",
+    "sha256_old": "f59480300e71a87cc52bbd693014d055cf569c7161d0e556c421452d09ce09f3",
+    "sha256_final": "f59480300e71a87cc52bbd693014d055cf569c7161d0e556c421452d09ce09f3"
+  },
+  {
+    "path": "website/css/sales.css",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "5ea7dfe9056655cdea3483edeb33349fe62b934a7d62c1ed21ce859e7a81f8b3"
+  },
+  {
+    "path": "website/css/styles.css",
+    "status": "UNCHANGED",
+    "sha256_old": "55c68c377c76d9aba7620be260febfec68f374c78d3b8fa941121aeffce1f1ef",
+    "sha256_final": "55c68c377c76d9aba7620be260febfec68f374c78d3b8fa941121aeffce1f1ef"
+  },
+  {
+    "path": "website/daftar.html",
+    "status": "ADDED",
+    "sha256_old": null,
+    "sha256_final": "14024eaceff251a2dea166a611a32db70d4689bfc1402669963f174712a77b78"
+  },
+  {
+    "path": "website/index.html",
+    "status": "MODIFIED",
+    "sha256_old": "da06b51908aa4025f0a10b10663f77e5e4381c0e397d8b63feecfb90de56fe61",
+    "sha256_final": "a52b0fb519f5253df2d59c2a362f940ba7b0735b8aca6d1d266d915345864436"
+  },
+  {
+    "path": "website/js/main.js",
+    "status": "MODIFIED",
+    "sha256_old": "3a4a8c7428416d5b009c1ffe3f6e725fa81e1f3bbf06b43ada5dc2bb0aad0c22",
+    "sha256_final": "80cd8a2b446ddd67735b46b6906bee6f6e556dbd1b995f87e0041ddeb7d95c1f"
+  }
+]

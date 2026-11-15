@@ -1,0 +1,39 @@
+{
+  "version": "1.3.0",
+  "date": "2026-11-15",
+  "baseline": "JAGO_PROMPT_REVISI_1.2.0_KANDIDAT_RILIS_20261115",
+  "homepage_implementation_complete": true,
+  "stage": "IMPLEMENTED_TESTED_PACKAGED",
+  "investor_base_css_unchanged": true,
+  "canon_01_exact": true,
+  "canon_02_exact": true,
+  "new_images": 31,
+  "new_videos": 4,
+  "checks": {
+    "static": {
+      "PASS": 466,
+      "FAIL": 0,
+      "BLOCKED": 0
+    },
+    "browser": {
+      "PASS": 68,
+      "FAIL": 0,
+      "BLOCKED": 0
+    },
+    "http": {
+      "PASS": 155,
+      "FAIL": 0
+    }
+  },
+  "commercial_release_status": "NOT_READY_FOR_PUBLIC_RELEASE",
+  "remaining_gates": [
+    "registration_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder.",
+    "site_url belum diisi. Gunakan URL layanan nyata; jangan gunakan placeholder.",
+    "Pendaftaran/login layanan nyata belum terverifikasi",
+    "Isi audio dan kebutuhan caption empat video belum diverifikasi",
+    "Izin publikasi media belum dicatat",
+    "Klaim satu klik dan konsistensi hasil belum diuji pada produk nyata",
+    "Persetujuan rilis publik belum dicatat"
+  ],
+  "do_not_restart": "Lanjutkan dari website/ versi 1.3.0, bukan baseline historis di dalam audit lama."
+}

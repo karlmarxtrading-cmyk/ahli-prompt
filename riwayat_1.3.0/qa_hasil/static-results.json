@@ -1,0 +1,2340 @@
+{
+  "scope": "Source final, media full decode, activation helper on isolated fixture only",
+  "counts": {
+    "PASS": 466,
+    "FAIL": 0,
+    "BLOCKED": 0
+  },
+  "results": [
+    {
+      "test": "Canon 01 persis",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Canon 02 persis",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Satu H1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Bahasa Indonesia",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Hasil foto dan video mendahului masalah",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Tidak ada contoh kode/prompt di homepage",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Tidak ada tutorial operasional",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Tidak ada testimonial palsu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Tidak ada form atau penyimpanan akun palsu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Dua seri aset terpisah",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 1 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 2 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 3 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 4 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 5 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 6 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 7 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 8 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 9 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 10 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 11 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 12 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 13 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 14 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 15 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 16 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 17 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 18 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 19 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 20 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 21 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 22 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 23 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 24 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 25 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 26 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 27 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 28 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 29 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 30 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Aset gambar sumber 31 terpakai",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Empat video baru",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Kontrol native video-1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Deskripsi video video-1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Fallback video video-1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Kontrol native video-4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Deskripsi video video-4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Fallback video video-4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Kontrol native video-2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Deskripsi video video-2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Fallback video video-2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Kontrol native video-3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Deskripsi video video-3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Fallback video video-3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video identik sumber 1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Decode penuh audio/video 1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video identik sumber 2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Decode penuh audio/video 2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video identik sumber 3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Decode penuh audio/video 3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Video identik sumber 4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Decode penuh audio/video 4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "CSS dasar investor tidak berubah",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Perubahan CSS dipisahkan",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "ID unik: index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "H1 tunggal: index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/brand/favicon-32.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/brand/favicon-180.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/fonts/plus-jakarta-sans-latin-400-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/fonts/plus-jakarta-sans-latin-700-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/fonts/plus-jakarta-sans-latin-800-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-02-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> css/styles.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> css/sales.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#konten",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#beranda",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/brand/logo-jago-prompt-96.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#beranda",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#arahan-foto",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#hasil-video",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#fitur",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#pemula",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-02-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#arahan-foto",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#hasil-video",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-01-poster.jpg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-01.mp4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-01.mp4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-04-poster.jpg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-04.mp4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-04.mp4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-02-poster.jpg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-02.mp4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-02.mp4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-03-poster.jpg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-03.mp4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/affiliate-03.mp4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-11-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-04-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-11-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-12-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-15-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-05-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-14-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-03-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-15-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-01-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-11-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-04-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-12-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-15-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-02-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-03-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-05-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-09-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-10-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-13-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-14-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-01-736.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-04-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-11-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-16-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-02-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-03-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-05-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-09-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-10-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-12-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-13-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-14-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kuliner-15-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-10-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/brand/logo-jago-prompt-256.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#hasil-video",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#beranda",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> assets/brand/logo-jago-prompt-96.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#arahan-foto",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#hasil-video",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#fitur",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#pemula",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor index.html#beranda",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource index.html -> js/main.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Logo Jago Prompt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss bernuansa peac",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss di samping kot",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Seseorang bersweater bur",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tiga kemasan lip gloss d",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss dan aplikator ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss dan aplikator ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tiga kemasan lip gloss d",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss dan aplikator ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kotak dimsum merah-putih",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Sumpit mencelupkan dimsu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tampilan dekat tekstur d",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tangan membuka aplikator",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Seseorang bersweater bur",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tangan memegang aplikato",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss terbuka di ata",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss di samping kot",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kemasan lip gloss, daun,",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Foto referensi kemasan l",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss dan aplikator ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss dan aplikator ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tiga kemasan lip gloss d",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss dan aplikator ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kemasan lip gloss, daun,",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss bernuansa peac",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss terbuka di ata",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tangan membuka aplikator",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Seseorang bersweater bur",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss di samping kot",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss di atas kain k",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kemasan lip gloss melaya",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss dan aplikator ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tangan memegang aplikato",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Foto referensi identitas",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kotak dimsum merah-putih",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Dimsum di atas wadah mer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kemasan dimsum terbuka, ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tangan mengangkat dimsum",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Sembilan dimsum tersusun",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kotak dimsum merah-putih",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Dimsum dalam kukusan bam",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kemasan dimsum merah-put",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kotak dimsum terbuka di ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lima dimsum di piring pu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Dimsum di dalam wadah me",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Sumpit mencelupkan dimsu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kemasan dimsum merah-put",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Dimsum, kukusan, saus, d",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tampilan dekat tekstur d",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Tiga kemasan lip gloss d",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Seseorang bersweater bur",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Kemasan lip gloss melaya",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Lip gloss di samping kot",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Logo Jago Prompt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar index.html: Logo Jago Prompt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/brand/logo-jago-prompt-96.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/brand/logo-jago-prompt-256.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-02-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-02-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-02-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-04-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-04-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-04-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-06-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-06-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-12-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-12-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-12-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-15-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-15-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-15-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-05-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-05-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-05-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-14-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-14-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-14-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-03-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-03-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-03-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-15-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-15-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-15-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-01-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-01-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-01-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-11-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-04-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-04-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-04-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-12-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-12-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-12-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-15-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-15-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-15-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-02-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-02-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-02-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-03-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-03-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-03-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-05-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-05-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-05-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-09-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-09-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-09-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-10-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-10-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-10-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-13-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-13-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-13-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-14-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-14-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-14-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-01-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-01-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-01-736.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-06-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-06-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-04-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-04-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-04-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-08-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-08-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-11-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-11-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-11-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-16-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-16-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-16-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-02-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-02-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-02-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-03-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-03-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-03-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-05-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-05-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-05-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-07-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-07-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-09-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-09-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-09-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-10-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-10-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-10-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-12-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-12-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-12-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-13-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-13-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-13-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-14-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-14-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-14-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-15-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-15-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kuliner-15-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-10-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-10-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-10-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-360.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-720.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "ID unik: daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "H1 tunggal: daftar.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> assets/brand/favicon-32.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> assets/brand/favicon-180.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> assets/fonts/plus-jakarta-sans-latin-400-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> assets/fonts/plus-jakarta-sans-latin-700-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> assets/fonts/plus-jakarta-sans-latin-800-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> css/styles.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> css/sales.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor daftar.html#konten",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> assets/brand/logo-jago-prompt-96.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> index.html#arahan-foto",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> index.html#hasil-video",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource daftar.html -> js/main.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar daftar.html: Logo Jago Prompt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "ID unik: 404.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "H1 tunggal: 404.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> /",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> assets/brand/favicon-32.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> assets/brand/favicon-180.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> assets/fonts/plus-jakarta-sans-latin-400-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> assets/fonts/plus-jakarta-sans-latin-700-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> assets/fonts/plus-jakarta-sans-latin-800-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> css/styles.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> css/sales.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Anchor 404.html#konten",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> assets/brand/logo-jago-prompt-96.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> /",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> index.html#hasil-video",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource 404.html -> js/main.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar 404.html: Logo Jago Prompt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "ID unik: panduan_account.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "H1 tunggal: panduan_account.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/brand/favicon-32.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/brand/favicon-180.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/fonts/plus-jakarta-sans-latin-400-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/fonts/plus-jakarta-sans-latin-700-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/fonts/plus-jakarta-sans-latin-800-normal.woff2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/media/kosmetik-02-896.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/css/styles.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/css/sales.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/index.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/serum-editorial.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/story-1.svg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/story-2.svg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/story-3.svg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/story-4.svg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/story-1.svg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/story-2.svg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/story-3.svg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/assets/images/story-4.svg",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Resource panduan_account.html -> ../website/js/main.js",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Ilustrasi AI: botol seru",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Adegan 1: botol dalam ge",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Adegan 2: kamera mendeka",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Adegan 3: cahaya menyapu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Adegan 4: komposisi ikla",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Adegan 1: botol parfum d",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Adegan 2: kamera bergera",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Adegan 3: cahaya menyina",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Alt gambar panduan_account.html: Adegan 4: produk tampil ",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset ../website/assets/images/serum-editorial-480.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Srcset ../website/assets/images/serum-editorial.webp",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "CTA menuju halaman akses yang ada",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Halaman akses jujur",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Status akun terlihat di homepage",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Pratinjau tidak diindeks sebelum rilis",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "JS syntax",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Python compile tools/aktifkan_rilis.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Python compile tools/gate_rilis.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Python compile pratinjau_lokal.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Penolakan URL tidak aman/contoh: 'javascript:alert(1)'",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Penolakan URL tidak aman/contoh: 'http://site.com/register'",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Penolakan URL tidak aman/contoh: 'https://example.com/register'",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Penolakan URL tidak aman/contoh: 'https://user:pass@domain.com/'",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Penolakan URL tidak aman/contoh: 'https://jago.invalid/register'",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Penolakan URL tidak aman/contoh: 'https://domain.com/\\nregister'",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Gerbang rilis tidak PASS palsu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Helper aktivasi mengubah CTA pada fixture",
+      "status": "PASS",
+      "detail": "Fixture lokal; URL tidak dikunjungi dan bukan layanan resmi."
+    },
+    {
+      "test": "Helper aktivasi membuka tautan akun pada fixture",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Helper tidak membuka indeks tanpa persetujuan",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Helper memasang canonical pada fixture",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
+}

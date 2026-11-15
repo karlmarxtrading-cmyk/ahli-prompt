@@ -1,0 +1,33 @@
+{
+  "test": "Anchor foto pada dokumen yang dirender",
+  "status": "PASS",
+  "detail": {
+    "original_observation": {
+      "url": "about:blank#arahan-foto",
+      "top": 483.046875
+    },
+    "verified_after_scroll_settled": [
+      {
+        "after_wait_ms": 400,
+        "url": "about:blank#arahan-foto",
+        "top": 2387.046875
+      },
+      {
+        "after_wait_ms": 500,
+        "url": "about:blank#arahan-foto",
+        "top": 277.046875
+      },
+      {
+        "after_wait_ms": 700,
+        "url": "about:blank#arahan-foto",
+        "top": 104.046875
+      },
+      {
+        "after_wait_ms": 1000,
+        "url": "about:blank#arahan-foto",
+        "top": 104.046875
+      }
+    ],
+    "explanation": "Pemeriksaan awal pada 800 ms dilakukan sebelum smooth scroll panjang selesai; pengujian final menunggu posisi target, tanpa perubahan kode website."
+  }
+}

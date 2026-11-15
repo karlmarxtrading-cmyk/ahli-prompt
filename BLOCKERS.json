@@ -1,0 +1,64 @@
+{
+  "version": "1.4.0",
+  "date": "2026-11-16",
+  "release_status": "NOT_READY_FOR_PUBLIC_RELEASE",
+  "scopes": {"FRONTEND_READY": true, "ACCOUNT_PRODUCT_E2E_READY": false, "LIVE_DEPLOYMENT_VERIFIED": false},
+  "blockers": [
+    {
+      "id": "B1", "title": "Layanan akun belum ada", "gate": "account_flow_verified", "status": "BLOCKED",
+      "owner": "Pemilik produk / tim backend",
+      "evidence": "Kelima arsip diperiksa: tidak ada endpoint, konfigurasi auth, atau spesifikasi integrasi. website/ tidak memuat form, cookie, atau penyimpanan.",
+      "done_by_claude": "Perangkat aktivasi dan kontrak kebutuhan (laporan/09_KONTRAK_INTEGRASI_AKUN.md); profil staging dan production teruji pada build fixture.",
+      "minimum_input": "registration_url, login_url bila ada, official_hosts, account_requires_login.",
+      "steps": ["Isi konfigurasi/rilis.json", "python3 tools/bangun_rilis.py --profile staging --apply", "Uji lima butir alur akun pada layanan nyata", "Catat di bukti/rilis/alur-akun.md dan set gerbang"]
+    },
+    {
+      "id": "B2", "title": "Klaim dua canon belum diuji pada produk", "gate": "product_claims_verified", "status": "BLOCKED",
+      "owner": "Pemilik produk",
+      "evidence": "Tidak ada mesin Brand DNA atau pembuat prompt dalam bahan. Gambar dan video adalah aset contoh, bukan keluaran yang dibuktikan.",
+      "done_by_claude": "Canon dipertahankan persis; halaman tidak mengklaim hasil lintas platform, pendapatan, atau kemitraan.",
+      "minimum_input": "Akses ke produk yang berjalan.",
+      "steps": ["Jalankan skenario berulang untuk Canon 01 dan Canon 02", "Catat hasil dan batasnya di bukti/rilis/uji-klaim-produk.md"]
+    },
+    {
+      "id": "B3", "title": "Caption belum dicocokkan pendengar manusia", "gate": "audio_review_completed", "status": "NOT VERIFIED",
+      "owner": "Pemilik proyek",
+      "evidence": "bukti/audio/TINJAUAN_AUDIO.md: dua model pengenal ucapan sepakat; empat kata ditandai (Layer, full, Busa plus, Maybelline Lifter Gloss).",
+      "done_by_claude": "Transkripsi, caption WebVTT tersinkron, teks narasi di halaman.",
+      "minimum_input": "Sekitar dua menit mendengarkan.",
+      "steps": ["Putar keempat video dengan suara", "Cocokkan dengan tabel transkrip", "Perbaiki .vtt dan teks narasi bila berbeda", "Catat di bukti/rilis/tinjauan-audio.md"]
+    },
+    {
+      "id": "B4", "title": "Hak publikasi komersial media belum dicatat", "gate": "media_publication_approved", "status": "BLOCKED",
+      "owner": "Pemilik proyek",
+      "evidence": "Narasi video 4 menyebut 'Maybelline Lifter Gloss' dan klaim produk; kemasan lip gloss bertulisan merek tampil pada seri kosmetik dan menjadi og:image; label 'DIPSUM' pada seri kuliner; pemeran termasuk anak pada video 2 dan 3; narasi memuat ajakan membeli dan kelangkaan stok.",
+      "done_by_claude": "Penafian di halaman; peta media dengan catatan per berkas (laporan/04_PETA_MEDIA.csv). Tidak ada lisensi atau persetujuan yang dikarang.",
+      "minimum_input": "Keputusan pemilik: asal media, izin pemeran, dan apakah merek pihak ketiga boleh tampil pada situs komersial.",
+      "steps": ["Tentukan dasar hak tiap kelompok media", "Ganti atau pertahankan media bermerek pihak ketiga", "Catat di bukti/rilis/izin-media.md"]
+    },
+    {
+      "id": "B5", "title": "Domain, hosting, dan deployment belum ada", "gate": null, "scope": "LIVE_DEPLOYMENT_VERIFIED", "status": "BLOCKED",
+      "owner": "Pemilik proyek",
+      "evidence": "site_url null; tidak ada akses hosting atau otorisasi deploy. Tidak ada deployment yang dilakukan.",
+      "done_by_claude": "Folder siap unggah, contoh header tiga format, tools/smoke_live.py (diuji terhadap server lokal).",
+      "minimum_input": "Domain resmi dan pilihan hosting.",
+      "steps": ["Isi site_url", "Unggah folder profil", "python3 tools/smoke_live.py --profile <profil>"]
+    },
+    {
+      "id": "B6", "title": "Perangkat nyata dan browser lain belum diuji", "gate": null, "status": "BLOCKED",
+      "owner": "Pemilik proyek / penguji",
+      "evidence": "Hanya Chromium 153 desktop headless; Firefox dan WebKit tidak dapat dipasang di lingkungan kerja; tidak ada perangkat fisik atau pembaca layar.",
+      "done_by_claude": "50 skenario Chromium lewat HTTP, delapan viewport emulasi.",
+      "minimum_input": "iPhone (Safari), ponsel Android (Chrome), dan bila perlu VoiceOver/TalkBack.",
+      "steps": ["Buka situs", "Putar tiap video, nyalakan CC, uji menu dan CTA", "Catat hasilnya"]
+    },
+    {
+      "id": "B7", "title": "Persetujuan rilis publik", "gate": "public_release_approved", "status": "BLOCKED",
+      "owner": "Pemilik proyek",
+      "evidence": "Belum ada pernyataan persetujuan. Persetujuan desain investor atas 1.3.0 bukan persetujuan deployment, dan belum mencakup perubahan 1.4.0 yang terlihat (baris narasi video, penafian, footer).",
+      "done_by_claude": "Perbandingan visual dengan 1.3.0 (qa/hasil/visual-compare.json).",
+      "minimum_input": "Tinjauan pemilik dan investor atas 1.4.0.",
+      "steps": ["Tinjau qa/screenshot/banding_hasil-video_*.jpg", "Catat persetujuan di bukti/rilis/persetujuan-rilis.md"]
+    }
+  ]
+}

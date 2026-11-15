@@ -1,0 +1,1254 @@
+{
+  "scope": "Server pratinjau lokal; urllib HTTP, bukan navigasi browser/hosting",
+  "counts": {
+    "PASS": 155,
+    "FAIL": 0
+  },
+  "results": [
+    {
+      "test": "GET 404.html",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 3280
+      }
+    },
+    {
+      "test": "GET assets/brand/favicon-180.png",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 32190
+      }
+    },
+    {
+      "test": "GET assets/brand/favicon-32.png",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 2110
+      }
+    },
+    {
+      "test": "GET assets/brand/favicon-512.png",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 252287
+      }
+    },
+    {
+      "test": "GET assets/brand/logo-jago-prompt-256.png",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 65137
+      }
+    },
+    {
+      "test": "GET assets/brand/logo-jago-prompt-96.png",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 10987
+      }
+    },
+    {
+      "test": "GET assets/brand/logo-jago-prompt.png",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 1294370
+      }
+    },
+    {
+      "test": "GET assets/fonts/OFL-LICENSE.txt",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 4534
+      }
+    },
+    {
+      "test": "GET assets/fonts/plus-jakarta-sans-latin-400-normal.woff2",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 11816
+      }
+    },
+    {
+      "test": "GET assets/fonts/plus-jakarta-sans-latin-500-normal.woff2",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 12312
+      }
+    },
+    {
+      "test": "GET assets/fonts/plus-jakarta-sans-latin-600-normal.woff2",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 12188
+      }
+    },
+    {
+      "test": "GET assets/fonts/plus-jakarta-sans-latin-700-normal.woff2",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 12244
+      }
+    },
+    {
+      "test": "GET assets/fonts/plus-jakarta-sans-latin-800-normal.woff2",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 11896
+      }
+    },
+    {
+      "test": "GET assets/images/bag-editorial-480.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 18958
+      }
+    },
+    {
+      "test": "GET assets/images/bag-editorial.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 74416
+      }
+    },
+    {
+      "test": "GET assets/images/coffee-directed.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 4014
+      }
+    },
+    {
+      "test": "GET assets/images/coffee-editorial-480.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 29822
+      }
+    },
+    {
+      "test": "GET assets/images/coffee-editorial.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 95148
+      }
+    },
+    {
+      "test": "GET assets/images/coffee-raw.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 1817
+      }
+    },
+    {
+      "test": "GET assets/images/coffee-simple-480.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 8530
+      }
+    },
+    {
+      "test": "GET assets/images/coffee-simple.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 30644
+      }
+    },
+    {
+      "test": "GET assets/images/cosmetic-lipstick.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 3108
+      }
+    },
+    {
+      "test": "GET assets/images/fashion-bag.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 3082
+      }
+    },
+    {
+      "test": "GET assets/images/fashion-video-poster.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 25560
+      }
+    },
+    {
+      "test": "GET assets/images/food-editorial-480.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 59816
+      }
+    },
+    {
+      "test": "GET assets/images/food-editorial.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 3403
+      }
+    },
+    {
+      "test": "GET assets/images/food-editorial.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 180872
+      }
+    },
+    {
+      "test": "GET assets/images/lifestyle-candle.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 3944
+      }
+    },
+    {
+      "test": "GET assets/images/perfume-editorial-480.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 23174
+      }
+    },
+    {
+      "test": "GET assets/images/perfume-editorial.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 66412
+      }
+    },
+    {
+      "test": "GET assets/images/perfume-hero.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 5520
+      }
+    },
+    {
+      "test": "GET assets/images/product-watch.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 4339
+      }
+    },
+    {
+      "test": "GET assets/images/serum-botanical.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 5014
+      }
+    },
+    {
+      "test": "GET assets/images/serum-editorial-480.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 29488
+      }
+    },
+    {
+      "test": "GET assets/images/serum-editorial.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 86586
+      }
+    },
+    {
+      "test": "GET assets/images/story-1.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 5154
+      }
+    },
+    {
+      "test": "GET assets/images/story-2.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 5239
+      }
+    },
+    {
+      "test": "GET assets/images/story-3.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 5388
+      }
+    },
+    {
+      "test": "GET assets/images/story-4.svg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 5360
+      }
+    },
+    {
+      "test": "GET assets/media/affiliate-01-poster.jpg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 50669
+      }
+    },
+    {
+      "test": "GET assets/media/affiliate-01.mp4",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 2480926
+      }
+    },
+    {
+      "test": "GET assets/media/affiliate-02-poster.jpg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 45643
+      }
+    },
+    {
+      "test": "GET assets/media/affiliate-02.mp4",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 2427418
+      }
+    },
+    {
+      "test": "GET assets/media/affiliate-03-poster.jpg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 58768
+      }
+    },
+    {
+      "test": "GET assets/media/affiliate-03.mp4",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 2469276
+      }
+    },
+    {
+      "test": "GET assets/media/affiliate-04-poster.jpg",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 59541
+      }
+    },
+    {
+      "test": "GET assets/media/affiliate-04.mp4",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 2451637
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-01-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 19678
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-01-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 48154
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-01-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 61170
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-02-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 15694
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-02-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 40434
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-02-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 56702
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-03-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 11746
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-03-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 31828
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-03-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 45828
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-04-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 9106
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-04-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 26410
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-04-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 38182
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-05-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 17230
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-05-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 42132
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-05-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 58864
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-06-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 19894
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-06-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 53062
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-06-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 76212
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-07-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 14204
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-07-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 40920
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-07-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 58730
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-08-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 21218
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-08-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 57716
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-08-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 81484
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-09-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 27468
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-09-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 135710
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-09-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 233214
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-10-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 14694
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-10-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 39744
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-10-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 56626
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-11-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 28522
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-11-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 72028
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-11-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 97658
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-12-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 7594
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-12-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 20692
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-12-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 29324
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-13-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 33822
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-13-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 167164
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-13-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 275174
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-14-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 13978
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-14-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 36450
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-14-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 53992
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-15-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 9466
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-15-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 27548
+      }
+    },
+    {
+      "test": "GET assets/media/kosmetik-15-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 40404
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-01-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 24412
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-01-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 63522
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-01-736.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 65952
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-02-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 15278
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-02-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 39098
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-02-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 52418
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-03-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 31986
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-03-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 91670
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-03-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 128182
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-04-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 19070
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-04-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 51766
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-04-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 72148
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-05-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 12926
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-05-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 32160
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-05-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 43374
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-06-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 10714
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-06-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 27294
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-06-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 37278
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-07-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 34278
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-07-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 92134
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-07-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 127930
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-08-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 27864
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-08-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 72034
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-08-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 97748
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-09-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 10302
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-09-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 27338
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-09-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 39248
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-10-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 10130
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-10-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 26292
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-10-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 36642
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-11-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 17202
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-11-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 42644
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-11-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 57872
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-12-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 27600
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-12-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 71686
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-12-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 97960
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-13-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 20096
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-13-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 59208
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-13-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 92326
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-14-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 36340
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-14-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 109260
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-14-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 157468
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-15-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 22376
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-15-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 59516
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-15-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 82602
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-16-360.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 16218
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-16-720.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 45648
+      }
+    },
+    {
+      "test": "GET assets/media/kuliner-16-896.webp",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 65388
+      }
+    },
+    {
+      "test": "GET assets/video/fashion-example.mp4",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 3362437
+      }
+    },
+    {
+      "test": "GET css/sales.css",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 7414
+      }
+    },
+    {
+      "test": "GET css/styles.css",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 40345
+      }
+    },
+    {
+      "test": "GET daftar.html",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 4136
+      }
+    },
+    {
+      "test": "GET index.html",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 56781
+      }
+    },
+    {
+      "test": "GET js/main.js",
+      "status": "PASS",
+      "detail": {
+        "http": 200,
+        "bytes": 13893
+      }
+    },
+    {
+      "test": "Range video 1",
+      "status": "PASS",
+      "detail": {
+        "Server": "SimpleHTTP/0.6 Python/3.13.5",
+        "Date": "Sun, 15 Nov 2026 12:58:38 GMT",
+        "Content-Type": "video/mp4",
+        "Content-Range": "bytes 100-1099/2480926",
+        "Content-Length": "1000",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "no-cache"
+      }
+    },
+    {
+      "test": "Range invalid 1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Range video 2",
+      "status": "PASS",
+      "detail": {
+        "Server": "SimpleHTTP/0.6 Python/3.13.5",
+        "Date": "Sun, 15 Nov 2026 12:58:38 GMT",
+        "Content-Type": "video/mp4",
+        "Content-Range": "bytes 100-1099/2427418",
+        "Content-Length": "1000",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "no-cache"
+      }
+    },
+    {
+      "test": "Range invalid 2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Range video 3",
+      "status": "PASS",
+      "detail": {
+        "Server": "SimpleHTTP/0.6 Python/3.13.5",
+        "Date": "Sun, 15 Nov 2026 12:58:38 GMT",
+        "Content-Type": "video/mp4",
+        "Content-Range": "bytes 100-1099/2469276",
+        "Content-Length": "1000",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "no-cache"
+      }
+    },
+    {
+      "test": "Range invalid 3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Range video 4",
+      "status": "PASS",
+      "detail": {
+        "Server": "SimpleHTTP/0.6 Python/3.13.5",
+        "Date": "Sun, 15 Nov 2026 12:58:38 GMT",
+        "Content-Type": "video/mp4",
+        "Content-Range": "bytes 100-1099/2451637",
+        "Content-Length": "1000",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "no-cache"
+      }
+    },
+    {
+      "test": "Range invalid 4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "test": "Media hilang bukan HTML sukses",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
+}

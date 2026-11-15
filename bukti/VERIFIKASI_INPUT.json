@@ -1,0 +1,1307 @@
+[
+  {
+    "package": "source_1_2_0",
+    "files_checked": 139,
+    "passed": 139,
+    "records": [
+      {
+        "path": "README.md",
+        "match": true,
+        "actual": "6d96f81f25fdeabc4f9d87b4a5d45341f9ebf50faae7d80ba58920b468d1b6f7",
+        "expected": "6d96f81f25fdeabc4f9d87b4a5d45341f9ebf50faae7d80ba58920b468d1b6f7"
+      },
+      {
+        "path": "docs/AI_ASSET_PROVENANCE.json",
+        "match": true,
+        "actual": "e308b087bc3c0ee17239aee11fb6a776cad9a685fef73af32b8070a85a5d120e",
+        "expected": "e308b087bc3c0ee17239aee11fb6a776cad9a685fef73af32b8070a85a5d120e"
+      },
+      {
+        "path": "docs/AUDIO_REVIEW.json",
+        "match": true,
+        "actual": "cdd7b412ee558707c5858c9e75526c656a3fc4f93de6056fb34cbd4947f5cf3c",
+        "expected": "cdd7b412ee558707c5858c9e75526c656a3fc4f93de6056fb34cbd4947f5cf3c"
+      },
+      {
+        "path": "docs/DAFTAR_PERUBAHAN_BERKAS.json",
+        "match": true,
+        "actual": "f9023020d5e858be5d616369cb42d544511cfd3445b6be8cc82d27489962333a",
+        "expected": "f9023020d5e858be5d616369cb42d544511cfd3445b6be8cc82d27489962333a"
+      },
+      {
+        "path": "docs/MEDIA_MANIFEST.json",
+        "match": true,
+        "actual": "74b46e2d5b49b53bc6d0aa2a5133be4070633a542364d52f33a7e0364773c1ff",
+        "expected": "74b46e2d5b49b53bc6d0aa2a5133be4070633a542364d52f33a7e0364773c1ff"
+      },
+      {
+        "path": "docs/audio-spektrogram.png",
+        "match": true,
+        "actual": "e76b88f3ab0ed9733903ebdbd388bebbd2fa75839dca706358dd4944379b4336",
+        "expected": "e76b88f3ab0ed9733903ebdbd388bebbd2fa75839dca706358dd4944379b4336"
+      },
+      {
+        "path": "docs/riwayat_1.1.0/AUDIT_DAN_REVISI.md",
+        "match": true,
+        "actual": "278d8c200d40860a7aaa2f75879cd2c9052a9efb58632bff9a7b1ee0adbd9df7",
+        "expected": "278d8c200d40860a7aaa2f75879cd2c9052a9efb58632bff9a7b1ee0adbd9df7"
+      },
+      {
+        "path": "docs/riwayat_1.1.0/INVENTARIS_SUMBER.json",
+        "match": true,
+        "actual": "abdc594aa3756ba1a7622c68d4700afeb9b89639f01794d8d7955445c3f9703a",
+        "expected": "abdc594aa3756ba1a7622c68d4700afeb9b89639f01794d8d7955445c3f9703a"
+      },
+      {
+        "path": "laporan/BATAS_VERIFIKASI.md",
+        "match": true,
+        "actual": "a0292b8003e87d44f175f97e52ea73330c8114d190d9d08005d7005e688898c0",
+        "expected": "a0292b8003e87d44f175f97e52ea73330c8114d190d9d08005d7005e688898c0"
+      },
+      {
+        "path": "laporan/CHECKPOINT.md",
+        "match": true,
+        "actual": "130f46f9742ad67f9545045b4c3fd2307311f542676b75597c3263492716a8bd",
+        "expected": "130f46f9742ad67f9545045b4c3fd2307311f542676b75597c3263492716a8bd"
+      },
+      {
+        "path": "laporan/LAPORAN_IMPLEMENTASI.md",
+        "match": true,
+        "actual": "d956a074468d20964c9c44e71fc24cd9fa5b9e1f4e2eac4d404728c658752741",
+        "expected": "d956a074468d20964c9c44e71fc24cd9fa5b9e1f4e2eac4d404728c658752741"
+      },
+      {
+        "path": "laporan/MATRIKS_PENERIMAAN.csv",
+        "match": true,
+        "actual": "ca0e78c4df6f1c6e80051df8a037798f715174270191b9da53df40cd1da7c60c",
+        "expected": "ca0e78c4df6f1c6e80051df8a037798f715174270191b9da53df40cd1da7c60c"
+      },
+      {
+        "path": "laporan/PANDUAN_JALANKAN_DAN_UNGGAH.md",
+        "match": true,
+        "actual": "0763b3606aad3a575b8c6ea6ec0ac65906f5fc5a2e4f176b6fd2a71205d0de38",
+        "expected": "0763b3606aad3a575b8c6ea6ec0ac65906f5fc5a2e4f176b6fd2a71205d0de38"
+      },
+      {
+        "path": "pratinjau_lokal.py",
+        "match": true,
+        "actual": "2deddb0c1e034772a4b3b8877de78dc2767989bf35f283afdfe128d9e13f4c0e",
+        "expected": "2deddb0c1e034772a4b3b8877de78dc2767989bf35f283afdfe128d9e13f4c0e"
+      },
+      {
+        "path": "qa/README.md",
+        "match": true,
+        "actual": "a075b484ae888700af2f177d7bf3e5d2a663d0d8ad06199d844c659316556f6f",
+        "expected": "a075b484ae888700af2f177d7bf3e5d2a663d0d8ad06199d844c659316556f6f"
+      },
+      {
+        "path": "qa/analisis_audio_vad.py",
+        "match": true,
+        "actual": "94271278012805ffd17e2748871e9b643d375a024cf2937d029ff46540fa8c43",
+        "expected": "94271278012805ffd17e2748871e9b643d375a024cf2937d029ff46540fa8c43"
+      },
+      {
+        "path": "qa/browser-tests.py",
+        "match": true,
+        "actual": "54f35c42b8ff349329e38c9fe88b29e7f7b51413c5dabb62ec1ee4fe3a54a4a8",
+        "expected": "54f35c42b8ff349329e38c9fe88b29e7f7b51413c5dabb62ec1ee4fe3a54a4a8"
+      },
+      {
+        "path": "qa/check_static.py",
+        "match": true,
+        "actual": "d7a6d768e5da366e3c177ad94b83eeaa7986f6aff66dcf316245b984e905acb7",
+        "expected": "d7a6d768e5da366e3c177ad94b83eeaa7986f6aff66dcf316245b984e905acb7"
+      },
+      {
+        "path": "qa/dom-interaction-tests.cjs",
+        "match": true,
+        "actual": "46e8224e6c9aefd39b435be2163dd33cd75b7016a235838380a743a8486415cd",
+        "expected": "46e8224e6c9aefd39b435be2163dd33cd75b7016a235838380a743a8486415cd"
+      },
+      {
+        "path": "qa/extract_dom.py",
+        "match": true,
+        "actual": "608964c600006f8084a745e94886ca854d3ac4944d1e668d7e7dae0010cad063",
+        "expected": "608964c600006f8084a745e94886ca854d3ac4944d1e668d7e7dae0010cad063"
+      },
+      {
+        "path": "qa/hasil/browser-results.json",
+        "match": true,
+        "actual": "3524456c0af1011b5d98c9fd81bbadf471d400a2bc3d38f1a9827bf1c1b1418f",
+        "expected": "3524456c0af1011b5d98c9fd81bbadf471d400a2bc3d38f1a9827bf1c1b1418f"
+      },
+      {
+        "path": "qa/hasil/dom-interaction-results.json",
+        "match": true,
+        "actual": "5cd1c8cbf8ecd18064c0c2cc6313a6f4a7db1a243b96e233750173a38343c84c",
+        "expected": "5cd1c8cbf8ecd18064c0c2cc6313a6f4a7db1a243b96e233750173a38343c84c"
+      },
+      {
+        "path": "qa/hasil/page-dom.json",
+        "match": true,
+        "actual": "b4226a04bbb36b1d6a596ede497a38727cb26eaf4697e8b4bacc2ac3b70c61f8",
+        "expected": "b4226a04bbb36b1d6a596ede497a38727cb26eaf4697e8b4bacc2ac3b70c61f8"
+      },
+      {
+        "path": "qa/hasil/static-results.json",
+        "match": true,
+        "actual": "e4564ae19c2c4c55e6744ca142eb16344aa2b9a553a2de1ccd8c0b8964429931",
+        "expected": "e4564ae19c2c4c55e6744ca142eb16344aa2b9a553a2de1ccd8c0b8964429931"
+      },
+      {
+        "path": "qa/screenshot/bagian_arahan-foto_1440x900.jpg",
+        "match": true,
+        "actual": "44bcd28375890e7dd8973d60b1e82e7f5a0497afb4640285c085c21014acfa01",
+        "expected": "44bcd28375890e7dd8973d60b1e82e7f5a0497afb4640285c085c21014acfa01"
+      },
+      {
+        "path": "qa/screenshot/bagian_arahan-foto_390x844.jpg",
+        "match": true,
+        "actual": "cd26a88c74444e345c0836a086ddf07bf93fbd4b9bc39375ce26b05346855885",
+        "expected": "cd26a88c74444e345c0836a086ddf07bf93fbd4b9bc39375ce26b05346855885"
+      },
+      {
+        "path": "qa/screenshot/bagian_arahan-video_1440x900.jpg",
+        "match": true,
+        "actual": "de3ff0637a51e8022e5c1a756e381c14e22d43faf721975eb9cdd7d845547c95",
+        "expected": "de3ff0637a51e8022e5c1a756e381c14e22d43faf721975eb9cdd7d845547c95"
+      },
+      {
+        "path": "qa/screenshot/bagian_arahan-video_390x844.jpg",
+        "match": true,
+        "actual": "6170e55e323af208aaaf3f3ef6ee4c8a921ac75afc72df6fbc50965808ea514c",
+        "expected": "6170e55e323af208aaaf3f3ef6ee4c8a921ac75afc72df6fbc50965808ea514c"
+      },
+      {
+        "path": "qa/screenshot/bagian_beranda_1440x900.jpg",
+        "match": true,
+        "actual": "ffd2fad7cdd9b77e1415872403f0082892f45d1886f862b38d425d3568b5acd0",
+        "expected": "ffd2fad7cdd9b77e1415872403f0082892f45d1886f862b38d425d3568b5acd0"
+      },
+      {
+        "path": "qa/screenshot/bagian_beranda_390x844.jpg",
+        "match": true,
+        "actual": "2176ad54fba3bb28864f785435e6ff4ef37502d8adb91f2058a72e2541f407ba",
+        "expected": "2176ad54fba3bb28864f785435e6ff4ef37502d8adb91f2058a72e2541f407ba"
+      },
+      {
+        "path": "qa/screenshot/bagian_cara-kerja_1440x900.jpg",
+        "match": true,
+        "actual": "8cb627bb754943a303f48942c04f4cd6cc07703530a469992bf5ffd230e5d047",
+        "expected": "8cb627bb754943a303f48942c04f4cd6cc07703530a469992bf5ffd230e5d047"
+      },
+      {
+        "path": "qa/screenshot/bagian_cara-kerja_390x844.jpg",
+        "match": true,
+        "actual": "c0183e0aacfa36d81f3e777d5f72a9a3cac152639ccf1ba0d14022b54256ee24",
+        "expected": "c0183e0aacfa36d81f3e777d5f72a9a3cac152639ccf1ba0d14022b54256ee24"
+      },
+      {
+        "path": "qa/screenshot/bagian_cerita_1440x900.jpg",
+        "match": true,
+        "actual": "da1b5b4b35553c30c2934112b8ed144d703f952ccf9b9cd69ed3b63687abbfb8",
+        "expected": "da1b5b4b35553c30c2934112b8ed144d703f952ccf9b9cd69ed3b63687abbfb8"
+      },
+      {
+        "path": "qa/screenshot/bagian_cerita_390x844.jpg",
+        "match": true,
+        "actual": "0f301be161d3071bb26c8cc71bdc0f491b023a0ebb07d7458ba3ea47725db342",
+        "expected": "0f301be161d3071bb26c8cc71bdc0f491b023a0ebb07d7458ba3ea47725db342"
+      },
+      {
+        "path": "qa/screenshot/bagian_cta-akhir_1440x900.jpg",
+        "match": true,
+        "actual": "c5cd3e84ff59c341cd8f4dcf3b40f56f519868ac5a3c2177f028e9beb32d6840",
+        "expected": "c5cd3e84ff59c341cd8f4dcf3b40f56f519868ac5a3c2177f028e9beb32d6840"
+      },
+      {
+        "path": "qa/screenshot/bagian_cta-akhir_390x844.jpg",
+        "match": true,
+        "actual": "8d24759a5d470a0ada9040cc7f0fcc328932e2b5c8611529acf7354b59355f3b",
+        "expected": "8d24759a5d470a0ada9040cc7f0fcc328932e2b5c8611529acf7354b59355f3b"
+      },
+      {
+        "path": "qa/screenshot/bagian_fitur_1440x900.jpg",
+        "match": true,
+        "actual": "76bd1335b73a7176296a671680d55a9daefa57c627a2f1dadc6b2e914b411258",
+        "expected": "76bd1335b73a7176296a671680d55a9daefa57c627a2f1dadc6b2e914b411258"
+      },
+      {
+        "path": "qa/screenshot/bagian_fitur_390x844.jpg",
+        "match": true,
+        "actual": "55e895aff6c3925c87273771e1e5ebb46b4fda5aa6a4148cb9e5a009c25d1572",
+        "expected": "55e895aff6c3925c87273771e1e5ebb46b4fda5aa6a4148cb9e5a009c25d1572"
+      },
+      {
+        "path": "qa/screenshot/bagian_footer_1440x900.jpg",
+        "match": true,
+        "actual": "b3b80a0a4c7421043abdcefe1eded92a2cd3aa9953b10176633cff215edda3ad",
+        "expected": "b3b80a0a4c7421043abdcefe1eded92a2cd3aa9953b10176633cff215edda3ad"
+      },
+      {
+        "path": "qa/screenshot/bagian_footer_390x844.jpg",
+        "match": true,
+        "actual": "3d86db4ec5d4998f525ca724fd8fb203d6bdaf0cb7f1b0db8337ca67423830d1",
+        "expected": "3d86db4ec5d4998f525ca724fd8fb203d6bdaf0cb7f1b0db8337ca67423830d1"
+      },
+      {
+        "path": "qa/screenshot/bagian_hasil-video_1440x900.jpg",
+        "match": true,
+        "actual": "a256d91dc17f76d9a65261460c52ea4b09779bdfc6fcd300d1911c8760466a28",
+        "expected": "a256d91dc17f76d9a65261460c52ea4b09779bdfc6fcd300d1911c8760466a28"
+      },
+      {
+        "path": "qa/screenshot/bagian_hasil-video_390x844.jpg",
+        "match": true,
+        "actual": "135e4c717a5bf35fd59988b93b6735c82d738722721d46bf81eebb2293f3ed72",
+        "expected": "135e4c717a5bf35fd59988b93b6735c82d738722721d46bf81eebb2293f3ed72"
+      },
+      {
+        "path": "qa/screenshot/bagian_ide_1440x900.jpg",
+        "match": true,
+        "actual": "fc496c25eff0a04679ac512f9db1950caa2f623cb2079b30de31a5562f039188",
+        "expected": "fc496c25eff0a04679ac512f9db1950caa2f623cb2079b30de31a5562f039188"
+      },
+      {
+        "path": "qa/screenshot/bagian_ide_390x844.jpg",
+        "match": true,
+        "actual": "426f5cc63b318e9ffcd67a810627a3fc0a08c2ab9e237bb700eb384e95dacc7e",
+        "expected": "426f5cc63b318e9ffcd67a810627a3fc0a08c2ab9e237bb700eb384e95dacc7e"
+      },
+      {
+        "path": "qa/screenshot/bagian_pemula_1440x900.jpg",
+        "match": true,
+        "actual": "0cfb25d1280002c9eb6a87c8fdc8982bedbcfd3ac477d3a2c73d4078154f0a13",
+        "expected": "0cfb25d1280002c9eb6a87c8fdc8982bedbcfd3ac477d3a2c73d4078154f0a13"
+      },
+      {
+        "path": "qa/screenshot/bagian_pemula_390x844.jpg",
+        "match": true,
+        "actual": "0ba4f040372f5bac78d27f4e9d5bd9a9539cfa53b815418035a99e6a1065b671",
+        "expected": "0ba4f040372f5bac78d27f4e9d5bd9a9539cfa53b815418035a99e6a1065b671"
+      },
+      {
+        "path": "qa/screenshot/cta_arahan-foto_1440x900.jpg",
+        "match": true,
+        "actual": "a99a4fbc14f393b1cc2f4824d3dc1eba7629f10cdc3e8e1b4d6d65696340dea7",
+        "expected": "a99a4fbc14f393b1cc2f4824d3dc1eba7629f10cdc3e8e1b4d6d65696340dea7"
+      },
+      {
+        "path": "qa/screenshot/cta_arahan-foto_390x844.jpg",
+        "match": true,
+        "actual": "6dca373f242ed39fe2422ba88478477d33c930b360716003c56402efcebe311f",
+        "expected": "6dca373f242ed39fe2422ba88478477d33c930b360716003c56402efcebe311f"
+      },
+      {
+        "path": "qa/screenshot/cta_hasil-video_1440x900.jpg",
+        "match": true,
+        "actual": "db03b7c8ff5ac56f402b8ec94bc2d8c4a0953f8dfec233cfa8be48950ca85cdf",
+        "expected": "db03b7c8ff5ac56f402b8ec94bc2d8c4a0953f8dfec233cfa8be48950ca85cdf"
+      },
+      {
+        "path": "qa/screenshot/cta_hasil-video_390x844.jpg",
+        "match": true,
+        "actual": "e3db4804abb365adbe59fb52bc9caba432d06afd2924529b113ca515615475ae",
+        "expected": "e3db4804abb365adbe59fb52bc9caba432d06afd2924529b113ca515615475ae"
+      },
+      {
+        "path": "qa/screenshot/fokus-cta-hero_1440x900.jpg",
+        "match": true,
+        "actual": "67972b849b4deda0f7fb74fa07b36d6eebfe78ab46c2df991a174fb1ff4c9318",
+        "expected": "67972b849b4deda0f7fb74fa07b36d6eebfe78ab46c2df991a174fb1ff4c9318"
+      },
+      {
+        "path": "qa/screenshot/fokus-video_1440x900.jpg",
+        "match": true,
+        "actual": "dbd14708d30ea7244c53b5ae1e294baec9105209c58b035762ff151e056aa627",
+        "expected": "dbd14708d30ea7244c53b5ae1e294baec9105209c58b035762ff151e056aa627"
+      },
+      {
+        "path": "qa/screenshot/font-gagal_390x844.jpg",
+        "match": true,
+        "actual": "4fa76b66bf99b3339edf9c309a5b6ecf3302843a1ea020c884d94bbcc2ad8b83",
+        "expected": "4fa76b66bf99b3339edf9c309a5b6ecf3302843a1ea020c884d94bbcc2ad8b83"
+      },
+      {
+        "path": "qa/screenshot/gambar-gagal_390x844.jpg",
+        "match": true,
+        "actual": "41c634cab0b1ad1035b51d6212feedca299f03c29c6ed8b58b38d0b74e666115",
+        "expected": "41c634cab0b1ad1035b51d6212feedca299f03c29c6ed8b58b38d0b74e666115"
+      },
+      {
+        "path": "qa/screenshot/halaman-penuh_1440x900.jpg",
+        "match": true,
+        "actual": "919a01b8cfa76108b535468be3d07483db816ba817337220137a4ac29d9a3e5d",
+        "expected": "919a01b8cfa76108b535468be3d07483db816ba817337220137a4ac29d9a3e5d"
+      },
+      {
+        "path": "qa/screenshot/halaman-penuh_320x568.jpg",
+        "match": true,
+        "actual": "e8a156ed6b82b3501462c06aa31ef017b686e10f8073d1a90b95c6043d4f7a82",
+        "expected": "e8a156ed6b82b3501462c06aa31ef017b686e10f8073d1a90b95c6043d4f7a82"
+      },
+      {
+        "path": "qa/screenshot/halaman-penuh_390x844.jpg",
+        "match": true,
+        "actual": "1ef79a738fb7fa418d353ff209368ddf5c65e99092eabcf24652cf3f21be2c81",
+        "expected": "1ef79a738fb7fa418d353ff209368ddf5c65e99092eabcf24652cf3f21be2c81"
+      },
+      {
+        "path": "qa/screenshot/halaman-penuh_768x1024.jpg",
+        "match": true,
+        "actual": "5b299e2242741ccf1c20b089605c8552bf7d4dd51bb886e25ef446aea270c170",
+        "expected": "5b299e2242741ccf1c20b089605c8552bf7d4dd51bb886e25ef446aea270c170"
+      },
+      {
+        "path": "qa/screenshot/halaman-penuh_844x390.jpg",
+        "match": true,
+        "actual": "93bf087c0f8c014c46c7d7bd17b73f2ee5101deb69dba0fd01c51688b99d7cb2",
+        "expected": "93bf087c0f8c014c46c7d7bd17b73f2ee5101deb69dba0fd01c51688b99d7cb2"
+      },
+      {
+        "path": "qa/screenshot/hero-rincian-prompt_1440x900.jpg",
+        "match": true,
+        "actual": "200903ea16a491bb8f6415c469029a9fffa260e51977215eb5c71306f94ec574",
+        "expected": "200903ea16a491bb8f6415c469029a9fffa260e51977215eb5c71306f94ec574"
+      },
+      {
+        "path": "qa/screenshot/hero-rincian-prompt_390x844.jpg",
+        "match": true,
+        "actual": "9c7cf808050426879c183818d84e1426d000c51848e7b88dd3cb348e02c74771",
+        "expected": "9c7cf808050426879c183818d84e1426d000c51848e7b88dd3cb348e02c74771"
+      },
+      {
+        "path": "qa/screenshot/layar-awal_1024x768.jpg",
+        "match": true,
+        "actual": "f3fd5a2f6702ec8d3381fb0fa2924fd08ac823e4901305b8fc8e8b35938f409f",
+        "expected": "f3fd5a2f6702ec8d3381fb0fa2924fd08ac823e4901305b8fc8e8b35938f409f"
+      },
+      {
+        "path": "qa/screenshot/layar-awal_1280x800.jpg",
+        "match": true,
+        "actual": "b7a31be64d30efd3488fd9b5b84aaae4771ec2b1f42620ee754a94957ca91615",
+        "expected": "b7a31be64d30efd3488fd9b5b84aaae4771ec2b1f42620ee754a94957ca91615"
+      },
+      {
+        "path": "qa/screenshot/layar-awal_1440x900.jpg",
+        "match": true,
+        "actual": "f418e59feba2c778f5a8f87c728a7fd2cae9ff3e3778d0d2684d1e8a90b7b9b6",
+        "expected": "f418e59feba2c778f5a8f87c728a7fd2cae9ff3e3778d0d2684d1e8a90b7b9b6"
+      },
+      {
+        "path": "qa/screenshot/layar-awal_320x568.jpg",
+        "match": true,
+        "actual": "0ef5e6f9f29a78f7357ebd69c6441f7cd644a98ab10380114faa455d875a5643",
+        "expected": "0ef5e6f9f29a78f7357ebd69c6441f7cd644a98ab10380114faa455d875a5643"
+      },
+      {
+        "path": "qa/screenshot/layar-awal_360x800.jpg",
+        "match": true,
+        "actual": "4e4b06b8d3dc7692fb860d27a3c518c8402bbb5917d078c0e75261e4e882a322",
+        "expected": "4e4b06b8d3dc7692fb860d27a3c518c8402bbb5917d078c0e75261e4e882a322"
+      },
+      {
+        "path": "qa/screenshot/layar-awal_390x844.jpg",
+        "match": true,
+        "actual": "3b247664055452d35b3c7bda5b3900ad0ad64761967469e70ce9f969e3a37165",
+        "expected": "3b247664055452d35b3c7bda5b3900ad0ad64761967469e70ce9f969e3a37165"
+      },
+      {
+        "path": "qa/screenshot/layar-awal_768x1024.jpg",
+        "match": true,
+        "actual": "e892de9686c3980b31e854816db62904648c515f7145cca4aa53dca6c8f2d221",
+        "expected": "e892de9686c3980b31e854816db62904648c515f7145cca4aa53dca6c8f2d221"
+      },
+      {
+        "path": "qa/screenshot/layar-awal_844x390.jpg",
+        "match": true,
+        "actual": "fd3924b65992b894c688c507c683d06aca8f286508c66e6ee77cba40a4d48817",
+        "expected": "fd3924b65992b894c688c507c683d06aca8f286508c66e6ee77cba40a4d48817"
+      },
+      {
+        "path": "qa/screenshot/menu-mobile-terbuka_390x844.jpg",
+        "match": true,
+        "actual": "8e69d9cdfc5644457079f2b8e4645d43fa11ecf43475c80760a1e5939360cef3",
+        "expected": "8e69d9cdfc5644457079f2b8e4645d43fa11ecf43475c80760a1e5939360cef3"
+      },
+      {
+        "path": "qa/screenshot/storyboard-memutar_1440x900.jpg",
+        "match": true,
+        "actual": "f12c7dfc02a20a2cff02998a6f0bb49ee3236c792b2406c1495e4999b4f5a0dd",
+        "expected": "f12c7dfc02a20a2cff02998a6f0bb49ee3236c792b2406c1495e4999b4f5a0dd"
+      },
+      {
+        "path": "qa/screenshot/tanpa-js_1440x900.jpg",
+        "match": true,
+        "actual": "183f1dc51dc8fdc7f96e43902e4a37f58540c1496f71ff4f33ed5203e9c6b08c",
+        "expected": "183f1dc51dc8fdc7f96e43902e4a37f58540c1496f71ff4f33ed5203e9c6b08c"
+      },
+      {
+        "path": "qa/screenshot/tanpa-js_390x844.jpg",
+        "match": true,
+        "actual": "5397b371472d03c9e38ff89b15b545687ee39ae70c240ac1848fd374470b6e55",
+        "expected": "5397b371472d03c9e38ff89b15b545687ee39ae70c240ac1848fd374470b6e55"
+      },
+      {
+        "path": "qa/screenshot/tanpa-js_video-memutar_1440x900.jpg",
+        "match": true,
+        "actual": "c841a91d0104fa7f881915ad8f1200ad462b66f51813611ee4b7594fa81beb19",
+        "expected": "c841a91d0104fa7f881915ad8f1200ad462b66f51813611ee4b7594fa81beb19"
+      },
+      {
+        "path": "qa/screenshot/tanpa-js_video-memutar_390x844.jpg",
+        "match": true,
+        "actual": "c841a91d0104fa7f881915ad8f1200ad462b66f51813611ee4b7594fa81beb19",
+        "expected": "c841a91d0104fa7f881915ad8f1200ad462b66f51813611ee4b7594fa81beb19"
+      },
+      {
+        "path": "qa/screenshot/video_frame_akhir_1440x900.jpg",
+        "match": true,
+        "actual": "fa9cbc22e2aee3893d610a998ef2956c0edef7af42f40f07921ed7d5b2fdcf01",
+        "expected": "fa9cbc22e2aee3893d610a998ef2956c0edef7af42f40f07921ed7d5b2fdcf01"
+      },
+      {
+        "path": "qa/screenshot/video_frame_akhir_390x844.jpg",
+        "match": true,
+        "actual": "bab8cc47a82a473d73de7a51061f9876b23939b3bb8464fd4f4e340d3f281866",
+        "expected": "bab8cc47a82a473d73de7a51061f9876b23939b3bb8464fd4f4e340d3f281866"
+      },
+      {
+        "path": "qa/screenshot/video_frame_awal_1440x900.jpg",
+        "match": true,
+        "actual": "0da67e71e781df37dcd8516c3e7cae017ecb6b07b76a3e219f6ccfe67756e286",
+        "expected": "0da67e71e781df37dcd8516c3e7cae017ecb6b07b76a3e219f6ccfe67756e286"
+      },
+      {
+        "path": "qa/screenshot/video_frame_awal_390x844.jpg",
+        "match": true,
+        "actual": "28c6594c59a4853514ca2175499e82f0fce0e9ca43b8eab678e48b992127f0d8",
+        "expected": "28c6594c59a4853514ca2175499e82f0fce0e9ca43b8eab678e48b992127f0d8"
+      },
+      {
+        "path": "qa/screenshot/video_frame_sepatu_1440x900.jpg",
+        "match": true,
+        "actual": "f98d1a476bf9dccdeb6067788cdfb21178b1adb7e02abe0af45b26a7fd6207ab",
+        "expected": "f98d1a476bf9dccdeb6067788cdfb21178b1adb7e02abe0af45b26a7fd6207ab"
+      },
+      {
+        "path": "qa/screenshot/video_frame_sepatu_390x844.jpg",
+        "match": true,
+        "actual": "f98d1a476bf9dccdeb6067788cdfb21178b1adb7e02abe0af45b26a7fd6207ab",
+        "expected": "f98d1a476bf9dccdeb6067788cdfb21178b1adb7e02abe0af45b26a7fd6207ab"
+      },
+      {
+        "path": "qa/screenshot/video_frame_tas_1440x900.jpg",
+        "match": true,
+        "actual": "5efd82476590a2aebced7fff22c61ea5a9f1a5e41e60e781c3b9a84a68261fba",
+        "expected": "5efd82476590a2aebced7fff22c61ea5a9f1a5e41e60e781c3b9a84a68261fba"
+      },
+      {
+        "path": "qa/screenshot/video_frame_tas_390x844.jpg",
+        "match": true,
+        "actual": "5efd82476590a2aebced7fff22c61ea5a9f1a5e41e60e781c3b9a84a68261fba",
+        "expected": "5efd82476590a2aebced7fff22c61ea5a9f1a5e41e60e781c3b9a84a68261fba"
+      },
+      {
+        "path": "qa/screenshot/video_frame_wajah_1440x900.jpg",
+        "match": true,
+        "actual": "9714c1a5f26e1c96b02c2a4d631af3de2b79bfb52aa521c6dd408f2979db4cd8",
+        "expected": "9714c1a5f26e1c96b02c2a4d631af3de2b79bfb52aa521c6dd408f2979db4cd8"
+      },
+      {
+        "path": "qa/screenshot/video_frame_wajah_390x844.jpg",
+        "match": true,
+        "actual": "9714c1a5f26e1c96b02c2a4d631af3de2b79bfb52aa521c6dd408f2979db4cd8",
+        "expected": "9714c1a5f26e1c96b02c2a4d631af3de2b79bfb52aa521c6dd408f2979db4cd8"
+      },
+      {
+        "path": "qa/screenshot/video_gagal_404_390x844.jpg",
+        "match": true,
+        "actual": "a70c8fddc3b18eb3207e57780cba1db017aa8eb04c3c149e5cabfd511458097a",
+        "expected": "a70c8fddc3b18eb3207e57780cba1db017aa8eb04c3c149e5cabfd511458097a"
+      },
+      {
+        "path": "qa/screenshot/video_gagal_offline_390x844.jpg",
+        "match": true,
+        "actual": "508530f2800da1aff7fe633ad30be422be54fe9967a3d623b379531cb3286f3d",
+        "expected": "508530f2800da1aff7fe633ad30be422be54fe9967a3d623b379531cb3286f3d"
+      },
+      {
+        "path": "qa/screenshot/video_gagal_rusak_390x844.jpg",
+        "match": true,
+        "actual": "be79fe01221b9dbbc77c2b8b1189dfceb6bba7b2f609d46b6aad481d46ef0dc5",
+        "expected": "be79fe01221b9dbbc77c2b8b1189dfceb6bba7b2f609d46b6aad481d46ef0dc5"
+      },
+      {
+        "path": "qa/screenshot/video_memutar_1440x900.jpg",
+        "match": true,
+        "actual": "786418690f0ae313a7ee8b029f7d203c2e31ec9cee356f3ea0fc0eb03fdbbca1",
+        "expected": "786418690f0ae313a7ee8b029f7d203c2e31ec9cee356f3ea0fc0eb03fdbbca1"
+      },
+      {
+        "path": "qa/screenshot/video_poster_1440x900.jpg",
+        "match": true,
+        "actual": "5ef5457a4dc974c15b8f6f692c1e5c1279a68ee44a5f57c356eec23c3552ab1b",
+        "expected": "5ef5457a4dc974c15b8f6f692c1e5c1279a68ee44a5f57c356eec23c3552ab1b"
+      },
+      {
+        "path": "qa/screenshot/video_selesai_1440x900.jpg",
+        "match": true,
+        "actual": "ebb32d4988f310783c84c362995d0846105ea67586c693d38f090bf39f24bbea",
+        "expected": "ebb32d4988f310783c84c362995d0846105ea67586c693d38f090bf39f24bbea"
+      },
+      {
+        "path": "qa/screenshot/zoom_1280x1024_at400pct_zoom_reflow_320.jpg",
+        "match": true,
+        "actual": "9867e8d8d2495d2f7c48d880c6509b182fe9fc6f87374e09a98b9ed479fa7216",
+        "expected": "9867e8d8d2495d2f7c48d880c6509b182fe9fc6f87374e09a98b9ed479fa7216"
+      },
+      {
+        "path": "qa/screenshot/zoom_1280x800_at200pct_zoom.jpg",
+        "match": true,
+        "actual": "c43739aff62b8b6553494a05e6e8900d67b87f4d55f81e3e85c28149c5303676",
+        "expected": "c43739aff62b8b6553494a05e6e8900d67b87f4d55f81e3e85c28149c5303676"
+      },
+      {
+        "path": "qa/screenshot/zoom_1280x800_teks_200pct.jpg",
+        "match": true,
+        "actual": "72de1d628a0a4fc32c812ab133ba6ad2046a9f407d93daf90f81450d999c15a5",
+        "expected": "72de1d628a0a4fc32c812ab133ba6ad2046a9f407d93daf90f81450d999c15a5"
+      },
+      {
+        "path": "qa/screenshot/zoom_1440x900_at200pct_zoom.jpg",
+        "match": true,
+        "actual": "7675132395d1abfcb3701cfc46e0bd3b984c5121a986c56e4a6cc2b0677ee7bc",
+        "expected": "7675132395d1abfcb3701cfc46e0bd3b984c5121a986c56e4a6cc2b0677ee7bc"
+      },
+      {
+        "path": "qa/screenshot/zoom_390x844_teks_200pct.jpg",
+        "match": true,
+        "actual": "9812f1a1d2aff814e9e45c81ecbbc685dd33c2e6bd2b65e36c27698f06a247d1",
+        "expected": "9812f1a1d2aff814e9e45c81ecbbc685dd33c2e6bd2b65e36c27698f06a247d1"
+      },
+      {
+        "path": "sumber_asli/JAGO_PROMPT_BASELINE_ASLI.zip",
+        "match": true,
+        "actual": "0571ca1485a0edc6e17bcdd46971d979d8e07a27f0d0c6c911294d0c4c5e923d",
+        "expected": "0571ca1485a0edc6e17bcdd46971d979d8e07a27f0d0c6c911294d0c4c5e923d"
+      },
+      {
+        "path": "website/assets/brand/favicon-180.png",
+        "match": true,
+        "actual": "c09f2e805d61851886909274f9eb85a2ae15776e8e110293b996fdb09c615165",
+        "expected": "c09f2e805d61851886909274f9eb85a2ae15776e8e110293b996fdb09c615165"
+      },
+      {
+        "path": "website/assets/brand/favicon-32.png",
+        "match": true,
+        "actual": "a7c20f506f15541403dd3d10e71f5a643a73301a96c482af61fcc5d78df20b78",
+        "expected": "a7c20f506f15541403dd3d10e71f5a643a73301a96c482af61fcc5d78df20b78"
+      },
+      {
+        "path": "website/assets/brand/favicon-512.png",
+        "match": true,
+        "actual": "4c15d6579cc4fd2777331887c5dafc7d54eaf72eb6befac959fcaae1a5c54279",
+        "expected": "4c15d6579cc4fd2777331887c5dafc7d54eaf72eb6befac959fcaae1a5c54279"
+      },
+      {
+        "path": "website/assets/brand/logo-jago-prompt-256.png",
+        "match": true,
+        "actual": "5e23069a404ee6ff60eed39e9cf0cd7ad42fb605cebd8cc0a4475d30bf17508e",
+        "expected": "5e23069a404ee6ff60eed39e9cf0cd7ad42fb605cebd8cc0a4475d30bf17508e"
+      },
+      {
+        "path": "website/assets/brand/logo-jago-prompt-96.png",
+        "match": true,
+        "actual": "da20b3b2bee973fb29166fca94f5b3d4aa2e20f93d07cbb9da21103c5a85ba0a",
+        "expected": "da20b3b2bee973fb29166fca94f5b3d4aa2e20f93d07cbb9da21103c5a85ba0a"
+      },
+      {
+        "path": "website/assets/brand/logo-jago-prompt.png",
+        "match": true,
+        "actual": "f7763beecd2bcd31c8b59a81fc3569a56ff0194d836378ca470cc3f261630cfa",
+        "expected": "f7763beecd2bcd31c8b59a81fc3569a56ff0194d836378ca470cc3f261630cfa"
+      },
+      {
+        "path": "website/assets/fonts/OFL-LICENSE.txt",
+        "match": true,
+        "actual": "e07fd1167c2aaaa6fb965dd66e1e73b13c9c95b76b2d648b6e938780f30b37af",
+        "expected": "e07fd1167c2aaaa6fb965dd66e1e73b13c9c95b76b2d648b6e938780f30b37af"
+      },
+      {
+        "path": "website/assets/fonts/plus-jakarta-sans-latin-400-normal.woff2",
+        "match": true,
+        "actual": "221a4135d06a4b33abbd535e9a0da4e565d19545ddd9267c4e678a916d54d9b6",
+        "expected": "221a4135d06a4b33abbd535e9a0da4e565d19545ddd9267c4e678a916d54d9b6"
+      },
+      {
+        "path": "website/assets/fonts/plus-jakarta-sans-latin-500-normal.woff2",
+        "match": true,
+        "actual": "bad081c8dbc15aed6c5e4cde5461914f7b3bdc295b7a7aed177e4beddb79bffa",
+        "expected": "bad081c8dbc15aed6c5e4cde5461914f7b3bdc295b7a7aed177e4beddb79bffa"
+      },
+      {
+        "path": "website/assets/fonts/plus-jakarta-sans-latin-600-normal.woff2",
+        "match": true,
+        "actual": "8872bb5c9111df9bd3162c2394aee6354d782b13408a4dd5bbf65c48207206e6",
+        "expected": "8872bb5c9111df9bd3162c2394aee6354d782b13408a4dd5bbf65c48207206e6"
+      },
+      {
+        "path": "website/assets/fonts/plus-jakarta-sans-latin-700-normal.woff2",
+        "match": true,
+        "actual": "2050755bf475817c96ac7d914c7f07cc3c2d11ff4b3fb4747b8d41de584aad17",
+        "expected": "2050755bf475817c96ac7d914c7f07cc3c2d11ff4b3fb4747b8d41de584aad17"
+      },
+      {
+        "path": "website/assets/fonts/plus-jakarta-sans-latin-800-normal.woff2",
+        "match": true,
+        "actual": "5f301a8ef9c266c8b596e6793d3cc826daeff9849c5af035f5386439137955ad",
+        "expected": "5f301a8ef9c266c8b596e6793d3cc826daeff9849c5af035f5386439137955ad"
+      },
+      {
+        "path": "website/assets/images/bag-editorial-480.webp",
+        "match": true,
+        "actual": "e3a5fd614349a9c5a0f2f5967552b61ffc1dc78a23831405e56a443b3f6f4b4f",
+        "expected": "e3a5fd614349a9c5a0f2f5967552b61ffc1dc78a23831405e56a443b3f6f4b4f"
+      },
+      {
+        "path": "website/assets/images/bag-editorial.webp",
+        "match": true,
+        "actual": "34362c894a8079c24a6690d29c2567cf2d7a8e41e9256f465c1bd7eb0e77ed73",
+        "expected": "34362c894a8079c24a6690d29c2567cf2d7a8e41e9256f465c1bd7eb0e77ed73"
+      },
+      {
+        "path": "website/assets/images/coffee-directed.svg",
+        "match": true,
+        "actual": "5f920980521adbc06789b767ae2952c9bd4211efb0ec7de8dd2926b2ab00f50b",
+        "expected": "5f920980521adbc06789b767ae2952c9bd4211efb0ec7de8dd2926b2ab00f50b"
+      },
+      {
+        "path": "website/assets/images/coffee-editorial-480.webp",
+        "match": true,
+        "actual": "ae92e592bc08034b727dc641970564b10497ddfde6e85e9cad9547e93b8a6b96",
+        "expected": "ae92e592bc08034b727dc641970564b10497ddfde6e85e9cad9547e93b8a6b96"
+      },
+      {
+        "path": "website/assets/images/coffee-editorial.webp",
+        "match": true,
+        "actual": "782f57f785d12088efa42dd3d533dbcbf74ea6f40df13f7dfb66e029b8214f36",
+        "expected": "782f57f785d12088efa42dd3d533dbcbf74ea6f40df13f7dfb66e029b8214f36"
+      },
+      {
+        "path": "website/assets/images/coffee-raw.svg",
+        "match": true,
+        "actual": "80aca480b6d5a0312d7a12ae5e2b7eec6b6e5add671eb9a1bd01e1e76da46e20",
+        "expected": "80aca480b6d5a0312d7a12ae5e2b7eec6b6e5add671eb9a1bd01e1e76da46e20"
+      },
+      {
+        "path": "website/assets/images/coffee-simple-480.webp",
+        "match": true,
+        "actual": "3343a45e64f5a4ff67cc10fe4272f6aa9734492139636c5fe02c871c25035d55",
+        "expected": "3343a45e64f5a4ff67cc10fe4272f6aa9734492139636c5fe02c871c25035d55"
+      },
+      {
+        "path": "website/assets/images/coffee-simple.webp",
+        "match": true,
+        "actual": "d39800bd3d0c7df8770dfc2174fb558efca62d3ff50db6a2071a91bca13f0930",
+        "expected": "d39800bd3d0c7df8770dfc2174fb558efca62d3ff50db6a2071a91bca13f0930"
+      },
+      {
+        "path": "website/assets/images/cosmetic-lipstick.svg",
+        "match": true,
+        "actual": "7884b7b0e462ba1a2029bae2a1b4470043b3a172c8ee6d3f3a38b0513871217a",
+        "expected": "7884b7b0e462ba1a2029bae2a1b4470043b3a172c8ee6d3f3a38b0513871217a"
+      },
+      {
+        "path": "website/assets/images/fashion-bag.svg",
+        "match": true,
+        "actual": "2fc00439bef4ec1cc589466d6e6231673b44c65372be9e0e733629d900a1f7d3",
+        "expected": "2fc00439bef4ec1cc589466d6e6231673b44c65372be9e0e733629d900a1f7d3"
+      },
+      {
+        "path": "website/assets/images/fashion-video-poster.webp",
+        "match": true,
+        "actual": "a43081727d9ec5c98366eed39dbcfaaff4f55c859e83be0c71bc262602d83019",
+        "expected": "a43081727d9ec5c98366eed39dbcfaaff4f55c859e83be0c71bc262602d83019"
+      },
+      {
+        "path": "website/assets/images/food-editorial-480.webp",
+        "match": true,
+        "actual": "ad2ed3df02e031df6bb9cc6e4198640f02e91d2e8c4141a7e2b7ddaf45efc925",
+        "expected": "ad2ed3df02e031df6bb9cc6e4198640f02e91d2e8c4141a7e2b7ddaf45efc925"
+      },
+      {
+        "path": "website/assets/images/food-editorial.svg",
+        "match": true,
+        "actual": "f0893df632427a721d8c57cb99f61db0895beb7ff6a7984f0a0555cbd1046caf",
+        "expected": "f0893df632427a721d8c57cb99f61db0895beb7ff6a7984f0a0555cbd1046caf"
+      },
+      {
+        "path": "website/assets/images/food-editorial.webp",
+        "match": true,
+        "actual": "cb14f5830d26c82bc6b5de3db7f3ed0884856b3d4e5df72a2baa34694764686f",
+        "expected": "cb14f5830d26c82bc6b5de3db7f3ed0884856b3d4e5df72a2baa34694764686f"
+      },
+      {
+        "path": "website/assets/images/lifestyle-candle.svg",
+        "match": true,
+        "actual": "bbe34cf23c93a022ed1e282bbec43ab97a96717b3ba155379c700ba3d791a71a",
+        "expected": "bbe34cf23c93a022ed1e282bbec43ab97a96717b3ba155379c700ba3d791a71a"
+      },
+      {
+        "path": "website/assets/images/perfume-editorial-480.webp",
+        "match": true,
+        "actual": "d4291d9ce14def24217ff404b3b058f8d0def5b42ebff20fb5d89d9676496d9d",
+        "expected": "d4291d9ce14def24217ff404b3b058f8d0def5b42ebff20fb5d89d9676496d9d"
+      },
+      {
+        "path": "website/assets/images/perfume-editorial.webp",
+        "match": true,
+        "actual": "9c94dd6a178fec761c339128d4c5a85360eba89a1a63a05733255e6f04a9d0f6",
+        "expected": "9c94dd6a178fec761c339128d4c5a85360eba89a1a63a05733255e6f04a9d0f6"
+      },
+      {
+        "path": "website/assets/images/perfume-hero.svg",
+        "match": true,
+        "actual": "6d37f6930f9a7dd6ccfb4f71251fd99176bee8a9cbd79e37b270f23fda6b19fc",
+        "expected": "6d37f6930f9a7dd6ccfb4f71251fd99176bee8a9cbd79e37b270f23fda6b19fc"
+      },
+      {
+        "path": "website/assets/images/product-watch.svg",
+        "match": true,
+        "actual": "b02c5799c1b6541b9d5794992ba324812fb19831c1b1ef8666c3221b9ccb3655",
+        "expected": "b02c5799c1b6541b9d5794992ba324812fb19831c1b1ef8666c3221b9ccb3655"
+      },
+      {
+        "path": "website/assets/images/serum-botanical.svg",
+        "match": true,
+        "actual": "f66c6938171b8576eab9e7b834991ecb92787861b611326eb5c50f749e8856e8",
+        "expected": "f66c6938171b8576eab9e7b834991ecb92787861b611326eb5c50f749e8856e8"
+      },
+      {
+        "path": "website/assets/images/serum-editorial-480.webp",
+        "match": true,
+        "actual": "0aba9eb1662c062a3c69a883c2f0c9479fefb2674718957915c0079e69d37da7",
+        "expected": "0aba9eb1662c062a3c69a883c2f0c9479fefb2674718957915c0079e69d37da7"
+      },
+      {
+        "path": "website/assets/images/serum-editorial.webp",
+        "match": true,
+        "actual": "1b1d9f5eca881e93ab98fa9627c7f25b3ed8ac92bfc54cfeb249e8c21ba753a8",
+        "expected": "1b1d9f5eca881e93ab98fa9627c7f25b3ed8ac92bfc54cfeb249e8c21ba753a8"
+      },
+      {
+        "path": "website/assets/images/story-1.svg",
+        "match": true,
+        "actual": "41dc4c6120f6c1c79742641e819a6a62766406ad0ab0866e29a4719304d586ec",
+        "expected": "41dc4c6120f6c1c79742641e819a6a62766406ad0ab0866e29a4719304d586ec"
+      },
+      {
+        "path": "website/assets/images/story-2.svg",
+        "match": true,
+        "actual": "7063c565eb243e09741316960dffea12dc379c53bfd54c88fc465362dc417808",
+        "expected": "7063c565eb243e09741316960dffea12dc379c53bfd54c88fc465362dc417808"
+      },
+      {
+        "path": "website/assets/images/story-3.svg",
+        "match": true,
+        "actual": "5c6d05a6ee78f46936ddb4d2229cc622a6c09a06a6ba9262938bdd43a2533006",
+        "expected": "5c6d05a6ee78f46936ddb4d2229cc622a6c09a06a6ba9262938bdd43a2533006"
+      },
+      {
+        "path": "website/assets/images/story-4.svg",
+        "match": true,
+        "actual": "f7ff2f918fa4c6cf77fefe0a75c719bbab37bde06898b4ea65e11cf47ac47624",
+        "expected": "f7ff2f918fa4c6cf77fefe0a75c719bbab37bde06898b4ea65e11cf47ac47624"
+      },
+      {
+        "path": "website/assets/video/fashion-example.mp4",
+        "match": true,
+        "actual": "f59480300e71a87cc52bbd693014d055cf569c7161d0e556c421452d09ce09f3",
+        "expected": "f59480300e71a87cc52bbd693014d055cf569c7161d0e556c421452d09ce09f3"
+      },
+      {
+        "path": "website/css/styles.css",
+        "match": true,
+        "actual": "55c68c377c76d9aba7620be260febfec68f374c78d3b8fa941121aeffce1f1ef",
+        "expected": "55c68c377c76d9aba7620be260febfec68f374c78d3b8fa941121aeffce1f1ef"
+      },
+      {
+        "path": "website/index.html",
+        "match": true,
+        "actual": "da06b51908aa4025f0a10b10663f77e5e4381c0e397d8b63feecfb90de56fe61",
+        "expected": "da06b51908aa4025f0a10b10663f77e5e4381c0e397d8b63feecfb90de56fe61"
+      },
+      {
+        "path": "website/js/main.js",
+        "match": true,
+        "actual": "3a4a8c7428416d5b009c1ffe3f6e725fa81e1f3bbf06b43ada5dc2bb0aad0c22",
+        "expected": "3a4a8c7428416d5b009c1ffe3f6e725fa81e1f3bbf06b43ada5dc2bb0aad0c22"
+      }
+    ]
+  },
+  {
+    "package": "audit_uiux",
+    "files_checked": 41,
+    "passed": 41,
+    "records": [
+      {
+        "path": "00_MULAI_DI_SINI.txt",
+        "match": true,
+        "actual": "6d145ceeb446648a2c5a61b7ab21479b72347c35fb8f5768af8d2a7a4241479a",
+        "expected": "6d145ceeb446648a2c5a61b7ab21479b72347c35fb8f5768af8d2a7a4241479a"
+      },
+      {
+        "path": "01_LAPORAN_AUDIT_UIUX.pdf",
+        "match": true,
+        "actual": "499ff7ad31c0347c1003852620b06a4e3322c5f54f507b68249a8d2f8402fa45",
+        "expected": "499ff7ad31c0347c1003852620b06a4e3322c5f54f507b68249a8d2f8402fa45"
+      },
+      {
+        "path": "02_ARAHAN_IMPLEMENTASI.txt",
+        "match": true,
+        "actual": "7642798d9bead7c4d45fc3a9cb9548960727b938d17874e8eab3f185c0fc1e43",
+        "expected": "7642798d9bead7c4d45fc3a9cb9548960727b938d17874e8eab3f185c0fc1e43"
+      },
+      {
+        "path": "03_TEMUAN_DAN_PRIORITAS.csv",
+        "match": true,
+        "actual": "0fa6e029d4be323e9a9c25f69e45257767a853e9d39f2c82406e8031c0370bcb",
+        "expected": "0fa6e029d4be323e9a9c25f69e45257767a853e9d39f2c82406e8031c0370bcb"
+      },
+      {
+        "path": "04_KRITERIA_PENERIMAAN.csv",
+        "match": true,
+        "actual": "00f2d8818a21bf254ffb617ebd3e9b9b3ac10bb6f9a33988dd45daf304d8d50c",
+        "expected": "00f2d8818a21bf254ffb617ebd3e9b9b3ac10bb6f9a33988dd45daf304d8d50c"
+      },
+      {
+        "path": "05_INVENTARIS_SEMUA_BERKAS.csv",
+        "match": true,
+        "actual": "65e497f82014513947801b46a960287cd25c0baa1cc967309b3869a7013fb27a",
+        "expected": "65e497f82014513947801b46a960287cd25c0baa1cc967309b3869a7013fb27a"
+      },
+      {
+        "path": "06_BUKTI/BATAS_UJI_BROWSER.txt",
+        "match": true,
+        "actual": "7e8db17653aabd7c8e0492143441f88d1a6facf5cf07e45b88aeac110315e4f5",
+        "expected": "7e8db17653aabd7c8e0492143441f88d1a6facf5cf07e45b88aeac110315e4f5"
+      },
+      {
+        "path": "06_BUKTI/DELIVERY_STATUS.json",
+        "match": true,
+        "actual": "31b3d1734fd0fd9701d66e31ae4c28b6c29846f471c23ee92f44e346ef75792b",
+        "expected": "31b3d1734fd0fd9701d66e31ae4c28b6c29846f471c23ee92f44e346ef75792b"
+      },
+      {
+        "path": "06_BUKTI/INPUTS_SHA256.json",
+        "match": true,
+        "actual": "51486c025958b0b33c7d29549ad1c14cf652fff46abe14098c61d7fcf52245b9",
+        "expected": "51486c025958b0b33c7d29549ad1c14cf652fff46abe14098c61d7fcf52245b9"
+      },
+      {
+        "path": "06_BUKTI/PACKAGE_VALIDATION.json",
+        "match": true,
+        "actual": "e215a8a1571a87362cfd9366e0c0517ff3a6d64e282e1397d7a7f6b957fcf95a",
+        "expected": "e215a8a1571a87362cfd9366e0c0517ff3a6d64e282e1397d7a7f6b957fcf95a"
+      },
+      {
+        "path": "06_BUKTI/acceptance-targets.json",
+        "match": true,
+        "actual": "6d42d156a24148f2f5db0367f7ab3a12025f683c94f4c05285a3a0e8ad846efd",
+        "expected": "6d42d156a24148f2f5db0367f7ab3a12025f683c94f4c05285a3a0e8ad846efd"
+      },
+      {
+        "path": "06_BUKTI/asset_integrity.json",
+        "match": true,
+        "actual": "272a81cced64a3a64e54e61b1428a549574703c68e7dedecbdb481791a7acd61",
+        "expected": "272a81cced64a3a64e54e61b1428a549574703c68e7dedecbdb481791a7acd61"
+      },
+      {
+        "path": "06_BUKTI/audio_levels.txt",
+        "match": true,
+        "actual": "aeeaea9bb425ba418d1d44c7615f8350b33d25de4f889a64db0f265c24efdb10",
+        "expected": "aeeaea9bb425ba418d1d44c7615f8350b33d25de4f889a64db0f265c24efdb10"
+      },
+      {
+        "path": "06_BUKTI/browser-attempts-summary.json",
+        "match": true,
+        "actual": "e2fd7f0c24621471c10b38d2b9e8edb278d61d2cbd3fd6937f178aed91058423",
+        "expected": "e2fd7f0c24621471c10b38d2b9e8edb278d61d2cbd3fd6937f178aed91058423"
+      },
+      {
+        "path": "06_BUKTI/browser-not-run.json",
+        "match": true,
+        "actual": "0699777f0fc69c6a91029bb413d9563e9eb084ccb7169aeec2e7ca953f2b507b",
+        "expected": "0699777f0fc69c6a91029bb413d9563e9eb084ccb7169aeec2e7ca953f2b507b"
+      },
+      {
+        "path": "06_BUKTI/contrast-token-samples.json",
+        "match": true,
+        "actual": "e56148f92d93b8f8e04f1b427e8c8b439271b2488dc6482b8ee24a7aabba3751",
+        "expected": "e56148f92d93b8f8e04f1b427e8c8b439271b2488dc6482b8ee24a7aabba3751"
+      },
+      {
+        "path": "06_BUKTI/dom-simulation-results.json",
+        "match": true,
+        "actual": "9d545eea71075f2322bdaad9a905abe57298af88a3f78baf23a9ee91dcb53de2",
+        "expected": "9d545eea71075f2322bdaad9a905abe57298af88a3f78baf23a9ee91dcb53de2"
+      },
+      {
+        "path": "06_BUKTI/full_decode.json",
+        "match": true,
+        "actual": "fd77e1261f0a2600bdc40023bebc13dcec6d577a2ce7430dfac84c0394b57b83",
+        "expected": "fd77e1261f0a2600bdc40023bebc13dcec6d577a2ce7430dfac84c0394b57b83"
+      },
+      {
+        "path": "06_BUKTI/mp4_boxes.json",
+        "match": true,
+        "actual": "8e892ff6ab101b2945eaf97629d885362c20f96481edfef766c2b3e81a6cb47d",
+        "expected": "8e892ff6ab101b2945eaf97629d885362c20f96481edfef766c2b3e81a6cb47d"
+      },
+      {
+        "path": "06_BUKTI/parse_json_font.json",
+        "match": true,
+        "actual": "a12671d9bd62eaae6ecffbc332a8ae65f08cb62640fc97e333353212ab4a8934",
+        "expected": "a12671d9bd62eaae6ecffbc332a8ae65f08cb62640fc97e333353212ab4a8934"
+      },
+      {
+        "path": "06_BUKTI/static-results.json",
+        "match": true,
+        "actual": "5b94c07075b813908992e859274012655c3126e4a52f4b1534520bf4d07b85cb",
+        "expected": "5b94c07075b813908992e859274012655c3126e4a52f4b1534520bf4d07b85cb"
+      },
+      {
+        "path": "06_BUKTI/validasi_sumber.json",
+        "match": true,
+        "actual": "36c1a6c9cfc949337450de072f7d7c6f5fbc56244a636c25a1740ea465b544b4",
+        "expected": "36c1a6c9cfc949337450de072f7d7c6f5fbc56244a636c25a1740ea465b544b4"
+      },
+      {
+        "path": "06_BUKTI/video_metadata.json",
+        "match": true,
+        "actual": "e55cf95787760ca1593310170d5b5b424fde989f5245347b91ae19a77ed1e3e2",
+        "expected": "e55cf95787760ca1593310170d5b5b424fde989f5245347b91ae19a77ed1e3e2"
+      },
+      {
+        "path": "07_VISUAL/ACUAN_HERO_ASLI.png",
+        "match": true,
+        "actual": "3e0823a3480901b90d2a3fb38aba36b0710a2f4e17cdf80314bc17b3fc2a09ad",
+        "expected": "3e0823a3480901b90d2a3fb38aba36b0710a2f4e17cdf80314bc17b3fc2a09ad"
+      },
+      {
+        "path": "07_VISUAL/ASET_RASTER_01.jpg",
+        "match": true,
+        "actual": "9d99bdd96ac9e2d9cc7c24bcf333b5fb2bbe52da695b786d54fbbf711469d5bd",
+        "expected": "9d99bdd96ac9e2d9cc7c24bcf333b5fb2bbe52da695b786d54fbbf711469d5bd"
+      },
+      {
+        "path": "07_VISUAL/ASET_RASTER_02.jpg",
+        "match": true,
+        "actual": "2daf52f7f6bd5d7209a3eba62fbc6b7f6449319d144b714d69a90e635c93561b",
+        "expected": "2daf52f7f6bd5d7209a3eba62fbc6b7f6449319d144b714d69a90e635c93561b"
+      },
+      {
+        "path": "07_VISUAL/ASET_SVG_01.jpg",
+        "match": true,
+        "actual": "8507ad993558470f0a769feeed6f3c053cb6fa6df46bfe4767906498960b292e",
+        "expected": "8507ad993558470f0a769feeed6f3c053cb6fa6df46bfe4767906498960b292e"
+      },
+      {
+        "path": "07_VISUAL/ASET_SVG_02.jpg",
+        "match": true,
+        "actual": "b194cf825aacc0a34efab2c1b6efa65f42ad7c0c1e27a72744b802016bbd66b5",
+        "expected": "b194cf825aacc0a34efab2c1b6efa65f42ad7c0c1e27a72744b802016bbd66b5"
+      },
+      {
+        "path": "07_VISUAL/USULAN_POSTER_VIDEO_8s.jpg",
+        "match": true,
+        "actual": "1e3129b740c722f1d4283073b8569fe09ae2d0b6b51c22db14c407d09f42646b",
+        "expected": "1e3129b740c722f1d4283073b8569fe09ae2d0b6b51c22db14c407d09f42646b"
+      },
+      {
+        "path": "07_VISUAL/VIDEO_FRAME_00-05_5s.jpg",
+        "match": true,
+        "actual": "b2dd58b277dfd0fb04d3de18d51f6a6ad76228ac38d89a6167747455d16bd576",
+        "expected": "b2dd58b277dfd0fb04d3de18d51f6a6ad76228ac38d89a6167747455d16bd576"
+      },
+      {
+        "path": "07_VISUAL/VIDEO_FRAME_06-11_5s.jpg",
+        "match": true,
+        "actual": "fda431d5c4cddeef238ba6c5726f5b6c57d2200e54dad2e70565909968c3064d",
+        "expected": "fda431d5c4cddeef238ba6c5726f5b6c57d2200e54dad2e70565909968c3064d"
+      },
+      {
+        "path": "07_VISUAL/VIDEO_FRAME_12-12_5s.jpg",
+        "match": true,
+        "actual": "cf1d192f18dfbd74095b2b7f77cb4e13d7a71e4c71b010650113fb70c06e1254",
+        "expected": "cf1d192f18dfbd74095b2b7f77cb4e13d7a71e4c71b010650113fb70c06e1254"
+      },
+      {
+        "path": "07_VISUAL/VIDEO_FRAME_13s.jpg",
+        "match": true,
+        "actual": "0ef30c94883306cbd9cc5286be8932d72bdff5911d9a7650eed038a9bac21de0",
+        "expected": "0ef30c94883306cbd9cc5286be8932d72bdff5911d9a7650eed038a9bac21de0"
+      },
+      {
+        "path": "07_VISUAL/WIREFRAME_HERO_DESKTOP.png",
+        "match": true,
+        "actual": "c19c371d30d6b638fee3d713fd79fed18dc0a090f7e081d0b92a17c4ce89ead2",
+        "expected": "c19c371d30d6b638fee3d713fd79fed18dc0a090f7e081d0b92a17c4ce89ead2"
+      },
+      {
+        "path": "07_VISUAL/WIREFRAME_HERO_MOBILE.png",
+        "match": true,
+        "actual": "6783d5a40c09920a0913e9ada6e2ccc1a248e06dcabe3f24241d037cd70d363c",
+        "expected": "6783d5a40c09920a0913e9ada6e2ccc1a248e06dcabe3f24241d037cd70d363c"
+      },
+      {
+        "path": "07_VISUAL/WIREFRAME_MOBILE_ATAS.png",
+        "match": true,
+        "actual": "7097f47cce59cc275d1bf234936945846cb474553bc1419aeab5ae3e392ff74d",
+        "expected": "7097f47cce59cc275d1bf234936945846cb474553bc1419aeab5ae3e392ff74d"
+      },
+      {
+        "path": "07_VISUAL/WIREFRAME_MOBILE_BAWAH.png",
+        "match": true,
+        "actual": "a8030b09e6faa663f652df9d05ce4d14e7e565c38eb240ede260c4f258419153",
+        "expected": "a8030b09e6faa663f652df9d05ce4d14e7e565c38eb240ede260c4f258419153"
+      },
+      {
+        "path": "08_SUMBER_ASLI/JAGO_PROMPT_BASELINE_ASLI.zip",
+        "match": true,
+        "actual": "0571ca1485a0edc6e17bcdd46971d979d8e07a27f0d0c6c911294d0c4c5e923d",
+        "expected": "0571ca1485a0edc6e17bcdd46971d979d8e07a27f0d0c6c911294d0c4c5e923d"
+      },
+      {
+        "path": "08_SUMBER_ASLI/VIDEO_FASHION_ASLI.mp4",
+        "match": true,
+        "actual": "f59480300e71a87cc52bbd693014d055cf569c7161d0e556c421452d09ce09f3",
+        "expected": "f59480300e71a87cc52bbd693014d055cf569c7161d0e556c421452d09ce09f3"
+      },
+      {
+        "path": "09_PROSEDUR_UJI/PETUNJUK_UJI.txt",
+        "match": true,
+        "actual": "15ff6c5cc5e3aeda6f95782f10655a639961770e8a89b0391f935d71f6499de6",
+        "expected": "15ff6c5cc5e3aeda6f95782f10655a639961770e8a89b0391f935d71f6499de6"
+      },
+      {
+        "path": "09_PROSEDUR_UJI/run_browser_checks_baseline.py",
+        "match": true,
+        "actual": "896550d71a6d80d782ab9ea443cd7c427750e89b65b13efbb1ebc4a6795b076d",
+        "expected": "896550d71a6d80d782ab9ea443cd7c427750e89b65b13efbb1ebc4a6795b076d"
+      }
+    ]
+  },
+  {
+    "package": "audit_content",
+    "files_checked": 34,
+    "passed": 34,
+    "records": [
+      {
+        "path": "00_MULAI_DARI_SINI.md",
+        "match": true,
+        "actual": "4cbfdce2d678ebae244267e6c7663738220c6bc803adac2138644ee4f738602c",
+        "expected": "4cbfdce2d678ebae244267e6c7663738220c6bc803adac2138644ee4f738602c"
+      },
+      {
+        "path": "01_LAPORAN_AUDIT_KONTEN.md",
+        "match": true,
+        "actual": "41fed0d59f817a7c603bd9a808dc380db08e20cff8245e77590eddaf5dbc5263",
+        "expected": "41fed0d59f817a7c603bd9a808dc380db08e20cff8245e77590eddaf5dbc5263"
+      },
+      {
+        "path": "02_ATLAS_73_KOMPONEN.csv",
+        "match": true,
+        "actual": "71cf5d80dadff876af1a2b5536f0629158359c4c623ac5dbea1d77f5b34c0b81",
+        "expected": "71cf5d80dadff876af1a2b5536f0629158359c4c623ac5dbea1d77f5b34c0b81"
+      },
+      {
+        "path": "02_ATLAS_KOMPONEN.md",
+        "match": true,
+        "actual": "6d26687fa89da1b671dd67155f4c1b103e6db8df576c3adc502a4847f80bfe73",
+        "expected": "6d26687fa89da1b671dd67155f4c1b103e6db8df576c3adc502a4847f80bfe73"
+      },
+      {
+        "path": "03_MATRIKS_25_TEMUAN_KONTEN.csv",
+        "match": true,
+        "actual": "07adf9a2dd47e2a7eda3988451c4bcfffbd9788182e5aa0425c1443e97d09e34",
+        "expected": "07adf9a2dd47e2a7eda3988451c4bcfffbd9788182e5aa0425c1443e97d09e34"
+      },
+      {
+        "path": "04_COPY_USULAN_PER_KOMPONEN.md",
+        "match": true,
+        "actual": "8d90c9d3ed69a5281ec9549a17eb041f41a0aeecbb4815fcca92a96e4bd1c6b2",
+        "expected": "8d90c9d3ed69a5281ec9549a17eb041f41a0aeecbb4815fcca92a96e4bd1c6b2"
+      },
+      {
+        "path": "04_USULAN_COPY_SIAP_EDIT.csv",
+        "match": true,
+        "actual": "e7dd64c9e26218bc2f91aea48dc5956b252366dced9e995547e2c6129e61e905",
+        "expected": "e7dd64c9e26218bc2f91aea48dc5956b252366dced9e995547e2c6129e61e905"
+      },
+      {
+        "path": "05_INVENTARIS_140_BERKAS.csv",
+        "match": true,
+        "actual": "edfe5bd9d595c06ed4fa1f668f019efde5956ef35f3e144d353d9dc18d505baa",
+        "expected": "edfe5bd9d595c06ed4fa1f668f019efde5956ef35f3e144d353d9dc18d505baa"
+      },
+      {
+        "path": "06_INVENTARIS_BASELINE_52_BERKAS.csv",
+        "match": true,
+        "actual": "bdf08d3616e3a6ef7fd53d8abd3d22da28d5b39c15fce495525d99ee63253a1a",
+        "expected": "bdf08d3616e3a6ef7fd53d8abd3d22da28d5b39c15fce495525d99ee63253a1a"
+      },
+      {
+        "path": "07_PETA_NAVIGASI_DAN_CANON.md",
+        "match": true,
+        "actual": "cd089d4432ef7ab2c9485ea88ca871b380507a4b64ccf34641a433431714f23e",
+        "expected": "cd089d4432ef7ab2c9485ea88ca871b380507a4b64ccf34641a433431714f23e"
+      },
+      {
+        "path": "08_DAFTAR_SEMUA_MEDIA_GAMBAR.csv",
+        "match": true,
+        "actual": "89e4ec9c1c9a010988fe9bee11f575cff2e7484fae804673d8875e7e3aafe2e0",
+        "expected": "89e4ec9c1c9a010988fe9bee11f575cff2e7484fae804673d8875e7e3aafe2e0"
+      },
+      {
+        "path": "08_MEDIA_DAN_PROVENANCE.md",
+        "match": true,
+        "actual": "bc0c1926b11ce0064273f192f373efeed0f4fd62056a1db5593f7e43d8519b93",
+        "expected": "bc0c1926b11ce0064273f192f373efeed0f4fd62056a1db5593f7e43d8519b93"
+      },
+      {
+        "path": "09_BUKTI_QA_DAN_BATAS.md",
+        "match": true,
+        "actual": "3a875de6991cb4032bd933064559c187a11329b35dc0d7d0825c7eac5fc54e4f",
+        "expected": "3a875de6991cb4032bd933064559c187a11329b35dc0d7d0825c7eac5fc54e4f"
+      },
+      {
+        "path": "09_INDEKS_72_SCREENSHOT_QA.csv",
+        "match": true,
+        "actual": "b53ad0ad83d86453e848fb800e77f346dbfe073c7431322c5e543b64e007cb33",
+        "expected": "b53ad0ad83d86453e848fb800e77f346dbfe073c7431322c5e543b64e007cb33"
+      },
+      {
+        "path": "10_CHECKLIST_PENERIMAAN_EDITORIAL.csv",
+        "match": true,
+        "actual": "69832c32377cfee52f660a2aadaef5302820cd6f135823748de653108ba02776",
+        "expected": "69832c32377cfee52f660a2aadaef5302820cd6f135823748de653108ba02776"
+      },
+      {
+        "path": "11_ARAHAN_REVISI_KONTEN_SAJA.md",
+        "match": true,
+        "actual": "070de58fc8ac935abba655810a349001f51e99033f6bac3ba4777c76a739e1db",
+        "expected": "070de58fc8ac935abba655810a349001f51e99033f6bac3ba4777c76a739e1db"
+      },
+      {
+        "path": "AUDIT_MANIFEST.json",
+        "match": true,
+        "actual": "a758ed8b28190b8d080b3f4b84587665e0341811c42978463a8909d6b71409ce",
+        "expected": "a758ed8b28190b8d080b3f4b84587665e0341811c42978463a8909d6b71409ce"
+      },
+      {
+        "path": "BUKTI_VISUAL/01_HERO_DESKTOP_ASLI.jpg",
+        "match": true,
+        "actual": "f418e59feba2c778f5a8f87c728a7fd2cae9ff3e3778d0d2684d1e8a90b7b9b6",
+        "expected": "f418e59feba2c778f5a8f87c728a7fd2cae9ff3e3778d0d2684d1e8a90b7b9b6"
+      },
+      {
+        "path": "BUKTI_VISUAL/02_HERO_MOBILE_ASLI.jpg",
+        "match": true,
+        "actual": "3b247664055452d35b3c7bda5b3900ad0ad64761967469e70ce9f969e3a37165",
+        "expected": "3b247664055452d35b3c7bda5b3900ad0ad64761967469e70ce9f969e3a37165"
+      },
+      {
+        "path": "BUKTI_VISUAL/03_HERO_DAN_MENU_MOBILE.jpg",
+        "match": true,
+        "actual": "8e69d9cdfc5644457079f2b8e4645d43fa11ecf43475c80760a1e5939360cef3",
+        "expected": "8e69d9cdfc5644457079f2b8e4645d43fa11ecf43475c80760a1e5939360cef3"
+      },
+      {
+        "path": "BUKTI_VISUAL/04_BAGIAN_VIDEO_DESKTOP.jpg",
+        "match": true,
+        "actual": "a256d91dc17f76d9a65261460c52ea4b09779bdfc6fcd300d1911c8760466a28",
+        "expected": "a256d91dc17f76d9a65261460c52ea4b09779bdfc6fcd300d1911c8760466a28"
+      },
+      {
+        "path": "BUKTI_VISUAL/05_BAGIAN_IDE.jpg",
+        "match": true,
+        "actual": "fc496c25eff0a04679ac512f9db1950caa2f623cb2079b30de31a5562f039188",
+        "expected": "fc496c25eff0a04679ac512f9db1950caa2f623cb2079b30de31a5562f039188"
+      },
+      {
+        "path": "BUKTI_VISUAL/06_KARTU_FITUR.jpg",
+        "match": true,
+        "actual": "76bd1335b73a7176296a671680d55a9daefa57c627a2f1dadc6b2e914b411258",
+        "expected": "76bd1335b73a7176296a671680d55a9daefa57c627a2f1dadc6b2e914b411258"
+      },
+      {
+        "path": "BUKTI_VISUAL/07_GALERI_FOTO.jpg",
+        "match": true,
+        "actual": "44bcd28375890e7dd8973d60b1e82e7f5a0497afb4640285c085c21014acfa01",
+        "expected": "44bcd28375890e7dd8973d60b1e82e7f5a0497afb4640285c085c21014acfa01"
+      },
+      {
+        "path": "BUKTI_VISUAL/08_STORYBOARD_FOTO.jpg",
+        "match": true,
+        "actual": "de3ff0637a51e8022e5c1a756e381c14e22d43faf721975eb9cdd7d845547c95",
+        "expected": "de3ff0637a51e8022e5c1a756e381c14e22d43faf721975eb9cdd7d845547c95"
+      },
+      {
+        "path": "BUKTI_VISUAL/09_PANDUAN_PEMULA.jpg",
+        "match": true,
+        "actual": "0cfb25d1280002c9eb6a87c8fdc8982bedbcfd3ac477d3a2c73d4078154f0a13",
+        "expected": "0cfb25d1280002c9eb6a87c8fdc8982bedbcfd3ac477d3a2c73d4078154f0a13"
+      },
+      {
+        "path": "BUKTI_VISUAL/10_PERSONA.jpg",
+        "match": true,
+        "actual": "da1b5b4b35553c30c2934112b8ed144d703f952ccf9b9cd69ed3b63687abbfb8",
+        "expected": "da1b5b4b35553c30c2934112b8ed144d703f952ccf9b9cd69ed3b63687abbfb8"
+      },
+      {
+        "path": "BUKTI_VISUAL/11_CTA_AKHIR.jpg",
+        "match": true,
+        "actual": "c5cd3e84ff59c341cd8f4dcf3b40f56f519868ac5a3c2177f028e9beb32d6840",
+        "expected": "c5cd3e84ff59c341cd8f4dcf3b40f56f519868ac5a3c2177f028e9beb32d6840"
+      },
+      {
+        "path": "BUKTI_VISUAL/12_HALAMAN_MOBILE.jpg",
+        "match": true,
+        "actual": "1ef79a738fb7fa418d353ff209368ddf5c65e99092eabcf24652cf3f21be2c81",
+        "expected": "1ef79a738fb7fa418d353ff209368ddf5c65e99092eabcf24652cf3f21be2c81"
+      },
+      {
+        "path": "BUKTI_VISUAL/13_ATLAS_WEBP.jpg",
+        "match": true,
+        "actual": "9555d8f2bbefa9cda8c42e04d35e91d187d58bd44bee64d023b01e997090fb0c",
+        "expected": "9555d8f2bbefa9cda8c42e04d35e91d187d58bd44bee64d023b01e997090fb0c"
+      },
+      {
+        "path": "BUKTI_VISUAL/14_ATLAS_SVG.jpg",
+        "match": true,
+        "actual": "ed9dc843f2364c7815fb398ebfe51c558e3f9259ae34f16c71363f585f7fc96c",
+        "expected": "ed9dc843f2364c7815fb398ebfe51c558e3f9259ae34f16c71363f585f7fc96c"
+      },
+      {
+        "path": "BUKTI_VISUAL/15_KONTAK_FRAME_VIDEO.jpg",
+        "match": true,
+        "actual": "5a85821d161843fcfd08e6295088e7dc0f038eeeb5e47349555b5fd85d1396cd",
+        "expected": "5a85821d161843fcfd08e6295088e7dc0f038eeeb5e47349555b5fd85d1396cd"
+      },
+      {
+        "path": "LAPORAN_AUDIT_KONTEN.html",
+        "match": true,
+        "actual": "fcb2300625a5b929e3eaa41c054076d019f646e5907e296a0a6bfe9ca43ec5b2",
+        "expected": "fcb2300625a5b929e3eaa41c054076d019f646e5907e296a0a6bfe9ca43ec5b2"
+      },
+      {
+        "path": "LAPORAN_AUDIT_KONTEN.pdf",
+        "match": true,
+        "actual": "df438edb6c53d6f3ee14816a92a3cfded7d19180e31b8aa733cf2091290a7d72",
+        "expected": "df438edb6c53d6f3ee14816a92a3cfded7d19180e31b8aa733cf2091290a7d72"
+      }
+    ]
+  }
+]

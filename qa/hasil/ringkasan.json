@@ -1,0 +1,90 @@
+{
+ "version": "1.4.0",
+ "generated_at": "2026-11-15T14:46:10+00:00",
+ "website_tree_sha256": "a7bf5a7dd8160bdfa4bd3ee8c51bf2a6ad3f23707eaf5e8776e49c592bc90002",
+ "website_unchanged_during_qa": true,
+ "tools_sha256": {
+  "aktifkan_rilis.py": "246f4d1a3c23231a7bd15d1a44ba4101576a6177430328bba005859fa3c64290",
+  "bangun_rilis.py": "16f3d537bf7b7ee03649d25a5ef4cdfb850d06ae2431018de28b4c12df8ae8c0",
+  "gate_rilis.py": "f871f87f5b2fdae608c8254c8682d6199a1360a26c2932cf57c971e5ad72d9df",
+  "periksa_url.py": "8038ba8a9b96e247dcba50c537c823fb66b94fca6388c43a1efe86ebae07f147",
+  "rilis_core.py": "f43311130d0e1e7672782552f4a3e5d778527b3ef8799c31bb1b4cdbfadeb984",
+  "smoke_live.py": "d61e53e677a5fbe2e016c52746ac05fcd8db42d67d5e5e7d488cdd4a2d5d0176"
+ },
+ "note": "Jumlah per rangkaian berbeda satuan (atribut, skenario, permintaan HTTP) dan tidak dijumlahkan menjadi skor kesiapan. Rangkaian *_fixture memakai host .test dan hanya membuktikan aturan profil.",
+ "browser_skipped": false,
+ "suites": {
+  "statis_preview": {
+   "PASS": 624,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/static-preview.json",
+   "seconds": 2.5,
+   "command": "python3 -B qa/check_static.py --profile preview"
+  },
+  "sistem_rilis": {
+   "PASS": 38,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/release-system-results.json",
+   "seconds": 7.3,
+   "command": "python3 -B qa/test_rilis.py"
+  },
+  "http_lokal": {
+   "PASS": 273,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/http-results.json",
+   "seconds": 0.8,
+   "command": "python3 -B qa/http_checks.py"
+  },
+  "uji_mutasi": {
+   "PASS": 12,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/mutation-results.json",
+   "seconds": 30.9,
+   "command": "python3 -B qa/uji_mutasi.py"
+  },
+  "browser_preview": {
+   "PASS": 50,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/browser-preview.json",
+   "seconds": 231.5,
+   "command": "python3 -B qa/browser_checks.py --profile preview"
+  },
+  "statis_staging_fixture": {
+   "PASS": 606,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/static-staging-fixture.json",
+   "seconds": 2.5,
+   "command": "python3 -B qa/check_static.py --profile staging --site /tmp/jp-fixture-7duib2tu/paket/dist/staging --config /tmp/jp-fixture-7duib2tu/rilis.fixture.json --fixture --out qa/hasil/static-staging-fixture.json"
+  },
+  "browser_staging_fixture": {
+   "PASS": 2,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/browser-staging-fixture.json",
+   "seconds": 3.2,
+   "command": "python3 -B qa/browser_checks.py --profile staging --site /tmp/jp-fixture-7duib2tu/paket/dist/staging --config /tmp/jp-fixture-7duib2tu/rilis.fixture.json --fixture --quick --out qa/hasil/browser-staging-fixture.json"
+  },
+  "statis_production_fixture": {
+   "PASS": 609,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/static-production-fixture.json",
+   "seconds": 2.5,
+   "command": "python3 -B qa/check_static.py --profile production --site /tmp/jp-fixture-7duib2tu/paket/dist/production --config /tmp/jp-fixture-7duib2tu/rilis.fixture.json --fixture --out qa/hasil/static-production-fixture.json"
+  },
+  "browser_production_fixture": {
+   "PASS": 2,
+   "FAIL": 0,
+   "ERROR": 0,
+   "file": "qa/hasil/browser-production-fixture.json",
+   "seconds": 3.2,
+   "command": "python3 -B qa/browser_checks.py --profile production --site /tmp/jp-fixture-7duib2tu/paket/dist/production --config /tmp/jp-fixture-7duib2tu/rilis.fixture.json --fixture --quick --out qa/hasil/browser-production-fixture.json"
+  }
+ }
+}

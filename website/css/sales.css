@@ -1,0 +1,115 @@
+/* Jago Prompt 1.3.0–1.4.0 — perubahan konten, bukan penggantian design system. */
+.sales-support { font-size: var(--fs-small); color: var(--ink-2); line-height: 1.65; margin-top: 12px; max-width: 48ch; }
+.text-link { display: inline-flex; gap: 8px; align-items: center; color: var(--matcha-ink); font-size: 15px; font-weight: 600; text-decoration: underline; text-underline-offset: 4px; min-height: 44px; }
+.text-link:hover { color: var(--ink); }
+.sales-page .hero-title { max-width: 22ch; }
+.sales-page .hero-intro { grid-template-columns: minmax(0,1.3fr) minmax(0,1fr); }
+.sales-page .hero-panel .hero-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+.sales-page .btn { white-space: normal; text-align: center; }
+.sales-page .hero-results-head { flex-wrap: wrap; }
+.benefit-summary { padding-bottom: 16px; }
+.benefit-points { display: grid; gap: 0; margin-top: 12px; }
+.benefit-points li { border-top: 1px solid var(--line); padding: 12px 0; display: grid; gap: 2px; }
+.benefit-points li:last-child { padding-bottom: 0; }
+.benefit-points b { color: var(--ink); font-size: 16px; }
+.benefit-points span { color: var(--muted); font-size: 15px; }
+.sales-page .video-card { grid-template-columns: minmax(0,300px) minmax(0,1fr); }
+.media-unit { min-width: 0; display: flex; flex-direction: column; gap: 12px; }
+.media-unit .video-el { width: 100%; max-width: 360px; margin-inline: auto; }
+.media-fallback { font-size: 14px; }
+.sales-page .video-body .hero-tagline { font-size: 1.5rem; }
+.sales-page .video-body .sales-support { margin-top: 0; }
+.video-series-head { margin-block: 36px 20px; display: flex; justify-content: space-between; gap: 16px 32px; flex-wrap: wrap; }
+.video-series-head h3 { font-size: 1.25rem; }
+.video-series-head p { font-size: 16px; color: var(--muted); }
+.affiliate-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 20px; }
+.affiliate-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: 20px; display: flex; flex-direction: column; gap: 16px; min-width: 0; }
+.affiliate-card h3 { font-size: 17px; line-height: 1.45; }
+.affiliate-card .video-el { max-width: 245px; }
+.benefit-media { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 8px; padding: 14px; background: var(--cream); }
+.benefit-media img { width: 100%; height: 100%; object-fit: contain; border-radius: 10px; min-height: 0; }
+.brand-case + .brand-case { margin-top: clamp(64px,7vw,104px); }
+.case-intro { display: grid; grid-template-columns: minmax(0,1fr) 146px; gap: 24px 40px; align-items: center; margin-bottom: 28px; }
+.case-intro h3 { font-size: clamp(1.375rem,1.15rem + .8vw,1.9rem); line-height: 1.3; }
+.case-intro p:not(.kicker) { font-size: 16px; color: var(--muted); max-width: 64ch; margin-top: 12px; }
+.case-reference { padding: 8px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.case-reference img { width: 100%; aspect-ratio: 1; object-fit: contain; border-radius: 8px; }
+.case-reference figcaption { font-size: 12px; text-align: center; line-height: 1.5; margin-top: 8px; color: var(--muted); }
+.sales-page .gallery-item { display: flex; flex-direction: column; aspect-ratio: auto; background: var(--ivory); }
+.sales-page .gallery-item img { width: 100%; height: auto; flex: 1; min-height: 0; object-fit: contain; aspect-ratio: 4/4.5; }
+.sales-page .gallery-tall img { aspect-ratio: auto; }
+.sales-page .gallery-item figcaption { position: static; flex: none; margin: 0; border: 0; border-radius: 0; padding: 14px 16px; background: var(--ivory); backdrop-filter: none; }
+.series-details { border-block: 1px solid var(--line); margin-top: 24px; }
+.series-details > summary { color: var(--matcha-ink); font-weight: 600; font-size: 16px; padding: 16px 4px; }
+.expanded-gallery { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 16px; padding-block: 8px 24px; }
+.expanded-item { background: var(--ivory); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.expanded-item img { width: 100%; height: auto; aspect-ratio: 896/1200; object-fit: contain; }
+.expanded-item figcaption { font-size: 13px; line-height: 1.5; padding: 12px; }
+.campaign-grid .sb-media { aspect-ratio: 3/4; }
+.campaign-grid .sb-media img { object-fit: contain; filter: none; }
+.campaign-grid .sb-info { padding: 18px; }
+.campaign-grid .sb-num { line-height: 1.4; }
+.anchor-alias { display: block; height: 0; scroll-margin-top: 110px; }
+.faq-list .inline-details:first-child { border-top: none; }
+.faq-list summary { padding-block: 18px; line-height: 1.5; }
+.faq-list p { font-size: 15px; padding-bottom: 18px; }
+.persona-grid .testimonial-card { display: grid; gap: 18px; }
+.persona-grid h3 { font-size: 1.25rem; line-height: 1.35; }
+.persona-grid p { font-size: 16px; color: var(--muted); }
+.persona-grid .simulation-label { justify-self: start; }
+.entry-container { max-width: 850px; }
+.entry-note { font-size: 16px; color: var(--muted); margin: 0 auto 24px; max-width: 50ch; }
+.entry-container .btn { margin-top: 12px; white-space: normal; }
+.entry-container .section-lead { margin-bottom: 20px; }
+@media (max-width: 960px) {
+ .sales-page .hero-intro { grid-template-columns: 1fr; }
+ .sales-page .hero-title { max-width: 26ch; }
+ .sales-page .video-card { grid-template-columns: minmax(0,250px) minmax(0,1fr); }
+ .affiliate-card { padding: 14px; }
+ .expanded-gallery { grid-template-columns: repeat(3,minmax(0,1fr)); }
+}
+@media (max-width: 640px) {
+ .sales-page .hero-title { font-size: clamp(1.85rem,7.8vw,2.35rem); max-width: none; }
+ .sales-page .hero-intro { gap: 12px; margin-bottom: 20px; }
+ .sales-page .hero-lead { font-size: 15px; line-height: 1.55; }
+ .sales-page .hero-panel { gap: 22px; }
+ .sales-page .hero-results-caption { font-size: 14px; }
+ .sales-page .hero-results-head .panel-label { font-size: 11px; letter-spacing: .07em; }
+ .sales-page .hero-results-head .demo-badge { font-size: 11px; }
+ .sales-page .video-card { grid-template-columns: 1fr; grid-template-areas: 'head' 'player' 'body'; }
+ .sales-page .video-card .media-unit { max-width: 300px; margin-inline: auto; }
+ .sales-page .video-head .section-title { font-size: 1.9rem; }
+ .affiliate-grid { grid-template-columns: 1fr; }
+ .affiliate-card { padding: 20px; }
+ .affiliate-card .video-el { max-width: 260px; }
+ .affiliate-card .media-unit { max-width: 320px; margin-inline: auto; }
+ .case-intro { grid-template-columns: 1fr; gap: 20px; }
+ .case-reference { width: 146px; display: grid; grid-template-columns: 1fr; }
+ .expanded-gallery { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px; }
+ .sales-page .gallery-tall img { aspect-ratio: 896/1200; }
+ .sales-page .gallery-item img { aspect-ratio: 896/1200; }
+ .sales-page .gallery-item figcaption { padding: 12px; }
+ .sales-page .gallery-item .g-cat { font-size: 14px; }
+ .sales-page .gallery-item .g-dir { font-size: 12px; }
+ .campaign-grid .sb-info { padding: 12px; }
+ .campaign-grid .sb-num { font-size: 15px; }
+ .campaign-grid .sb-desc { font-size: 14px; }
+ .persona-grid { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) { .sales-page * { scroll-behavior: auto !important; } }
+/* Reflow teks besar: ukuran minimum grid tidak boleh dipaksa kata terpanjang. */
+.sales-page .split-head > * { min-width: 0; }
+.sales-page h1, .sales-page h2, .sales-page h3 { overflow-wrap: anywhere; }
+/* 1.4.0 — teks narasi video (alternatif caption; tetap terbaca tanpa JS) */
+.media-transcript { border-top: 1px solid var(--line); }
+.media-transcript > summary { font-size: 14px; padding: 12px 2px; }
+.media-transcript > p { font-size: 14px; line-height: 1.6; color: var(--ink-2); padding: 0 2px 12px; }
+/* 1.4.0 — font cadangan bermetrik selaras: saat Plus Jakarta Sans belum selesai dimuat, teks cadangan menempati
+   lebar dan tinggi yang hampir sama, sehingga judul hero tidak berpindah baris (CLS desktop 0,14 pada 1.3.0).
+   Plus Jakarta Sans tetap font utama; tampilan akhir tidak berubah. Rasio dihitung dari metrik berkas font.
+   unicode-range membatasi cadangan ini pada huruf Latin dasar, sehingga simbol (·, →, ©) tetap memakai font sistem seperti sebelumnya. */
+@font-face { font-family: "JP Fallback"; font-weight: 100 600; src: local("Arial"), local("Liberation Sans"), local("Helvetica Neue"), local("Roboto"); size-adjust: 104.8%; ascent-override: 99%; descent-override: 21.2%; line-gap-override: 0%; unicode-range: U+0020-007E; }
+@font-face { font-family: "JP Fallback"; font-weight: 601 900; src: local("Arial Bold"), local("Liberation Sans Bold"), local("Helvetica Neue Bold"), local("Roboto Bold"); size-adjust: 101%; ascent-override: 102.8%; descent-override: 22%; line-gap-override: 0%; unicode-range: U+0020-007E; }
+:root { --font: "Plus Jakarta Sans", "JP Fallback", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+/* 1.4.0 — target sentuh tautan footer minimal 44px (sebelumnya 40px) */
+.sales-page .footer-nav a { display: inline-flex; align-items: center; min-height: 44px; }

@@ -1,0 +1,21 @@
+﻿ID,KRITERIA,STATUS,BUKTI_BATAS
+A01,Canon 01 persis,PASS,index.html H1; static-results
+A02,Canon 02 persis,PASS,#video-title; static-results
+A03,Hasil foto dan video lebih dahulu,PASS,"Urutan #beranda, #hasil-video, #ide"
+A04,Identitas UI investor tetap,PASS,CSS dasar byte-identik; logo/font sumber; perubahan terbatas sales.css
+A05,Homepage bukan manual penggunaan,PASS,Tidak ada code/pre/editor/diagram/tutorial; materi disimpan terpisah
+A06,Dua seri foto jelas,PASS,"31 gambar: 2 referensi + 29 visual, masing-masing terpetakan"
+A07,Empat video baru sesuai canon affiliate,PASS,"4 MP4 asli, 480x854, 10 detik; audio tetap utuh"
+A08,Media tidak autoplay; kontrol dan fallback,PASS,Native playback dan failure/retry diuji
+A09,Tidak ada statistik atau testimonial buatan,PASS,Nama persona/kutipan simulasi lama diganti kebutuhan pengguna
+A10,Semua CTA memiliki tujuan yang ada,PASS,daftar.html; hash target dan file resource terverifikasi
+A11,Pendaftaran akun sungguhan selesai,BLOCKED,Backend/URL akun tidak ada pada source; tidak dibuat akun lokal palsu
+A12,Materi penggunaan dipisahkan,PASS,"dokumentasi_internal/panduan_account.html, bukan halaman akun aktif"
+A13,Viewport dan reflow teks,PASS,8 viewport dan teks 200% pada Chromium renderer
+A14,Menu/keyboard/FAQ/reduced motion/no-JS,PASS,Browser final 68/68
+A15,HTTP/Range pada server lokal,PASS,155/155; bukan hosting publik
+A16,Navigasi browser URL domain produksi,BLOCKED,URLBlocklist lingkungan; domain belum ditentukan
+A17,Klaim produk selalu konsisten/satu klik terbukti,NOT VERIFIED,"Canon dipertahankan sebagai arahan pemilik, belum diuji pada layanan produk"
+A18,Audio bermakna dan caption terverifikasi,NOT VERIFIED,"Decode teknis lulus, belum tinjauan dengar semantik"
+A19,Perangkat nyata/pembaca layar,NOT VERIFIED,Emulasi viewport bukan perangkat fisik
+A20,Homepage hasil implementasi dikemas,PASS,"Folder website lengkap, source, bukti, laporan, SHA256"

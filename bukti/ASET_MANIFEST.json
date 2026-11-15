@@ -1,0 +1,1624 @@
+{
+ "version": "1.4.0",
+ "note": "Peta 31 gambar dan 4 video terhadap ASET.zip (SHA-256 0d9d9dd6…7ba1). 1.4.0 menambah caption/transkrip video; berkas media tidak diubah.",
+ "images": [
+  {
+   "id": 1,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.22.jpeg",
+   "width": 977,
+   "height": 863,
+   "alt": "Foto referensi kemasan lip gloss yang disediakan pemilik proyek",
+   "stem": "kosmetik-01",
+   "sha256_source": "bfb09b7545d48f55ba940c5aec33e8de25ffe6a3691777a29e403be651432508",
+   "variants": [
+    {
+     "width": 360,
+     "height": 318,
+     "url": "assets/media/kosmetik-01-360.webp",
+     "sha256": "a5c4f8f218d0aa143781bff503a5cb1261dc76885b9728c4c484e7ab23750470",
+     "bytes": 19678
+    },
+    {
+     "width": 720,
+     "height": 636,
+     "url": "assets/media/kosmetik-01-720.webp",
+     "sha256": "89f6c7c44022850d0da8317e26d232b45a63b5252f8a3aabb79c670da3b1b797",
+     "bytes": 48154
+    },
+    {
+     "width": 896,
+     "height": 791,
+     "url": "assets/media/kosmetik-01-896.webp",
+     "sha256": "c64e231f46a86fd69ea0bd23765853966e38ce28778e21556d68de856f44b34d",
+     "bytes": 61170
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.39.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lip gloss bernuansa peach dengan tekstur sapuan, lampu hangat, dan dekorasi perayaan",
+   "stem": "kosmetik-02",
+   "sha256_source": "6e3bd02773e361f070b62a586f24aca6f4bde61657c8b15fcc871106a975844e",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-02-360.webp",
+     "sha256": "d4b14b3d974861ba9d41218e48ae100d4ca2ed90f442459ebb6f1a9a0fbf66f7",
+     "bytes": 15694
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-02-720.webp",
+     "sha256": "61b80d7f3473ebfaf1a0365c8501472ae4b296784da1c555d31d5139c4b0833e",
+     "bytes": 40434
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-02-896.webp",
+     "sha256": "dda440183cc1b7cf9df4e3196afdb4f1e0d2d290cf6335496c4e9042e8aa592b",
+     "bytes": 56702
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.40.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lip gloss terbuka di atas bidang krem dengan sapuan warna dan ornamen merah",
+   "stem": "kosmetik-03",
+   "sha256_source": "088bb20f00c592bfac2fb3de99b7acb5c6f67e1b4a48b3a7f0475907083163c6",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-03-360.webp",
+     "sha256": "1b85ebb6f5afd86fd5dc46a71aed1ad108fb05349f30a5b529a1caae7d298625",
+     "bytes": 11746
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-03-720.webp",
+     "sha256": "665688c6a90e588b4bc31967c7f8be7e5a6d426b84fa29b38303e7968db8e9fd",
+     "bytes": 31828
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-03-896.webp",
+     "sha256": "2bf2ff66a523af85de6f49b49a7c2a1066b61a8f6390706688bccfa63f9fa436",
+     "bytes": 45828
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.414.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lip gloss dan aplikator di atas latar burgundi gelap",
+   "stem": "kosmetik-04",
+   "sha256_source": "1eb2af2c29405c7f681b24648edc67d133f22ea25a9439b39b5c58d4a739a6e3",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-04-360.webp",
+     "sha256": "0414dcc502e7f0e472cb8c0d392bd893fce656b8dbff4d2e6bddd70b4033c48d",
+     "bytes": 9106
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-04-720.webp",
+     "sha256": "d4dba3f6e04829053a503ba3a0c9a4e92cdce01a4f0e916aa8f2dea59cfbe02f",
+     "bytes": 26410
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-04-896.webp",
+     "sha256": "05aba3dd3d4019461914e5163357dfe2c8f58dea25ace26825c2114827819aac",
+     "bytes": 38182
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.42.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Tangan membuka aplikator lip gloss di atas meja krem dengan lampu hangat",
+   "stem": "kosmetik-05",
+   "sha256_source": "84111a7ff2de3449ecae2bd763e33ace9535fe55616ae88f3f31b66419f37f6a",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-05-360.webp",
+     "sha256": "499511adb20eb6ba4194e9a2ab67be0fcfed3b450717ed9c7c0efdcb1a2ddabb",
+     "bytes": 17230
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-05-720.webp",
+     "sha256": "ca652684bc1512c12eb4639ce7ff185eff436caef32e93018d261da5e5c5761f",
+     "bytes": 42132
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-05-896.webp",
+     "sha256": "24a829273a3591a72347326b22a8f72fa12c7b3dbea09f80cb3c9740e1337a22",
+     "bytes": 58864
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.425.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Seseorang bersweater burgundi memegang kemasan lip gloss bernuansa peach",
+   "stem": "kosmetik-06",
+   "sha256_source": "37791c2a4b5ea944675bffe4efdc616ca3a9f58fc4506dcf67f8ac419298a0e3",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-06-360.webp",
+     "sha256": "6075963f65201dcc0cdbe222b06cf2747490699f2116d0b757f9c98fdc91933b",
+     "bytes": 19894
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-06-720.webp",
+     "sha256": "c57e85f6ef8141f18a472f1c128d0e465ab0789d9ae6c9ffce510f7b2b6a795e",
+     "bytes": 53062
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-06-896.webp",
+     "sha256": "ab8bb73261dd6ae9a1e926b876c47347799a93389b94d3ae6fb12f496beecd0d",
+     "bytes": 76212
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.43.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Tiga kemasan lip gloss dengan latar burgundi dan bidang merah muda",
+   "stem": "kosmetik-07",
+   "sha256_source": "4ad0f2142e76c4374dda02ec90fdcd328c92a970e1218343bf5993e9b0211a41",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-07-360.webp",
+     "sha256": "87ce2ac2f3c8b638c7d1de120dffd6d45bb3c4707f0414527e440c1e878051f2",
+     "bytes": 14204
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-07-720.webp",
+     "sha256": "dab677129949e90e55b36f9b2e302b67b0d7895f5c96dda0a91c4ac31a370e6b",
+     "bytes": 40920
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-07-896.webp",
+     "sha256": "22a7fbb162cbe99c677cccc88fb4b7d55add6c811420e78d44e9d9a73532a48c",
+     "bytes": 58730
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.431.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lip gloss di samping kotak hadiah burgundi dan pita krem",
+   "stem": "kosmetik-08",
+   "sha256_source": "dd84867c69536618d6873257acc07ccad32bbccc0271001e892d5ffd0d4a9ac3",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-08-360.webp",
+     "sha256": "4b22e028995e892e46249fd0670173bae354c6e9bc9b9564953b57e86093076e",
+     "bytes": 21218
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-08-720.webp",
+     "sha256": "3ab53d7519b350841339b6f474380da9b92ce9a1dee518dd2896d55a74b9e0b1",
+     "bytes": 57716
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-08-896.webp",
+     "sha256": "53859f23ca18a26dc88cc3ddd12e7b3a0304d18fefe9b4ccf22f38c8f2e2a39b",
+     "bytes": 81484
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.433.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lip gloss di atas kain krem dengan pita burgundi dan dekorasi perayaan",
+   "stem": "kosmetik-09",
+   "sha256_source": "0cd14da309c542ff19bf0fb98cb259941f9e551fd223a99a894adce26fe63492",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-09-360.webp",
+     "sha256": "f4ac76788abffd918e99b67e6567329aeca79ee6233c7daed16bbaf980dd5391",
+     "bytes": 27468
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-09-720.webp",
+     "sha256": "56ccd2364b08615879b068ddcb554c40af8c6f4aa32e7e388a61011f62fd3fc1",
+     "bytes": 135710
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-09-896.webp",
+     "sha256": "563ceed8a83022f7e4bd77589684b58d05bf390c168f939c865bf94d7efd038f",
+     "bytes": 233214
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.44.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Kemasan lip gloss melayang di atas latar burgundi dengan ornamen keemasan",
+   "stem": "kosmetik-10",
+   "sha256_source": "b718799ec532079048f01bf8d6885c264f161d6eaf20aa1a6f08822d12268530",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-10-360.webp",
+     "sha256": "7224b1317cf548ea6fd0629d0646d382c48d2fb822833d2381b06e27c904280c",
+     "bytes": 14694
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-10-720.webp",
+     "sha256": "0d7e24c008f22bce32ac88c3a7a223667e4561483d0e74f214f39929312b7edb",
+     "bytes": 39744
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-10-896.webp",
+     "sha256": "0b560bd9092a50bb122ab069be6db9c3878ef3cd47e8b72a7ee1831945b086b7",
+     "bytes": 56626
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.442.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lip gloss dan aplikator di atas kain burgundi, dikelilingi ranting hijau dan hiasan emas",
+   "stem": "kosmetik-11",
+   "sha256_source": "334e29905a540b68465bd6447b80ce353cd1184430d791813b6d4f4d0f255b98",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-11-360.webp",
+     "sha256": "88a210c18b45c30c3951d0b6297e38538167202f4f6d54919d14a2e29af48281",
+     "bytes": 28522
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-11-720.webp",
+     "sha256": "009356726ba8b51045d49e3a4d9b1dc5456ee1371327b4fdbb0c1b708d2d408e",
+     "bytes": 72028
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-11-896.webp",
+     "sha256": "f00317973faa869115c7f0e0f7e7b2e2a82eb63c736d1d07dd41100b391c8a43",
+     "bytes": 97658
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.45.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lip gloss dan aplikator di atas latar merah muda dengan kilau lembut",
+   "stem": "kosmetik-12",
+   "sha256_source": "87f3c8d2c8566d3da119e967114373f039e83aac4feb425d1922a9e84f46ab96",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-12-360.webp",
+     "sha256": "9c51b774f079e58823a55704f583dbe96dcbd7b980bcf0339ba2b902745ed29c",
+     "bytes": 7594
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-12-720.webp",
+     "sha256": "4c7ba29666ccf26a165e9930dc7f021a1c2a4f3ef8d1946cfb16251248f53d9c",
+     "bytes": 20692
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-12-896.webp",
+     "sha256": "fbbb439c470d3c7ad2fb97b9bd216d6263e8110d2da89c0ff3fc5694063b66ad",
+     "bytes": 29324
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.465.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lip gloss dan aplikator ditata di atas kain krem dengan pita merah dan dekorasi emas",
+   "stem": "kosmetik-13",
+   "sha256_source": "e3d86792bcdac2e033b85326c25a1c8a8208e33bcf6f2513a2a4ed86690ee5a7",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-13-360.webp",
+     "sha256": "46e2881924abe326a2b1d51a71537cdff50943bf4d9444db09cb5ea47267bb01",
+     "bytes": 33822
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-13-720.webp",
+     "sha256": "d98064452eadfade818e386c4daa6d6ea1565806c681db5d7835994c262b6601",
+     "bytes": 167164
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-13-896.webp",
+     "sha256": "15abbb88e2561588ee1bebfb05b967994837a00e46f1ecbf0c8d00f2ab5518f5",
+     "bytes": 275174
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.486.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Tangan memegang aplikator lip gloss di atas kemasannya pada meja krem",
+   "stem": "kosmetik-14",
+   "sha256_source": "5f29bd8c44e76326e140a799dd32bedad0a689dc2ae221a3b078251150373b8e",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-14-360.webp",
+     "sha256": "25e57a14842c27ac327ca639e37953c9c0188240c5bdc91d1056d90e53f45fef",
+     "bytes": 13978
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-14-720.webp",
+     "sha256": "f898f1488174bd1c280fa8fd1842f4e502cbbf19cecb076fc82ba266c9521798",
+     "bytes": 36450
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-14-896.webp",
+     "sha256": "af03728b6692337bb0d00e245ebd19508f1ff2392f208eb3e5335bbf8ec742cf",
+     "bytes": 53992
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "path": "GAMBAR 1/WhatsApp Image 2026-11-15 at 17.27.4W5.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Kemasan lip gloss, daun, dan hiasan emas dalam komposisi minimal bernuansa krem",
+   "stem": "kosmetik-15",
+   "sha256_source": "0ee5a36fbb63f5e18e2dc78d2bd29c6607ce24f46a828effea4987f1941df869",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kosmetik-15-360.webp",
+     "sha256": "f59bb494a6b55f3f4482345046cfa6e8fff526b34623457a035e1c85bb362451",
+     "bytes": 9466
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kosmetik-15-720.webp",
+     "sha256": "6ab129a7ee17fec958c370e28c2026322adefcfa37d367a05ca542ca9c82f387",
+     "bytes": 27548
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kosmetik-15-896.webp",
+     "sha256": "1bfa6d806e109a7bebe6fb0b65d3432877dc88beedf99e04668c7261e485a369",
+     "bytes": 40404
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.27.52.jpeg",
+   "width": 736,
+   "height": 1103,
+   "alt": "Foto referensi identitas dan kemasan dimsum merah-putih yang disediakan pemilik proyek",
+   "stem": "kuliner-01",
+   "sha256_source": "3a739ac26699956caac9d4dbe71cdf2dc6591dab6edf886062dd9cfb5756a8cc",
+   "variants": [
+    {
+     "width": 360,
+     "height": 540,
+     "url": "assets/media/kuliner-01-360.webp",
+     "sha256": "0f0f70628fe90d0a0b960e9535b93d109f4d83625dde8349c8e4a255d3eb0ac6",
+     "bytes": 24412
+    },
+    {
+     "width": 720,
+     "height": 1079,
+     "url": "assets/media/kuliner-01-720.webp",
+     "sha256": "de29c0ed05f760a67044bd6092a98318a88de1ba0f3ba0faf01a3fd93731dd5c",
+     "bytes": 63522
+    },
+    {
+     "width": 736,
+     "height": 1103,
+     "url": "assets/media/kuliner-01-736.webp",
+     "sha256": "c924052540de126c4aff0212810f5b0f58149f00aff2fe7ea0c9dd1dcc0b4add",
+     "bytes": 65952
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.018.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Kotak dimsum merah-putih di atas podium krem dengan latar gelap",
+   "stem": "kuliner-02",
+   "sha256_source": "07d725d2e29d35fed65ff5a4630e00430af8cdc749e7ec9ada503a506d32bc6f",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-02-360.webp",
+     "sha256": "4c9c069c86d513b6e0cc9c298effe5e5d5561cc8bd405d8fdf86d26a96216f57",
+     "bytes": 15278
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-02-720.webp",
+     "sha256": "f918c6d5c69391ebe08cdca14e55f9f64a9ea22277758b6d4a4f979ab7ebe03d",
+     "bytes": 39098
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-02-896.webp",
+     "sha256": "f241b83820cd9122950259e35c43ab4d2b06535972dd7481b99862516c8034c9",
+     "bytes": 52418
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.07.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Dimsum dalam kukusan bambu di meja kayu",
+   "stem": "kuliner-03",
+   "sha256_source": "093d72bdcc1cd56b8149694ad37d952e584a99321255114ada1ff9dc8017f1fb",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-03-360.webp",
+     "sha256": "90f1d50e35412aa348b5fa26eb80770876d0d3b63de731527e70e958581e8218",
+     "bytes": 31986
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-03-720.webp",
+     "sha256": "5db159708c4ea3783482a63c9dd6b88f9b95d897c78a0f530f7a58787e0bf997",
+     "bytes": 91670
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-03-896.webp",
+     "sha256": "a8c1d2ab32551c434d10e212e1303ad69a7c11cc2eaf043ae7c214226d8736a9",
+     "bytes": 128182
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.08.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Dimsum di atas wadah merah dengan latar hitam",
+   "stem": "kuliner-04",
+   "sha256_source": "2f396ccd9300e6e52e1e3cd49022f48c62b854f5f7084c16527dd18b93ab2b11",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-04-360.webp",
+     "sha256": "82bcf868e90689ee11e9020319b6f187899e28f0e9989fd6dc7cb50899fa047d",
+     "bytes": 19070
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-04-720.webp",
+     "sha256": "63ba948141d2ae1fc4905c64e8859344fc87f8db24d7bdbb4c7bd379a27c0c53",
+     "bytes": 51766
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-04-896.webp",
+     "sha256": "5d5832bf4e78f9c97ef1f129b74a4dba06a21b0b3830c32ca714285b016b7f6e",
+     "bytes": 72148
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.09.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Kemasan dimsum merah-putih terbuka di latar putih, dengan sumpit dan saus",
+   "stem": "kuliner-05",
+   "sha256_source": "ebd809ed965d893233472a1ebc5f7f7093ea5c0b7fe6881b105355702bd90db5",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-05-360.webp",
+     "sha256": "dbe77821c1d55a9957693060cdd1cf4d0b3fd407a4d30df91b75fcb650b0c8ff",
+     "bytes": 12926
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-05-720.webp",
+     "sha256": "898ada9f7b541a56f854e75b01521a9547a80df4ab467a4e4d50b78ec10adbd4",
+     "bytes": 32160
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-05-896.webp",
+     "sha256": "5ecc754159ca486844d97f81a3dd3c31e37823f18b4a7bdf1ba7e65bcdf738a2",
+     "bytes": 43374
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.091.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Kotak dimsum merah-putih dengan latar dua warna merah dan putih",
+   "stem": "kuliner-06",
+   "sha256_source": "2d2bb20ea9d8d66b0287e6c1c5d240122e011ac6278c2874041a9aaf1d33fa09",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-06-360.webp",
+     "sha256": "04fb42e8bfc2244c2bf5935f0c253ac01505c9469a0f9376e78c6e0766984313",
+     "bytes": 10714
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-06-720.webp",
+     "sha256": "53e2855a32381473761ea981a5a171540649750244617563e32c65a1317ab6b3",
+     "bytes": 27294
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-06-896.webp",
+     "sha256": "f6d06bb7e5c0f1cabf88141ef7ff21df36f3fce231c98d0044a82e5c815cc254",
+     "bytes": 37278
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.09A.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Kotak dimsum terbuka di atas meja kayu dengan kukusan bambu",
+   "stem": "kuliner-07",
+   "sha256_source": "1abeee029ab7af85a7ce012a0c69e92b123ea4ad94c63e0ee5e5ddf61903f198",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-07-360.webp",
+     "sha256": "7efc0c06c11781dd3c16bb20541eeff59be379222d3a786bb68ba36be77391d2",
+     "bytes": 34278
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-07-720.webp",
+     "sha256": "299ecd23f28a078a14ac08d56154698b099e145235e0c3e62a0525a66987b3ba",
+     "bytes": 92134
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-07-896.webp",
+     "sha256": "52f9acf98aba42015c4ca9f4e1324051e20c671f74a0821ebdd8e0255dfec5f0",
+     "bytes": 127930
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.10.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Kemasan dimsum terbuka, sumpit, dan saus di atas bidang merah",
+   "stem": "kuliner-08",
+   "sha256_source": "2153c5e30d85ecfe9ff981f50250a72745f35b5710884283c5f4db6a6a3c12ba",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-08-360.webp",
+     "sha256": "4b6e93c089b07426262cddffea002244baa99770adf87e6a8b6196e9dd73ed41",
+     "bytes": 27864
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-08-720.webp",
+     "sha256": "3030cb8d871053eb110fbe467d8fae6e01abcbcc22491db85a77f68f559741aa",
+     "bytes": 72034
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-08-896.webp",
+     "sha256": "815fee73c8d63cf851853c2a40ef521b405656acd4bd74502493abdcb53d449c",
+     "bytes": 97748
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.121.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Lima dimsum di piring putih dengan latar merah",
+   "stem": "kuliner-09",
+   "sha256_source": "d52075ae1c1d8d6711bebc5a7498092dc9363136ea41d00b8e056311ba3c015e",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-09-360.webp",
+     "sha256": "48715e5ece64cef0a418f9a0457bd166aebee1f3178b970c8cdb222a0b083257",
+     "bytes": 10302
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-09-720.webp",
+     "sha256": "ebc847c60328ff62859882f8701fae7fc724385930e38234bd1d157cbdaf78ce",
+     "bytes": 27338
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-09-896.webp",
+     "sha256": "3d7fcfa5d6916141793881668a7ed52d8925da85e912531a43dba3456bf074fd",
+     "bytes": 39248
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.13R.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Dimsum di dalam wadah merah pada latar kuning krem",
+   "stem": "kuliner-10",
+   "sha256_source": "5bd37b67fb309181be151c32068c22b8c923d31fe5e20dbf7fd29c645a3d7e46",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-10-360.webp",
+     "sha256": "105538288572909e9a01594a3cdb88022006eee9b75f16cb83b8e443818bb47d",
+     "bytes": 10130
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-10-720.webp",
+     "sha256": "1081fec5eed78a574e2290c6b82865afeb1718dab679cc1dd6c9125b58f1fd4d",
+     "bytes": 26292
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-10-896.webp",
+     "sha256": "254b7306e3c900dcba4400e17ce36db7877b92c06e541af96a9daf5d76b6ad4c",
+     "bytes": 36642
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.141.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Tangan mengangkat dimsum memakai sumpit dari wadah merah",
+   "stem": "kuliner-11",
+   "sha256_source": "73a3712e7fcdc008eb737e1b719f9affcdaeb102affa40de684f18ed844a4323",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-11-360.webp",
+     "sha256": "62af63ced40d52bfc76dd9eb8ef3c2bd87fa6a8eb8d91dc6f73a62a075a2b54b",
+     "bytes": 17202
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-11-720.webp",
+     "sha256": "20d5b098e52093645a557ff7101a07bc34365033ab73a61168add6d75e79b73f",
+     "bytes": 42644
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-11-896.webp",
+     "sha256": "bf48d29211c7bdd63bcfcaec816b2b59266011b0c274d83faf3982bc6fc347a0",
+     "bytes": 57872
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.151.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Sumpit mencelupkan dimsum ke dalam mangkuk saus",
+   "stem": "kuliner-12",
+   "sha256_source": "c8e920f180c57b82a19cc0c6c538e1379865bfd5e7d8db4163770d21380d0eea",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-12-360.webp",
+     "sha256": "a2946f4c62da45f92a6bb5cf191cd2452a216ff46592dc4bcd018f61c236e7b5",
+     "bytes": 27600
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-12-720.webp",
+     "sha256": "6fa66fe22b15d545adac36b53e2a65ba6f940d116133f5f75a9fabbca443024c",
+     "bytes": 71686
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-12-896.webp",
+     "sha256": "ed22091236f129aa1236c09b65bb1420f096f123e155bff0e98a15dbaeaa1403",
+     "bytes": 97960
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.1A0.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Kemasan dimsum merah-putih di atas latar krem hangat",
+   "stem": "kuliner-13",
+   "sha256_source": "64c5db73cb3f5dbeb17c0ae32d24525a37a6b212ce2da27353dc91317d715eb4",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-13-360.webp",
+     "sha256": "7fd46ee97b3210ae200ce4f8604175734c4a34b79d8a8bc4859ada2777872f5e",
+     "bytes": 20096
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-13-720.webp",
+     "sha256": "00fae46f4b5ebf48dabc4ce2ea47b7bd9b336b733501ee81b5221826db7dfe69",
+     "bytes": 59208
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-13-896.webp",
+     "sha256": "2d31a1606b2b6a3bab64e6188fb8ae18990ed677bdb3bda0f4cb4f4421911d51",
+     "bytes": 92326
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.1E2.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Dimsum, kukusan, saus, dan sumpit dalam komposisi merah-putih",
+   "stem": "kuliner-14",
+   "sha256_source": "9d32a98112a00ae3badef9f1f987a87ae5041b425903a385095b8362c799920c",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-14-360.webp",
+     "sha256": "ee3d01cbd5db4cf1710d2704e86217e40bbe94491b4f270c70921cb07ce3133b",
+     "bytes": 36340
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-14-720.webp",
+     "sha256": "ec782b36f25b1fe01b311bc10e6b048d4d5cf230a0605810ef779baaf1e012b1",
+     "bytes": 109260
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-14-896.webp",
+     "sha256": "3226b9647c9cdb379e866c6938e509299ef323814a0ea8b91cc1e60bcb9e399d",
+     "bytes": 157468
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.1Q0.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Tampilan dekat tekstur dimsum di atas kukusan bambu",
+   "stem": "kuliner-15",
+   "sha256_source": "cc555c034d123327235ecfa63d3f80609dea90d605d4dc682234dee4874069bd",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-15-360.webp",
+     "sha256": "d3cb676b21b9f7e99da7310930a12e0c89cd37c20ed82dd858be0dcbe7c9d0ab",
+     "bytes": 22376
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-15-720.webp",
+     "sha256": "50f2d95debbfe9a305d16b000ad9b8b2fd2670933df5354bf3d4c809c2d26de4",
+     "bytes": 59516
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-15-896.webp",
+     "sha256": "2daaa7fb777b087c4aba42be0368bc5f72a02f9d9d86d51357860cdc6c91b44f",
+     "bytes": 82602
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "path": "GAMBAR 2/WhatsApp Image 2026-11-15 at 17.28.1X2.jpeg",
+   "width": 896,
+   "height": 1200,
+   "alt": "Sembilan dimsum tersusun rapi di atas latar putih",
+   "stem": "kuliner-16",
+   "sha256_source": "a40f61d5b012fd8ccfd69a70efacbb637c8569dcc77dbd6d9ff8fe92428de97b",
+   "variants": [
+    {
+     "width": 360,
+     "height": 482,
+     "url": "assets/media/kuliner-16-360.webp",
+     "sha256": "47ae926841807dde0b379458976fc7e7de153d5c887975b939141e9e9bb17cf7",
+     "bytes": 16218
+    },
+    {
+     "width": 720,
+     "height": 964,
+     "url": "assets/media/kuliner-16-720.webp",
+     "sha256": "84fdf1f403b5850a3ea37b1edbee89ea41133493c036016fcbd55eb230063ed6",
+     "bytes": 45648
+    },
+    {
+     "width": 896,
+     "height": 1200,
+     "url": "assets/media/kuliner-16-896.webp",
+     "sha256": "9d12df9a2e3ada8742e801a9e39f7302983c083d04118f7fb16db72f92e0e5f2",
+     "bytes": 65388
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "id": 1,
+   "path": "VIDEO 1/WhatsApp Video 2026-11-15 at 14.12.31.mp4",
+   "streams": [
+    {
+     "index": 0,
+     "codec_name": "h264",
+     "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+     "profile": "High",
+     "codec_type": "video",
+     "codec_tag_string": "avc1",
+     "codec_tag": "0x31637661",
+     "width": 480,
+     "height": 854,
+     "coded_width": 480,
+     "coded_height": 854,
+     "closed_captions": 0,
+     "film_grain": 0,
+     "has_b_frames": 0,
+     "pix_fmt": "yuv420p",
+     "level": 31,
+     "color_range": "tv",
+     "color_space": "smpte170m",
+     "color_transfer": "smpte170m",
+     "color_primaries": "bt470bg",
+     "chroma_location": "left",
+     "field_order": "progressive",
+     "refs": 1,
+     "is_avc": "true",
+     "nal_length_size": "4",
+     "id": "0x1",
+     "r_frame_rate": "24/1",
+     "avg_frame_rate": "24/1",
+     "time_base": "1/90000",
+     "start_pts": 0,
+     "start_time": "0.000000",
+     "duration_ts": 900000,
+     "duration": "10.000000",
+     "bit_rate": "1841095",
+     "bits_per_raw_sample": "8",
+     "nb_frames": "240",
+     "extradata_size": 38,
+     "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+     },
+     "tags": {
+      "language": "und",
+      "vendor_id": "[0][0][0][0]"
+     }
+    },
+    {
+     "index": 1,
+     "codec_name": "aac",
+     "codec_long_name": "AAC (Advanced Audio Coding)",
+     "profile": "LC",
+     "codec_type": "audio",
+     "codec_tag_string": "mp4a",
+     "codec_tag": "0x6134706d",
+     "sample_fmt": "fltp",
+     "sample_rate": "48000",
+     "channels": 2,
+     "channel_layout": "stereo",
+     "bits_per_sample": 0,
+     "initial_padding": 0,
+     "id": "0x2",
+     "r_frame_rate": "0/0",
+     "avg_frame_rate": "0/0",
+     "time_base": "1/48000",
+     "start_pts": 0,
+     "start_time": "0.000000",
+     "duration_ts": 479232,
+     "duration": "9.984000",
+     "bit_rate": "139946",
+     "nb_frames": "468",
+     "extradata_size": 2,
+     "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+     },
+     "tags": {
+      "language": "und",
+      "vendor_id": "[0][0][0][0]"
+     }
+    }
+   ],
+   "format": {
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "10.000000",
+    "size": "2480926",
+    "bit_rate": "1984740",
+    "probe_score": 100,
+    "tags": {
+     "major_brand": "mp42",
+     "minor_version": "0",
+     "compatible_brands": "mp42isom"
+    }
+   },
+   "website_url": "assets/media/affiliate-01.mp4",
+   "poster": "assets/media/affiliate-01-poster.jpg",
+   "sha256": "be4f176ed27bd07a5019bd52ae281d5d7356929f6cfd0c719bb1ffc7f90c0728",
+   "title": "Kosmetik · momen pemakaian",
+   "description": "Tampilan lip gloss saat dipakai, detail warna pada bibir, dan produk di tangan.",
+   "caption": {
+    "website_url": "assets/media/affiliate-01.id.vtt",
+    "sha256": "34be3ab50ea30710c574d02c6cbb1bb1125ce0890953dcecc9df430180c571ec",
+    "language": "id",
+    "cues": 5,
+    "transcript": "Makeup udah rapi, tapi bibirnya flat banget? Layer di atas lipstikmu. Langsung plumpy, nggak lengket, warnanya intense. Cocok semua tone kulit. Shade incaran keburu habis, amankan sekarang!",
+    "method": "Transkripsi mesin Whisper small + medium (sherpa-onnx), pewaktuan dari lembah energi audio. Belum dikoreksi pendengar manusia."
+   },
+   "audio": {
+    "speech": true,
+    "language": "id",
+    "mean_volume_db": null
+   }
+  },
+  {
+   "id": 2,
+   "path": "VIDEO 1/WhatsApp Video 2026-11-15 at 14.12.33.mp4",
+   "streams": [
+    {
+     "index": 0,
+     "codec_name": "h264",
+     "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+     "profile": "High",
+     "codec_type": "video",
+     "codec_tag_string": "avc1",
+     "codec_tag": "0x31637661",
+     "width": 480,
+     "height": 854,
+     "coded_width": 480,
+     "coded_height": 854,
+     "closed_captions": 0,
+     "film_grain": 0,
+     "has_b_frames": 0,
+     "pix_fmt": "yuv420p",
+     "level": 31,
+     "color_range": "tv",
+     "color_space": "smpte170m",
+     "color_transfer": "smpte170m",
+     "color_primaries": "bt470bg",
+     "chroma_location": "left",
+     "field_order": "progressive",
+     "refs": 1,
+     "is_avc": "true",
+     "nal_length_size": "4",
+     "id": "0x1",
+     "r_frame_rate": "24/1",
+     "avg_frame_rate": "24/1",
+     "time_base": "1/90000",
+     "start_pts": 0,
+     "start_time": "0.000000",
+     "duration_ts": 900000,
+     "duration": "10.000000",
+     "bit_rate": "1798360",
+     "bits_per_raw_sample": "8",
+     "nb_frames": "240",
+     "extradata_size": 38,
+     "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+     },
+     "tags": {
+      "language": "und",
+      "vendor_id": "[0][0][0][0]"
+     }
+    },
+    {
+     "index": 1,
+     "codec_name": "aac",
+     "codec_long_name": "AAC (Advanced Audio Coding)",
+     "profile": "LC",
+     "codec_type": "audio",
+     "codec_tag_string": "mp4a",
+     "codec_tag": "0x6134706d",
+     "sample_fmt": "fltp",
+     "sample_rate": "48000",
+     "channels": 2,
+     "channel_layout": "stereo",
+     "bits_per_sample": 0,
+     "initial_padding": 0,
+     "id": "0x2",
+     "r_frame_rate": "0/0",
+     "avg_frame_rate": "0/0",
+     "time_base": "1/48000",
+     "start_pts": 0,
+     "start_time": "0.000000",
+     "duration_ts": 479232,
+     "duration": "9.984000",
+     "bit_rate": "139875",
+     "nb_frames": "468",
+     "extradata_size": 2,
+     "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+     },
+     "tags": {
+      "language": "und",
+      "vendor_id": "[0][0][0][0]"
+     }
+    }
+   ],
+   "format": {
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "10.000000",
+    "size": "2427418",
+    "bit_rate": "1941934",
+    "probe_score": 100,
+    "tags": {
+     "major_brand": "mp42",
+     "minor_version": "0",
+     "compatible_brands": "mp42isom"
+    }
+   },
+   "website_url": "assets/media/affiliate-02.mp4",
+   "poster": "assets/media/affiliate-02-poster.jpg",
+   "sha256": "f0d63ef7870c57bc60c0eeb6057235a1dfd61ec0eb43127b864198a5b51f47fb",
+   "title": "Aksesori · dekat dengan keseharian",
+   "description": "Helm anak diperlihatkan saat dikenakan, dengan tampilan dekat bagian depannya.",
+   "caption": {
+    "website_url": "assets/media/affiliate-02.id.vtt",
+    "sha256": "bb8867aa1584118d5c39ba9ce0a250842843c765b57779916ca337d6c8b7af72",
+    "language": "id",
+    "cues": 5,
+    "transcript": "Anak ogah pakai helm? Coba yang ini. Gayanya retro, busanya empuk, kacanya bening full. Usia 4–12 tahun. Warna krem incaran, checkout sebelum kehabisan.",
+    "method": "Transkripsi mesin Whisper small + medium (sherpa-onnx), pewaktuan dari lembah energi audio. Belum dikoreksi pendengar manusia."
+   },
+   "audio": {
+    "speech": true,
+    "language": "id",
+    "mean_volume_db": null
+   }
+  },
+  {
+   "id": 3,
+   "path": "VIDEO 1/WhatsApp Video 2026-11-15 at 14.12.39.mp4",
+   "streams": [
+    {
+     "index": 0,
+     "codec_name": "h264",
+     "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+     "profile": "High",
+     "codec_type": "video",
+     "codec_tag_string": "avc1",
+     "codec_tag": "0x31637661",
+     "width": 480,
+     "height": 854,
+     "coded_width": 480,
+     "coded_height": 854,
+     "closed_captions": 0,
+     "film_grain": 0,
+     "has_b_frames": 0,
+     "pix_fmt": "yuv420p",
+     "level": 31,
+     "color_range": "tv",
+     "color_space": "smpte170m",
+     "color_transfer": "smpte170m",
+     "color_primaries": "bt470bg",
+     "chroma_location": "left",
+     "field_order": "progressive",
+     "refs": 1,
+     "is_avc": "true",
+     "nal_length_size": "4",
+     "id": "0x1",
+     "r_frame_rate": "24/1",
+     "avg_frame_rate": "24/1",
+     "time_base": "1/90000",
+     "start_pts": 0,
+     "start_time": "0.000000",
+     "duration_ts": 900000,
+     "duration": "10.000000",
+     "bit_rate": "1831827",
+     "bits_per_raw_sample": "8",
+     "nb_frames": "240",
+     "extradata_size": 38,
+     "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+     },
+     "tags": {
+      "language": "und",
+      "vendor_id": "[0][0][0][0]"
+     }
+    },
+    {
+     "index": 1,
+     "codec_name": "aac",
+     "codec_long_name": "AAC (Advanced Audio Coding)",
+     "profile": "LC",
+     "codec_type": "audio",
+     "codec_tag_string": "mp4a",
+     "codec_tag": "0x6134706d",
+     "sample_fmt": "fltp",
+     "sample_rate": "48000",
+     "channels": 2,
+     "channel_layout": "stereo",
+     "bits_per_sample": 0,
+     "initial_padding": 0,
+     "id": "0x2",
+     "r_frame_rate": "0/0",
+     "avg_frame_rate": "0/0",
+     "time_base": "1/48000",
+     "start_pts": 0,
+     "start_time": "0.000000",
+     "duration_ts": 479232,
+     "duration": "9.984000",
+     "bit_rate": "139894",
+     "nb_frames": "468",
+     "extradata_size": 2,
+     "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+     },
+     "tags": {
+      "language": "und",
+      "vendor_id": "[0][0][0][0]"
+     }
+    }
+   ],
+   "format": {
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "10.000000",
+    "size": "2469276",
+    "bit_rate": "1975420",
+    "probe_score": 100,
+    "tags": {
+     "major_brand": "mp42",
+     "minor_version": "0",
+     "compatible_brands": "mp42isom"
+    }
+   },
+   "website_url": "assets/media/affiliate-03.mp4",
+   "poster": "assets/media/affiliate-03-poster.jpg",
+   "sha256": "009377fbdb786aa5a5afd23c4e270fd02b3031cd8a25c0f1bad624de53199348",
+   "title": "Aksesori · cerita keluarga",
+   "description": "Helm anak hadir dalam cerita singkat bersiap berangkat bersama keluarga.",
+   "caption": {
+    "website_url": "assets/media/affiliate-03.id.vtt",
+    "sha256": "6bea2bdb9c8672a07892ef23f84824badff5809041e2cd637a4ff5c727be3434",
+    "language": "id",
+    "cues": 5,
+    "transcript": "Telat sekolah gara-gara drama helm? Stop! Helm retro krem bikin anak semangat berangkat. Busa plus, usia 4–12 tahun. Warna incaran, checkout sebelum kehabisan.",
+    "method": "Transkripsi mesin Whisper small + medium (sherpa-onnx), pewaktuan dari lembah energi audio. Belum dikoreksi pendengar manusia."
+   },
+   "audio": {
+    "speech": true,
+    "language": "id",
+    "mean_volume_db": null
+   }
+  },
+  {
+   "id": 4,
+   "path": "VIDEO 1/WhatsApp Video 2026-11-15 at 14.12.40.mp4",
+   "streams": [
+    {
+     "index": 0,
+     "codec_name": "h264",
+     "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+     "profile": "High",
+     "codec_type": "video",
+     "codec_tag_string": "avc1",
+     "codec_tag": "0x31637661",
+     "width": 480,
+     "height": 854,
+     "coded_width": 480,
+     "coded_height": 854,
+     "closed_captions": 0,
+     "film_grain": 0,
+     "has_b_frames": 0,
+     "pix_fmt": "yuv420p",
+     "level": 31,
+     "color_range": "tv",
+     "color_space": "smpte170m",
+     "color_transfer": "smpte170m",
+     "color_primaries": "bt470bg",
+     "chroma_location": "left",
+     "field_order": "progressive",
+     "refs": 1,
+     "is_avc": "true",
+     "nal_length_size": "4",
+     "id": "0x1",
+     "r_frame_rate": "24/1",
+     "avg_frame_rate": "24/1",
+     "time_base": "1/90000",
+     "start_pts": 0,
+     "start_time": "0.000000",
+     "duration_ts": 900000,
+     "duration": "10.000000",
+     "bit_rate": "1817765",
+     "bits_per_raw_sample": "8",
+     "nb_frames": "240",
+     "extradata_size": 38,
+     "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+     },
+     "tags": {
+      "language": "und",
+      "vendor_id": "[0][0][0][0]"
+     }
+    },
+    {
+     "index": 1,
+     "codec_name": "aac",
+     "codec_long_name": "AAC (Advanced Audio Coding)",
+     "profile": "LC",
+     "codec_type": "audio",
+     "codec_tag_string": "mp4a",
+     "codec_tag": "0x6134706d",
+     "sample_fmt": "fltp",
+     "sample_rate": "48000",
+     "channels": 2,
+     "channel_layout": "stereo",
+     "bits_per_sample": 0,
+     "initial_padding": 0,
+     "id": "0x2",
+     "r_frame_rate": "0/0",
+     "avg_frame_rate": "0/0",
+     "time_base": "1/48000",
+     "start_pts": 0,
+     "start_time": "0.000000",
+     "duration_ts": 479232,
+     "duration": "9.984000",
+     "bit_rate": "139844",
+     "nb_frames": "468",
+     "extradata_size": 2,
+     "disposition": {
+      "default": 1,
+      "dub": 0,
+      "original": 0,
+      "comment": 0,
+      "lyrics": 0,
+      "karaoke": 0,
+      "forced": 0,
+      "hearing_impaired": 0,
+      "visual_impaired": 0,
+      "clean_effects": 0,
+      "attached_pic": 0,
+      "timed_thumbnails": 0,
+      "non_diegetic": 0,
+      "captions": 0,
+      "descriptions": 0,
+      "metadata": 0,
+      "dependent": 0,
+      "still_image": 0,
+      "multilayer": 0
+     },
+     "tags": {
+      "language": "und",
+      "vendor_id": "[0][0][0][0]"
+     }
+    }
+   ],
+   "format": {
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "10.000000",
+    "size": "2451637",
+    "bit_rate": "1961309",
+    "probe_score": 100,
+    "tags": {
+     "major_brand": "mp42",
+     "minor_version": "0",
+     "compatible_brands": "mp42isom"
+    }
+   },
+   "website_url": "assets/media/affiliate-04.mp4",
+   "poster": "assets/media/affiliate-04-poster.jpg",
+   "sha256": "c404f98b5dccb65e9e962825e2dae9db673702d1d36e0680067a95956ac4d734",
+   "title": "Kosmetik · detail yang menarik",
+   "description": "Wajah, kemasan, aplikator, dan hasil pemakaian lip gloss ditampilkan bergantian.",
+   "caption": {
+    "website_url": "assets/media/affiliate-04.id.vtt",
+    "sha256": "a0da8342ca376ccaa1687f8554b1fe031a2a839da2b7aa18d0cfb5858b2f6599",
+    "language": "id",
+    "cues": 6,
+    "transcript": "Bibir kering pas difoto? Tahan! Ini Maybelline Lifter Gloss, ada hyaluronic acid. Sekali oles terasa lembap dan glossy. Ada 6 shade. Checkout sebelum shade incaranmu kehabisan.",
+    "method": "Transkripsi mesin Whisper small + medium (sherpa-onnx), pewaktuan dari lembah energi audio. Belum dikoreksi pendengar manusia."
+   },
+   "audio": {
+    "speech": true,
+    "language": "id",
+    "mean_volume_db": null
+   }
+  }
+ ]
+}

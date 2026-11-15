@@ -1,0 +1,16 @@
+{
+  "version": "1.4.0",
+  "site_url": null,
+  "registration_url": null,
+  "login_url": null,
+  "account_requires_login": null,
+  "official_hosts": [],
+  "gates": {
+    "account_flow_verified": {"status": false, "evidence": null, "verified_by": null, "date": null},
+    "audio_review_completed": {"status": false, "evidence": null, "verified_by": null, "date": null},
+    "media_publication_approved": {"status": false, "evidence": null, "verified_by": null, "date": null},
+    "product_claims_verified": {"status": false, "evidence": null, "verified_by": null, "date": null},
+    "public_release_approved": {"status": false, "evidence": null, "verified_by": null, "date": null}
+  },
+  "note": "Isi hanya URL layanan akun nyata milik proyek. Tidak ada backend, auth, atau mesin produk dalam source. Gerbang hanya boleh true bila 'evidence' menunjuk berkas nyata di bukti/rilis/. Lihat konfigurasi/PANDUAN_KONFIGURASI.md."
+}
